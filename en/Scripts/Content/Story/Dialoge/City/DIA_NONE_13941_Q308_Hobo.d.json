@@ -1,0 +1,13 @@
+﻿{
+  "DIA_Q308_Hobo_SQ305_NeedPotion_03_01": "Forgive me for interrupting, but I heard through the open window that you were looking for a certain potion.",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_Yes_15_01": "Yes, I need a potion for digestion.",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_Yes_03_02": "That's great to hear!",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_Yes_03_03": "Some time ago my friends and I bought it from this here alchemist.",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_Yes_03_04": "Turns out we don't need it so we're happy to give it back to you for a few gold coins.",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_Yes_03_05": "What's it gonna be?",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_No_15_01": "I don't have time right now...",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_No_03_02": "No means no, shame.",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_Give_15_01": "Give me that potion.",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_Give_03_02": "You won't regret it, it's a great potion! Truly, it can work wonders!",
+  "DIA_Q308_Hobo_SQ305_NeedPotion_Yes_Give_Choice": "Give me that potion. (Pay 100 GP)"
+}

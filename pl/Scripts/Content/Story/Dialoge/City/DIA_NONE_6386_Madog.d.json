@@ -1,0 +1,22 @@
+﻿{
+  "DIA_Madog_FIRSTWARN_03_01": "A ty, dokąd się wybierasz?",
+  "DIA_Madog_FIRSTWARN_15_02": "Muszę porozmawiać z Volkerem.",
+  "DIA_Madog_FIRSTWARN_03_03": "Szef jest zajęty.",
+  "DIA_Madog_FIRSTWARN_15_04": "Posłuchaj, przydzielono mnie do rozwiązania śledztwa, w sprawie zamachu na jego życie.",
+  "DIA_Madog_FIRSTWARN_03_05": "Głuchy czy idiota?",
+  "DIA_Madog_FIRSTWARN_03_06": "Nikt tędy nie przejdzie.",
+  "DIA_Madog_FIRSTWARN_Pass_15_01": "Z rozkazu Rodericha, masz mnie w tej chwili przepuścić!",
+  "DIA_Madog_FIRSTWARN_Pass_15_02": "Jeśli nie chcesz mieć na pieńku z Gildią, przesuniesz się, grzecznie i po dobroci.",
+  "DIA_Madog_FIRSTWARN_Pass_03_03": "A ty, jeśli chcesz zachować łeb w całości, zaraz się stąd odsuniesz.",
+  "DIA_Madog_FIRSTWARN_Inside_15_01": "Twój szef jest w środku?",
+  "DIA_Madog_FIRSTWARN_Inside_03_02": "Może jest, może nie jest.",
+  "DIA_Madog_FIRSTWARN_Inside_03_03": "Nawet jakby był, to i tak nie będzie miał dla ciebie czasu.",
+  "DIA_Madog_SECONDWARN_03_01": "Ani myślę się powtarzać. Spieprzaj stąd, knypku!",
+  "DIA_Madog_Q308SeeBoss_15_01": "Czy teraz mogę zobaczyć się z twoim szefem?",
+  "DIA_Madog_Q308SeeBoss_03_02": "O tym zadecyduje Bradlock. Znajdziesz go w korytarzu.",
+  "DIA_Madog_Q308_Blood_03_01": "Skoro podobno to ty zajmujesz się tym śledztwem, to może zacznij od tej cholernej krwi na ścianie.",
+  "DIA_Madog_Q308_Blood_03_02": "Przy naszej pogodzie śmierdzi tak, że pilnować drzwi się nie da, tak żeby człowieka przypadkiem, no nie ciągnęło.",
+  "DIA_Madog_Q308_Blood_03_03": "Przynajmniej ogrodnik będzie mógł już spokojnie wyszorować całą ścianę na czysto.",
+  "DIA_Madog_FIRSTWARN_Bye_Choice": "(Odejdź)",
+  "DIA_Madog_FIRSTWARN_Pass_Choice": "Przepuść mnie, natychmiast!"
+}

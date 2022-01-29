@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Sigund_QA304_StopRightThere_03_01": "Stop! What are you doing here? I saw everything! You brought those crates all the way from the docks and left them in this warehouse.",
+  "DIA_Sigund_QA304_StopRightThere_03_02": "Tell me right now what the cargo is and if you have the proper permits.",
+  "DIA_Sigund_QA304_StopRightThere_Duster_15_01": "Where's Duster?",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_02": "He's gotten ill and can't get more than a metre away from the privy. Believe me, I'm not happy about the extra duties myself!",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_03": "Why are you asking about him? Were you expecting him? Do you have a deal?! Talk!",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_15_01": "Maybe we can work something out. I suppose wandering around town at night isn't exactly your thing. Perhaps we could pay off a short visit at the inn for you?",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_03_02": "A guard on duty has a duty to be sober! Don't think you can just dismiss me!",
+  "DIA_Sigund_QA304_StopRightThere_Stun_15_01": "Am I mistaken or is that a fire?",
+  "DIA_Sigund_QA304_StopRightThere_Stun_03_02": "What?",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_01": "Move the oil.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_02": "You probably know that it can't be exposed to sunlight, so we deal with it at night. During the day it would get exposed and lose its properties.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_03": "Yeah, sure I know, but it smells pretty pungent for an oil.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_04": "That's because it's unexposed. That way it will burn better.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_05": "Yeah, sure. Okay, you can keep working.",
+  "DIA_Sigund_QA304_StopRightThere_Gold_15_01": "So be it. For the glory of the fatherland!",
+  "DIA_Sigund_Hello_03_01": "And what can I do as a guard? Patrols, watches, dealing with rude citizens.",
+  "DIA_Sigund_Ambient_03_01": "Like on duty, nothing interesting.",
+  "DIA_Sigund_Ambient_03_02": "Good. I hope I never again have to deal with people lugging boxes somewhere at night.",
+  "DIA_Sigund_QA304_StopRightThere_Stun_Choice": "Is it my imagination, or is that fire? (Knock out)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Choice": "Maybe we can work something out? (Bribe)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Gold_Choice": "So be it. For the glory of the fatherland! (Give 50 GP)"
+}

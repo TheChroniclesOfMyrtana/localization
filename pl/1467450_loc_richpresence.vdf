@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"polish"
+	"Tokens"
+	{
+		"#Status_InMenu"	"W menu głównym"
+		"#Status_InGame"	"{#Status_Guild_%guild%} - Poziom %level% - Rozdział %chapter%"
+		"#Status_Guild_None"	"Brak przyn."
+		"#Status_Guild_Citizen"	"Obywatel"
+		"#Status_Guild_WaterCircle"	"Wodny Krąg"
+		"#Status_Guild_Runner"	"Goniec"
+		"#Status_Guild_VeteranRunner"	"Starszy Goniec"
+		"#Status_Guild_Mercenary"	"Najemnik"
+		"#Status_Guild_Hunter"	"Łowca"
+		"#Status_Guild_VeteranMercenary"	"Starszy Najemnik"
+		"#Status_Guild_VeteranHunter"	"Starszy Łowca"
+		"#Status_Guild_Militia"	"Strażnik"
+		"#Status_Guild_MilitiaVeteran"	"Starszy Strażnik"
+		"#Status_Guild_Swordsman"	"Szermierz"
+		"#Status_Guild_Crossbowman"	"Kusznik"
+		"#Status_Guild_VeteranSwordsman"	"Starszy Szermierz"
+		"#Status_Guild_VeteranCrossbowman"	"Starszy Kusznik"
+	}
+}

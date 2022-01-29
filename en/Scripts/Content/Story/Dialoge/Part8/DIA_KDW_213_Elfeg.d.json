@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Elfeg_Hello_03_01": "What brings you to us, young man?",
+  "DIA_Elfeg_Hello_Exit_15_01": "Nothing...",
+  "DIA_Elfeg_Hello_03_02": "Yeah? Anything you need?",
+  "DIA_Elfeg_Hello_Exit_03_02": "Then leave in peace.",
+  "DIA_Elfeg_Hello_Jorn_03_02": "Unfortunately, this is the first I've heard of it. For a long time the community of the monastery has been closed to outside affairs and even such news does not reach here.",
+  "DIA_Elfeg_Hello_Jorn_03_03": "Try asking around town, I'm sure someone there can help you.",
+  "DIA_Elfeg_MayIEnter_15_01": "Can I enter the monastery?",
+  "DIA_Elfeg_MayIEnter_03_01": "No, the Prior has forbidden the entry of strangers. Except for the sick and needy who have nowhere else to go. You don't look like that to me.",
+  "DIA_Elfeg_AboutKloster_03_01": "The monastery has been the home of water mages and novices since time immemorial. It serves us as a place for prayer, work and contemplation.",
+  "DIA_Elfeg_AboutKloster_03_02": "If you like history, I recommend reading about the complex in books. Some of the stories associated with this place are really fascinating!",
+  "DIA_Elfeg_AboutKloster_03_03": "Volfzack knew what he was doing by agreeing to build this place. Without the monastery, Archolos would not be the same!",
+  "DIA_Elfeg_AboutWaterMages_03_01": "You probably already know this, but we are priests of Adanos, guardians of balance and caretakers of the sick.",
+  "DIA_Elfeg_AboutWaterMages_03_02": "Since the Prior has ordered our isolation in the monastery, we are no longer free to leave this island and help those in need throughout Archolos.",
+  "DIA_Elfeg_AboutWaterMages_03_03": "Only a select few mages serve outside these walls. Most of them stay in the city.",
+  "DIA_Elfeg_Ambient_03_01": "Peace and quiet. I have plenty of time for contemplation here, which can be both beautiful and infuriating.",
+  "DIA_Elfeg_Ambient_03_03": "When I think of the current situation on the island, I begin to wonder when the Prior will finally allow us to go among the people to give them aid.",
+  "DIA_Elfeg_LetMeOut_15_01": "Could you let me out?",
+  "DIA_Elfeg_Hello_Jorn_Choice": "I'm looking for my brother."
+}

@@ -1,0 +1,20 @@
+﻿{
+  "DIA_MARVIN_Q501Potion_15_01": "Cholera! Moje ręce nadal drżą... W takim stanie nie przygotuję mikstury!",
+  "PC_PotionAlchemy_Regenerate_Description": "Mikstury regeneracyjne.",
+  "PC_Mana_Start_Description": "Przygotuj mikstury many.",
+  "PC_Special_Start_Description": "Mikstury trwałe.",
+  "PC_PotionAlchemy_Timed_Description": "Mikstury czasowe.",
+  "PC_PotionAlchemy_Seed_Description": "Mikstury z nasion.",
+  "PC_Health_Start_Description": "Przygotuj mikstury leczenia.",
+  "PC_PotionAlchemy_Other_Description": "Inne.",
+  "PC_PotionAlchemy_Other_Ore_Description": "Rozkrusz bryłkę magicznej rudy.",
+  "PC_PotionAlchemy_Other_Ore_One_Description": "Rozkrusz 1 bryłkę.",
+  "PC_PotionAlchemy_Other_Ore_Five_Description": "Rozkrusz 5 bryłek.",
+  "PC_PotionAlchemy_Other_Ore_Ten_Description": "Rozkrusz 10 bryłek.",
+  "PC_PotionAlchemy_Other_Ore_All_Description": "Rozkrusz wszystkie bryłki.",
+  "PC_Poison_Start_Description": "Przygotuj trutkę.",
+  "PC_Q501Potion_Start_Description": "Przygotuj miksturę mistrza Dagoberta.",
+  "PC_Q307Potion_Start_Description": "Przygotuj truciznę i odtrutkę dla Bena.",
+  "PC_Poison_SQ228_Description": "Trutka na szczury.",
+  "PC_Tabak_Start_Description": "Zmieszaj tytoń i zwiń ziele."
+}

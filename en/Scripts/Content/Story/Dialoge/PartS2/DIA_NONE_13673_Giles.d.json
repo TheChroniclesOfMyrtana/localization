@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Giles_KQ405_Search_15_01": "I hear you know the sewers like the back of your hand.",
+  "DIA_Giles_KQ405_Search_03_02": "Someone needs to be checking the area for nests that could threaten us.",
+  "DIA_Giles_KQ405_Search_15_03": "There's a man's corpse not far from here, did you find anything with it?",
+  "DIA_Giles_KQ405_Search_03_04": "As you've probably noticed, there are some dead bodies here. You need to be more specific.",
+  "DIA_Giles_KQ405_Search_15_05": "The one with its throat slit.",
+  "DIA_Giles_KQ405_Search_03_06": "Yeah. I was looking to see if there was anything with them that we could use.",
+  "DIA_Giles_KQ405_Search_03_07": "Other than the ugliest Innos figurine I've ever seen, he had nothing interesting.",
+  "DIA_Giles_KQ405_Figure_15_01": "Do you still have that statuette?",
+  "DIA_Giles_KQ405_Figure_03_02": "Yes, I thought we would get some gold for it. Unfortunately, it's so badly made that no one wanted to buy it back from me.",
+  "DIA_Giles_KQ405_Figure_03_03": "If you're asking about it, it must be important to you.",
+  "DIA_Giles_KQ405_Figure_03_04": "I can sell it to you for, say... 250 gold pieces.",
+  "DIA_Giles_KQ405_Figure_Give_15_01": "Fine. Put that gold to good use.",
+  "DIA_Giles_KQ405_Figure_Give_03_02": "I will. Maybe we can finally get out of this place. Here's your figurine.",
+  "DIA_Giles_KQ405_Figure_Give_15_03": "It's really ugly. It's time for me to go.",
+  "DIA_Giles_KQ405_Figure_Fight_15_01": "I have a better offer. You give it to me for free, and I won't hurt you.",
+  "DIA_Giles_KQ405_Figure_Fight_03_02": "See how many of us are here? You think you can handle us?",
+  "DIA_Giles_KQ405_Figure_Fight_15_03": "No problem.",
+  "DIA_Giles_KQ405_Figure_Fight_03_04": "You asked for it!",
+  "DIA_Giles_KQ405_GiveGold_Descrption": "I will pay for the figurine. (Give 250 GP)",
+  "DIA_Giles_KQ405_Figure_Give_Choice": "I will pay. (Give 250 GP)",
+  "DIA_Giles_KQ405_Figure_Fight_Choice": "You give it to me for free, and I won't hurt you."
+}

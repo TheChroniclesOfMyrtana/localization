@@ -1,0 +1,19 @@
+﻿{
+  "DIA_WorkerGuard_FIRSTWARN_03_01": "Stój! Nikt nie może zbliżać się do skrzyń!",
+  "DIA_WorkerGuard_SECONDWARN_03_01": "Ogłuchłeś? Mówiłem ci coś, odejdź!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_01": "Przepuść mnie, jestem pracownikiem portu i potrzebuję drewna.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_02": "Niby od kiedy? Wczoraj cię jeszcze tu nie widziałem!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_03": "Nic dziwnego. Dopiero się zatrudniłem.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_04": "A to ciekawe? Zaraz zapytam Dacka czy to prawda!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_05": "O co ci chodzi?",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_06": "O nic! Wydaje mi się, że coś kombinujesz!",
+  "DIA_WorkerGuard_KQ406_OfferMoney_Description": "Może to rozwieje twoje wątpliwości? (Zapłać 100 SZ)",
+  "DIA_WorkerGuard_KQ406_OfferMoney_15_01": "Może to rozwieje twoje wątpliwości?",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_02": "Może i mogłoby. Pod warunkiem, że dorzucisz mi jeszcze zimne piwo.",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_03": "Nie masz pojęcia, jak długo tutaj stoję. Nawet koledze czegoś do picia nie dadzą.",
+  "DIA_WorkerGuard_KQ406_Give_Description": "Trzymaj swoje piwo. (Daj piwo i 100 SZ)",
+  "DIA_WorkerGuard_KQ406_Give_15_01": "Trzymaj swoje piwo.",
+  "DIA_WorkerGuard_KQ406_Give_03_02": "No, tego mi było trzeba.",
+  "DIA_WorkerGuard_KQ406_Give_03_03": "Bierz drewno i wracaj do pracy. Statki nie budują się same.",
+  "DIA_WorkerGuard_KQ406_Give_03_04": "Chyba zapomniałeś je wziąć ze sobą."
+}

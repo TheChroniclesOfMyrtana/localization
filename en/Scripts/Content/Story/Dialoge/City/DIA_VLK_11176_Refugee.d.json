@@ -1,0 +1,23 @@
+﻿{
+  "DIA_WNRefugee_HELLO_03_01": "Sorry, this is so embarrassing!",
+  "DIA_WNRefugee_HELLO_03_02": "I am in a very difficult situation and need help!",
+  "DIA_WNRefugee_HELLO_15_03": "What is it?",
+  "DIA_WNRefugee_HELLO_03_04": "I wanted to ask if you would lend me 50 gold pieces?",
+  "DIA_WNRefugee_HELLO_03_05": "I'm not a slob or a freeloader, I just got robbed as soon as I entered town.",
+  "DIA_WNRefugee_HELLO_03_06": "If you help me, I promise I'll pay back the gold. Of course, after I've found a job.",
+  "DIA_WNRefugee_FuckOff_15_01": "I don't believe you and I'm not giving you anything.",
+  "DIA_WNRefugee_FuckOff_03_02": "You monster!",
+  "DIA_WNRefugee_FuckOff_03_03": "I can only hope that you will end up in a situation worse than mine!",
+  "DIA_WNRefugee_IsNice_15_01": "Here you go.",
+  "DIA_WNRefugee_IsNice_03_02": "Look, there are some nice people in this town after all.",
+  "DIA_WNRefugee_IsNice_03_03": "As soon as I find a job, I'll give the gold back! I promise!",
+  "DIA_WNRefugee_GetLost_03_01": "Go bother someone else you heartless creature!",
+  "DIA_WNRefugee_ComeLater_03_01": "As soon as I make money, I'll give you the gold.",
+  "DIA_WNRefugee_YourGold_03_01": "You've probably given up hope of getting that gold back.",
+  "DIA_WNRefugee_YourGold_03_02": "But you've helped me in my time of need so I will keep my word!",
+  "DIA_WNRefugee_YourGold_03_03": "Here's your money. With the surplus as promised!",
+  "DIA_WNRefugee_YourGold_15_04": "Thank you for your honesty!",
+  "DIA_WNRefugee_YourGold_03_05": "Take care of yourself!",
+  "DIA_WNRefugee_Afterparty_03_01": "Thanks again for trusting me!",
+  "DIA_WNRefugee_IsNice_Choice": "Here. (Give 50 GP)"
+}

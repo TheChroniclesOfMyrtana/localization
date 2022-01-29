@@ -1,0 +1,21 @@
+﻿{
+  "DIA_MIL_FMQ002_15_01": "Roderich told me to get myself a sword. Any ideas?",
+  "DIA_MIL_FMQ002_CanUShow_15_01": "Could I see your sword?",
+  "DIA_MIL_FMQ002_CanUShow_Rude_15_03": "Come on, don't talk.",
+  "DIA_MIL_FMQ002_NeedSword_15_01": "I need one to be a guard.",
+  "DIA_MIL_FMQ002_SwordScheme_15_01": "I would like to learn about its construction so I can forge one myself.",
+  "DIA_MIL_FMQ002_WantToJoin_15_01": "You have to trust me, I want to join you.",
+  "DIA_MIL_FMQ002_HaveGold_15_01": "How about I give you a few gold pieces as collateral?",
+  "DIA_MIL_FMQ002_SwordScheme_No_15_01": "Forget it.",
+  "DIA_MIL_FMQ002_SwordScheme_Yes_15_02": "That should be enough for me. Here's your sword.",
+  "DIA_MIL_FMQ002_SwordScheme_Thanks_15_01": "Thanks for your help.",
+  "DIA_MIL_FMQ002_SwordScheme_MissingGold_15_01": "Hey! Give me the rest!",
+  "DIA_MIL_Roderich_15_02": "I'm listening.",
+  "DIA_MIL_Roderich_What_15_01": "A visitation from the Royal Envoy?",
+  "DIA_MIL_Roderich_What_15_03": "The ship? Where is it now?",
+  "DIA_MIL_Roderich_Go_15_01": "Thank you for reporting.",
+  "DIA_MIL_Roderich_Go_15_02": "Dismissed.",
+  "DIA_MIL_Late_15_04": "Okay, I'll come. Dismissed.",
+  "DIA_MIL_GiveArmorBack_15_02": "You say?",
+  "DIA_MIL_FMQ002_SwordScheme_CheckOut_Choice": "(Give up the sword)"
+}

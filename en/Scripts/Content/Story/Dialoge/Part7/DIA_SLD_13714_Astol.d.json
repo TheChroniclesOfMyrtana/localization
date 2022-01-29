@@ -1,0 +1,17 @@
+﻿{
+  "DIA_Astol_HELLO_03_01": "Hello, you must be tired after all that gold mining.",
+  "DIA_Astol_HELLO_03_02": "Lie down for a while on one of those comfy sheepskin beds and get some rest. You'll regain your strength and be ready to move on.",
+  "DIA_Astol_HELLO_Yes_15_01": "Thanks, sleep will do me some good.",
+  "DIA_Astol_HELLO_No_15_01": "Maybe some other time.",
+  "DIA_Astol_AfterSleep_03_01": "How did you sleep?",
+  "DIA_Astol_AfterSleep_15_02": "Pretty well.",
+  "DIA_Astol_AfterSleep_03_03": "That's great. Seven gold nuggets.",
+  "DIA_Astol_AfterSleep_15_04": "You didn't say I'd have to pay to sleep!",
+  "DIA_Astol_AfterSleep_03_05": "I think it's obvious. Are you paying, or do I have to get it out of you myself?",
+  "DIA_Astol_AfterSleep_03_06": "Sleepy? You didn't forget the 7 nuggets for the service, did you?",
+  "DIA_Astol_AfterSleep_Pay_15_01": "Fine, take the nuggets.",
+  "DIA_Astol_AfterSleep_Pay_03_02": "Smart boy. If you need another short nap, you know where to find me.",
+  "DIA_Astol_AfterSleep_No_15_01": "You're not getting anything.",
+  "DIA_Astol_AfterFight_03_02": "Thank you for using our services and please come back.",
+  "DIA_Astol_AfterFight_03_01": "Keep the nuggets. Get out of my sight!"
+}

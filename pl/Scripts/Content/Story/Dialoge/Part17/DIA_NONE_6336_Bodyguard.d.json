@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Bodyguard01_HELLO_15_01": "Cześć, je...",
+  "DIA_Bodyguard01_HELLO_03_02": "Moneta.",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_03_01": "Szef jest w środku. Czeka na ciebie.",
+  "DIA_Bodyguard01_GoAway_03_01": "Nie mam czasu, idź do szefa.",
+  "DIA_Bodyguard01_GoAway_03_02": "Gadaj z szefem.",
+  "DIA_Bodyguard01_GoAway_03_03": "Nie zawracaj mi głowy.",
+  "DIA_Bodyguard01_GoAway_03_04": "Spadaj, młody!",
+  "DIA_Bodyguard_Fight_03_01": "Cholera, to ty!",
+  "DIA_Bodyguard_Fight_Nightmare_15_01": "Tak, to ja, twój najgorszy koszmar.",
+  "DIA_Bodyguard_Fight_Nightmare_03_02": "Teraz to mnie rozbawiłeś, młody.",
+  "DIA_Bodyguard_Fight_Nightmare_03_03": "No dobra, miło było, ale pora nakarmić węże błotne.",
+  "DIA_Bodyguard_Fight_Looking_15_01": "Szukałeś mnie?",
+  "DIA_Bodyguard_Fight_Looking_03_02": "Yyy, tak... szef kazał mi coś ci przekazać...",
+  "DIA_Bodyguard_Fight_Looking_03_03": "Dobra, kogo ja oszukuję...",
+  "DIA_Bodyguard01_HELLO_GoldCoin_Choice": "(Pokaż złotą monetę)",
+  "DIA_Bodyguard01_HELLO_OldCoin_Choice": "(Pokaż starą monetę)",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_Choice": "(Pokaż dziwną monetę)",
+  "DIA_Bodyguard01_HELLO_Fist_Choice": "(Pokaż pięść - Sprowokuj)"
+}

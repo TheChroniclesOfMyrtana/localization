@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Araxos_GuardMine_03_FIRSTWARN_03_01": "Stój! Przejścia nie ma.",
+  "DIA_Araxos_GuardMine_03_SECONDWARN_03_01": "Głuchy jesteś? Jeszcze jeden krok, a pożałujesz!",
+  "DIA_Araxos_GuardMine_03_Why_15_01": "Dlaczego?",
+  "DIA_Araxos_GuardMine_03_Why_03_02": "Zarząd postanowił zamknąć tę część kopalni. Strome urwisko, pełzacze, a do tego niewielkie ilości złota.",
+  "DIA_Araxos_GuardMine_03_Why_03_03": "Więcej było z tego wydatków, niż korzyści.",
+  "DIA_Araxos_GuardMine_03_LookAway_15_01": "Nie mógłbyś na moment spojrzeć w inną stronę?",
+  "DIA_Araxos_GuardMine_03_LookAway_03_02": "Czy ty próbujesz mnie przekupić?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_15_01": "5 bryłek wystarczy?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_02": "Dobra, dawaj te bryłki, ale nikomu nie mów, że cię tu wpuściłem.",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_03": "Chyba nie wziąłeś ich ze sobą, chłopcze.",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_15_01": "Mam przy sobie trochę złotych monet...",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_03_02": "A na co mi te monety? Tutaj korzystamy z samorodków. Bez nich nie mamy o czym gadać.",
+  "DIA_Guard_QA306_AlreadyPayed_15_01": "Przecież już ci zapłaciłem!",
+  "DIA_Guard_QA306_AlreadyPayed_03_02": "Stary, ostatnio tyle was się tutaj przewija, że już sam tracę rachubę.",
+  "DIA_Guard_QA306_AlreadyPayed_03_03": "Może płaciłeś, może nie. Znaj moje dobre serce, wejdziesz za połowę aktualnej ceny. Jeśli nie masz zamiaru płacić, to lepiej spadaj, zanim się wkurzę.",
+  "DIA_Guard_QA306_Why_15_01": "Czemu mam niby płacić za przejście?",
+  "DIA_Guard_QA306_Why_03_02": "To chyba jasne, ten fragment kopalni jest zamknięty. Ta dobrowolna opłata jest na cele... yyy... odrestaurowania tych pięknych i zapomnianych szybów.",
+  "DIA_Guard_QA306_Why_03_03": "10 złotych samorodków to naprawdę uczciwa darowizna.",
+  "DIA_Guard_QA306_Pay_03_01": "Zapraszam do środka.",
+  "DIA_Guard_QA306_Pay_5_Choice": "(Zapłać 5 bryłek złota)",
+  "DIA_Guard_QA306_Pay_10_Choice": "(Zapłać 10 bryłek złota)"
+}

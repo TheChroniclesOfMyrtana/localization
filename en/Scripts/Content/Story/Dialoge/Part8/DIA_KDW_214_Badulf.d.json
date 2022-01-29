@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Badulf_FirstWarn_03_01": "Stop! No one is allowed to go down into the basement of the monastery without permission!",
+  "DIA_Badulf_SecondWarn_03_01": "Turn around!",
+  "DIA_Badulf_LastWarn_03_01": "Adanos, give me strength!",
+  "DIA_Badulf_Why_15_01": "Why?",
+  "DIA_Badulf_Why_03_02": "This is a direct order from the Prior. Only Archmages are allowed in.",
+  "DIA_Badulf_What_15_01": "What's in that basement?",
+  "DIA_Badulf_What_03_02": "Behind my back are the catacombs of the monastery. Nothing to interest you, young man.",
+  "DIA_Badulf_Angry_03_01": "Don't think I don't know about your little visit to the catacombs.",
+  "DIA_Badulf_Angry_03_02": "You're lucky nothing of value is missing from there, or Notger himself would have had a go at your skin.",
+  "DIA_Badulf_Pass_15_01": "Aren't you guarding the entrance to the catacombs?",
+  "DIA_Badulf_Pass_03_02": "At this point, another mage is guarding the door. I think it's obvious that we need to take turns from time to time.",
+  "DIA_Badulf_Pass_03_03": "Standing in that underground may be a great way to meditate, but everyone needs to get some fresh air from time to time.",
+  "DIA_Badulf_Potion_15_01": "Could I get some healing potions from you?",
+  "DIA_Badulf_Potion_03_02": "You don't look sick to me, but so be it. Take this potion.",
+  "DIA_Badulf_Potion_03_03": "But you'll have to pay for the next one. Our monastery needs funds to help the penniless.",
+  "DIA_Badulf_Ambient_03_01": "I'm trying to meditate. Don't bother me!",
+  "DIA_Badulf_Ambient_03_02": "I already told you, I can't let you pass.",
+  "DIA_Badulf_Ambient_03_03": "If you're hoping to get me off balance, you're wrong."
+}

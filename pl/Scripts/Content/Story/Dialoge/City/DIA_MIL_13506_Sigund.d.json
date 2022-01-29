@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Sigund_QA304_StopRightThere_03_01": "Stać! Co wy tu robicie? Widziałem wszystko! Przynieśliście te skrzynie aż z samych doków i zostawiliście w tym magazynie.",
+  "DIA_Sigund_QA304_StopRightThere_03_02": "Gadać mi tu zaraz, co to za ładunek i czy macie adekwatne pozwolenia.",
+  "DIA_Sigund_QA304_StopRightThere_Duster_15_01": "Gdzie jest Duster?",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_02": "Rozchorował się i nie jest w stanie oddalić się od wychodka na dalej niż metr. Wierz mi, sam nie jestem zadowolony z dodatkowych obowiązków!",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_03": "Dlaczego o niego pytasz? Spodziewałeś się go? Macie jakiś układ?! Gadać!",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_15_01": "Może się jakoś dogadamy? Łażenie nocą po mieście pewnie nie należy do twoich ulubionych zajęć. Może moglibyśmy opłacić ci krótką wizytę w karczmie?",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_03_02": "Strażnik na służbie ma obowiązek być trzeźwy! Nie myśl, że możesz mnie tak po prostu zbyć!",
+  "DIA_Sigund_QA304_StopRightThere_Stun_15_01": "Wydaje mi się czy to pożar?",
+  "DIA_Sigund_QA304_StopRightThere_Stun_03_02": "Co?",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_01": "Przenosimy oliwę.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_02": "Pewnie wiesz, że nie można jej wystawiać na światło słoneczne, dlatego zajmujemy się tym w nocy. W dzień naświetliłaby się i straciłaby swoje właściwości.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_03": "Tak, pewnie że wiem, ale dość ostro pachnie, jak na oliwę.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_04": "Właśnie dlatego, że jest nienaświetlona. Dzięki temu lepiej będzie się palić.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_05": "No tak, rzeczywiście. Dobrze, możecie dalej pracować.",
+  "DIA_Sigund_QA304_StopRightThere_Gold_15_01": "Niech będzie. Ku chwale ojczyzny!",
+  "DIA_Sigund_Hello_03_01": "A czym się mogę zajmować jako strażnik? Patrole, warty, użeranie się z pyskatymi obywatelami.",
+  "DIA_Sigund_Ambient_03_01": "Jak na służbie, nic ciekawego.",
+  "DIA_Sigund_Ambient_03_02": "Dobrze. Mam nadzieję, że już nigdy nie będę musiał użerać się z ludźmi, którzy po nocy taszczą gdzieś skrzynki.",
+  "DIA_Sigund_QA304_StopRightThere_Stun_Choice": "Czy mi się wydaje, czy to pożar? (ogłusz)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Choice": "Może się jakoś dogadamy? (łapówka)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Gold_Choice": "Niech będzie. Ku chwale ojczyzny! (Daj 50 SZ)"
+}

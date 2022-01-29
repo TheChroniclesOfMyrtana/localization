@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Elfeg_Hello_03_01": "Co cię do nas sprowadza, młodzieńcze?",
+  "DIA_Elfeg_Hello_Exit_15_01": "Nic...",
+  "DIA_Elfeg_Hello_03_02": "Tak? Czegoś potrzebujesz?",
+  "DIA_Elfeg_Hello_Exit_03_02": "W takim razie odejdź w pokoju.",
+  "DIA_Elfeg_Hello_Jorn_03_02": "Niestety, pierwsze słyszę. Od dłuższego czasu społeczność klasztoru jest zamknięta na sprawy zewnętrzne i nawet takie wieści tu nie docierają.",
+  "DIA_Elfeg_Hello_Jorn_03_03": "Spróbuj popytać w mieście, tam na pewno ktoś udzieli ci pomocy.",
+  "DIA_Elfeg_MayIEnter_15_01": "Czy mogę wejść do klasztoru?",
+  "DIA_Elfeg_MayIEnter_03_01": "Nie, Przeor zakazał wpuszczania obcych. Wyjątkiem są chorzy i potrzebujący, którzy nie mają się gdzie udać. Ty mi na takiego nie wyglądasz.",
+  "DIA_Elfeg_AboutKloster_03_01": "Klasztor jest siedzibą magów wody oraz nowicjuszy od niepamiętnych lat. Służy nam za miejsce modlitw, pracy oraz kontemplacji.",
+  "DIA_Elfeg_AboutKloster_03_02": "Jeśli lubisz historię, polecam poczytać o kompleksie w księgach. Niektóre historie związane z tym miejscem są naprawdę fascynujące!",
+  "DIA_Elfeg_AboutKloster_03_03": "Volfzack wiedział co robił, wyrażając zgodę na budowę tego miejsca. Bez klasztoru Archolos nie byłoby takie same!",
+  "DIA_Elfeg_AboutWaterMages_03_01": "Pewnie już to wiesz, ale jesteśmy kapłanami Adanosa, strażnikami równowagi oraz opiekunami chorych.",
+  "DIA_Elfeg_AboutWaterMages_03_02": "Odkąd Przeor nakazał nam izolację w klasztorze, nie możemy już swobodnie opuszczać tej wyspy i pomagać potrzebującym na całym Archolos.",
+  "DIA_Elfeg_AboutWaterMages_03_03": "Tylko wybrani magowie posługują poza tymi murami. Większość z nich przebywa w mieście.",
+  "DIA_Elfeg_Ambient_03_01": "Cisza, spokój. Mam tutaj mnóstwo czasu na kontemplację, co potrafi być i piękne, i irytujące.",
+  "DIA_Elfeg_Ambient_03_03": "Kiedy pomyślę o obecnej sytuacji na wyspie, zaczynam się zastanawiać, kiedy Przeor w końcu pozwoli nam udać się między ludzi udzielić im pomocy.",
+  "DIA_Elfeg_LetMeOut_15_01": "Mógłbyś mnie wypuścić?",
+  "DIA_Elfeg_Hello_Jorn_Choice": "Szukam brata."
+}

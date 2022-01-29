@@ -1,0 +1,20 @@
+﻿{
+  "DIA_MARVIN_Q501Potion_15_01": "Oh, shit! My hands are still shaking... I can't make a potion in this state!",
+  "PC_PotionAlchemy_Regenerate_Description": "Restoration potions.",
+  "PC_Mana_Start_Description": "Brew mana potions.",
+  "PC_Special_Start_Description": "Permanent potions.",
+  "PC_PotionAlchemy_Timed_Description": "Timed potions.",
+  "PC_PotionAlchemy_Seed_Description": "Potions from seeds.",
+  "PC_Health_Start_Description": "Brew healing potions.",
+  "PC_PotionAlchemy_Other_Description": "Other.",
+  "PC_PotionAlchemy_Other_Ore_Description": "Crush magic ore nuggets.",
+  "PC_PotionAlchemy_Other_Ore_One_Description": "Crush 1 nugget.",
+  "PC_PotionAlchemy_Other_Ore_Five_Description": "Crush 5 nuggets.",
+  "PC_PotionAlchemy_Other_Ore_Ten_Description": "Crush 10 nuggets.",
+  "PC_PotionAlchemy_Other_Ore_All_Description": "Crush all nuggets.",
+  "PC_Poison_Start_Description": "Prepare poison.",
+  "PC_Q501Potion_Start_Description": "Brew Dagobert's potion.",
+  "PC_Q307Potion_Start_Description": "Brew poison and antidote for Ben.",
+  "PC_Poison_SQ228_Description": "Rat poison.",
+  "PC_Tabak_Start_Description": "Blend tobacco and roll reefers."
+}

@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Badulf_FirstWarn_03_01": "Stać! Nikt bez wyraźnego pozwolenia nie może zejść do podziemi klasztoru!",
+  "DIA_Badulf_SecondWarn_03_01": "Zawróć!",
+  "DIA_Badulf_LastWarn_03_01": "Adanosie daj mi siły!",
+  "DIA_Badulf_Why_15_01": "Czemu?",
+  "DIA_Badulf_Why_03_02": "To bezpośredni rozkaz Przeora. Wstęp mają tylko Arcymagowie.",
+  "DIA_Badulf_What_15_01": "Co jest w tych podziemiach?",
+  "DIA_Badulf_What_03_02": "Za moimi plecami znajdują się katakumby klasztoru. Nic, co by mogło cię zainteresować, młodzieńcze.",
+  "DIA_Badulf_Angry_03_01": "Nie myśl, że nie wiem o twojej małej wizycie w podziemiach.",
+  "DIA_Badulf_Angry_03_02": "Masz szczęście, że nie zniknęło stamtąd nic cennego, bo sam Notger dobrałby ci się do skóry.",
+  "DIA_Badulf_Pass_15_01": "Nie pilnujesz wejścia do podziemi?",
+  "DIA_Badulf_Pass_03_02": "W tym momencie drzwi pilnuje inny mag. To chyba oczywiste, że musimy się co jakiś czas zmieniać.",
+  "DIA_Badulf_Pass_03_03": "Stanie w tych podziemiach może i jest wspaniałym sposobem na medytację, ale każdy potrzebuje od czasu do czasu zażyć świeżego powietrza.",
+  "DIA_Badulf_Potion_15_01": "Mógłbym od ciebie dostać jakieś mikstury lecznicze?",
+  "DIA_Badulf_Potion_03_02": "Nie wyglądasz mi na chorego, ale niech ci będzie. Weź ten eliksir.",
+  "DIA_Badulf_Potion_03_03": "Za następne będziesz musiał jednak zapłacić. Nasz klasztor potrzebuje środków, by móc pomagać tym bez grosza przy duszy.",
+  "DIA_Badulf_Ambient_03_01": "Próbuję medytować. Nie przeszkadzaj!",
+  "DIA_Badulf_Ambient_03_02": "Już ci mówiłem, nie mogę cię przepuścić.",
+  "DIA_Badulf_Ambient_03_03": "Jeśli liczysz, że uda ci się mnie wyprowadzić z równowagi to jesteś w błędzie."
+}

@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Bodyguard01_HELLO_15_01": "Hi, I'm...",
+  "DIA_Bodyguard01_HELLO_03_02": "Coin.",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_03_01": "The boss is inside. He's waiting for you.",
+  "DIA_Bodyguard01_GoAway_03_01": "I don't have time. Go see the boss.",
+  "DIA_Bodyguard01_GoAway_03_02": "Talk to the boss.",
+  "DIA_Bodyguard01_GoAway_03_03": "Don't bother me.",
+  "DIA_Bodyguard01_GoAway_03_04": "Get lost, kid!",
+  "DIA_Bodyguard_Fight_03_01": "Damn, it's you!",
+  "DIA_Bodyguard_Fight_Nightmare_15_01": "Yes, it's me, your worst nightmare.",
+  "DIA_Bodyguard_Fight_Nightmare_03_02": "Now you've made me laugh, kid.",
+  "DIA_Bodyguard_Fight_Nightmare_03_03": "Well, that was nice, but it's time to feed the swampsharks.",
+  "DIA_Bodyguard_Fight_Looking_15_01": "Have you been looking for me?",
+  "DIA_Bodyguard_Fight_Looking_03_02": "Uh, yeah... my boss told me to tell you something...",
+  "DIA_Bodyguard_Fight_Looking_03_03": "Okay, who am I kidding...",
+  "DIA_Bodyguard01_HELLO_GoldCoin_Choice": "(Show gold coin)",
+  "DIA_Bodyguard01_HELLO_OldCoin_Choice": "(Show old coin)",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_Choice": "(Show a strange coin)",
+  "DIA_Bodyguard01_HELLO_Fist_Choice": "(Show fist - Provoke)"
+}

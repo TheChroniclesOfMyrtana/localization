@@ -1,0 +1,18 @@
+﻿{
+  "DIA_Naars_Hello_03_01": "You pay 2 nuggets or you get your head bashed in.",
+  "DIA_Naars_Hello_What_15_01": "Just like that, without any introduction? What am I supposed to pay you for?",
+  "DIA_Naars_Hello_What_03_02": "I see you're a talker. I'll show you why you should pay.",
+  "DIA_Naars_Hello_What_15_03": "I'm not paying you anything.",
+  "DIA_Naars_Hello_TakeIt_15_01": "Take those nuggets and leave me alone.",
+  "DIA_Naars_Hello_TakeIt_03_02": "Smart guy.",
+  "DIA_Naars_Hello_Carsten_15_01": "I'm under Bloodwyn's protection.",
+  "DIA_Naars_Hello_Carsten_03_02": "Buddy, we're not in the main shaft. No one is coming to help you here.",
+  "DIA_Naars_AfterFight_03_01": "If I ever ask you for nuggets again, I hope you give them to me without talking.",
+  "DIA_Naars_AfterFight_03_02": "Let's forget about this misunderstanding, shall we?",
+  "DIA_Naars_QA306_Hello_03_01": "Buddy, as you can see we're full here today, but if you pay now, I promise I'll reserve one of these great digging spots for you.",
+  "DIA_Naars_QA306_Hello_No_15_01": "No, thanks.",
+  "DIA_Naars_QA306_Hello_No_03_02": "Nowhere in the mine will you find deposits as good as here. See for yourself, the miners are just begging to dig here.",
+  "DIA_Naars_QA306_Hello_Yes_15_01": "Here, I'll be back soon.",
+  "DIA_Naars_QA306_Hello_Yes_03_02": "You won't regret it!",
+  "DIA_Naars_QA306_Hello_Yes_Choice": "Here, I'll be back soon. (Give 2 nuggets)"
+}

@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Araxos_GuardMine_03_FIRSTWARN_03_01": "Stop! There's no way through.",
+  "DIA_Araxos_GuardMine_03_SECONDWARN_03_01": "Are you deaf? One more step and you'll regret it!",
+  "DIA_Araxos_GuardMine_03_Why_15_01": "Why?",
+  "DIA_Araxos_GuardMine_03_Why_03_02": "Management has decided to close this part of the mine. Steep cliff, crawlers, and small amounts of gold.",
+  "DIA_Araxos_GuardMine_03_Why_03_03": "There was more expense out of it than benefit.",
+  "DIA_Araxos_GuardMine_03_LookAway_15_01": "Couldn't you look the other way for a moment?",
+  "DIA_Araxos_GuardMine_03_LookAway_03_02": "Are you trying to bribe me?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_15_01": "Five nuggets is enough?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_02": "Okay, give me the nuggets, but don't tell anyone I let you in here.",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_03": "I don't think you took them with you, boy.",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_15_01": "I have some gold coins on me...",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_03_02": "What do I need the coins for? We use nuggets here. Without them, there's nothing to talk about.",
+  "DIA_Guard_QA306_AlreadyPayed_15_01": "I already paid you!",
+  "DIA_Guard_QA306_AlreadyPayed_03_02": "Man, there's been so many of you around here lately, I'm losing count.",
+  "DIA_Guard_QA306_AlreadyPayed_03_03": "Maybe you paid, maybe you didn't. Know my good heart, you'll get in for half the current price. If you're not going to pay, you better get out before I get pissed.",
+  "DIA_Guard_QA306_Why_15_01": "Why should I pay for passage?",
+  "DIA_Guard_QA306_Why_03_02": "I think it's clear, this part of the mine is closed. This voluntary fee is for the purpose of... uh... restoration of these beautiful and forgotten shafts.",
+  "DIA_Guard_QA306_Why_03_03": "10 gold nuggets is a really fair donation.",
+  "DIA_Guard_QA306_Pay_03_01": "I invite you in.",
+  "DIA_Guard_QA306_Pay_5_Choice": "(Pay 5 gold nuggets)",
+  "DIA_Guard_QA306_Pay_10_Choice": "(Pay 10 gold nuggets)"
+}

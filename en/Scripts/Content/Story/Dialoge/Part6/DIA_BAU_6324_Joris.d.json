@@ -1,0 +1,21 @@
+﻿{
+  "DIA_Joris_EXIT_15_01": "I have to go.",
+  "DIA_Joris_EXIT_03_02": "Have a safe trip.",
+  "DIA_Joris_Who_15_01": "Who are you?",
+  "DIA_Joris_Who_03_02": "My name is Joris and I run this mill. Impressive, isn't it?",
+  "DIA_Joris_Who_Dunno_15_01": "A mill like a mill. I know nothing about them.",
+  "DIA_Joris_Who_Dunno_03_02": "These are real treasures these days, especially valuable when hunger is staring us in the face.",
+  "DIA_Joris_Who_Nice_15_01": "It is indeed impressive.",
+  "DIA_Joris_Who_Nice_03_02": "It came out of the hands of the best carpenters on Archolos, who made it according to a new design.",
+  "DIA_Joris_Who_Nice_03_03": "Even the gustiest winds won't knock it over, thanks to its solid construction and the stone base on which it rotates.",
+  "DIA_Joris_Who_Nice_03_04": "Bermar, the owner of this farm, poured a large fortune into it after recent storms destroyed the old coop.",
+  "DIA_Joris_Bermar_15_01": "What can you tell me about Bermar?",
+  "DIA_Joris_Bermar_03_02": "He's not the nicest person, but he's an excellent businessman.",
+  "DIA_Joris_Bermar_03_03": "If it weren't for him, this farm would have been a sinkhole on the edge of civilization.",
+  "DIA_Joris_Bermar_03_04": "Bermar cares for his farm better than he cares for his own children.",
+  "DIA_Joris_Ambient_15_01": "How are you doing?",
+  "DIA_Joris_Ambient_03_02": "The quern grinds as it should, and the land yields.",
+  "DIA_Joris_Ambient_03_03": "Others would say it's due to the gods, but for me it's purely the result of hard work and dedication.",
+  "DIA_Joris_Ambient_03_04": "As the old saying goes: two dull stones won't make a thing.",
+  "DIA_Joris_Who_Dunno_Choice": "I don't know anything about mills."
+}

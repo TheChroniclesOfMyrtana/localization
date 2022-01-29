@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"english"
+	"Tokens"
+	{
+		"#Status_InMenu"	"In the main menu"
+		"#Status_InGame"	"{#Status_Guild_%guild%} - Level %level% - Chapter %chapter%"
+		"#Status_Guild_None"	"Guildless"
+		"#Status_Guild_Citizen"	"Citizen"
+		"#Status_Guild_WaterCircle"	"The Ring of Water"
+		"#Status_Guild_Runner"	"Runner"
+		"#Status_Guild_VeteranRunner"	"Veteran Runner"
+		"#Status_Guild_Mercenary"	"Mercenary"
+		"#Status_Guild_Hunter"	"Hunter"
+		"#Status_Guild_VeteranMercenary"	"Veteran Mercenary"
+		"#Status_Guild_VeteranHunter"	"Veteran Hunter"
+		"#Status_Guild_Militia"	"Militia"
+		"#Status_Guild_MilitiaVeteran"	"Veteran Guard"
+		"#Status_Guild_Swordsman"	"Swordsman"
+		"#Status_Guild_Crossbowman"	"Crossbowman"
+		"#Status_Guild_VeteranSwordsman"	"Veteran Swordsman"
+		"#Status_Guild_VeteranCrossbowman"	"Veteran Crossbowman"
+	}
+}

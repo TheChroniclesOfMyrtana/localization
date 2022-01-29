@@ -1,0 +1,18 @@
+﻿{
+  "DIA_EnigmaticWanderer_NS46_LetsGo_03_01": "Thanks a lot!",
+  "DIA_EnigmaticWanderer_NS46_LetsGo_15_02": "You should get there without a problem, but I wish you luck nonetheless.",
+  "DIA_EnigmaticWanderer_NS46_LetsGo_03_03": "You too!",
+  "DIA_EnigmaticWanderer_NS46_Start_03_01": "Hello! I'm looking for a way to the city.",
+  "DIA_EnigmaticWanderer_NS46_Start_03_02": "I wanted to look for a job there, but unfortunately I don't know what direction this whole city is in...",
+  "DIA_EnigmaticWanderer_NS46_Start_03_03": "Why don't you tell me where I should go?",
+  "DIA_EnigmaticWanderer_NS46_West_15_01": "Go west.",
+  "DIA_EnigmaticWanderer_NS46_East_15_01": "Go east.",
+  "DIA_EnigmaticWanderer_NS46_South_15_01": "Go south.",
+  "DIA_EnigmaticWanderer_NS46_North_15_01": "Go north.",
+  "DIA_EnigmaticWanderer_NS46_IAmOnMyWayNow_03_01": "Let's go!",
+  "DIA_EnigmaticWanderer_NS46_WrongPlace_03_01": "It's not a city, but it's fun too!",
+  "DIA_EnigmaticWanderer_NS46_WrongPlace_03_02": "Look, I found this on the way over. You might need it.",
+  "DIA_EnigmaticWanderer_NS46_RightPlace_03_01": "As you can see, after a long journey I managed to get here.",
+  "DIA_EnigmaticWanderer_NS46_RightPlace_03_02": "Thanks again for your help! I've collected this along the way - you might find it useful.",
+  "DIA_EnigmaticWanderer_NS46_AfterEvent_03_01": "I'll catch my breath before I go any further."
+}

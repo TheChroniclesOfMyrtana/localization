@@ -1,0 +1,21 @@
+﻿{
+  "DIA_OldCityGuard_FirstWarn_03_01": "Whoa, whoa! Where are you going?",
+  "DIA_OldCityGuard_FirstWarn_15_02": "Up ahead.",
+  "DIA_OldCityGuard_FirstWarn_03_03": "Your reputation precedes you! Go to Roderich and get things straight.",
+  "DIA_OldCityGuard_FirstWarn_03_04": "Until then, there is no entrance.",
+  "DIA_OldCityGuard_FirstWarn_03_07": "I'm sorry, according to the rules, only the guards guarding this district have the entrance to the Old Town.",
+  "DIA_OldCityGuard_FirstWarn_03_11": "No passage!",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_01": "I didn't know I needed a pass for that.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_02": "You think I'm gonna let just anybody through? No way, buddy.",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_03": "Where to get such a document?",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_04": "You would have to own a house in Old Town or get permission to enter from someone on the City Council.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_05": "I daresay you have none of those things.",
+  "DIA_OldCityGuard_FirstWarn_Why_15_01": "Why not?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_02": "I am, after all, a citizen of this city.",
+  "DIA_OldCityGuard_FirstWarn_Why_03_03": "And do you have a pass on you?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_04": "What kind of a pass are you talking about?",
+  "DIA_OldCityGuard_FirstWarn_Why_03_05": "For a pass that authorizes you to enter the Old Town.",
+  "DIA_OldCityGuard_SecondWarn_03_01": "I said something! What didn't you understand?",
+  "DIA_OldCityGuard_LastWarn_03_01": "You asked for it!",
+  "DIA_OldCityGuard_FirstWarn_15_06": "You don't mind, do you? I'm a city guard."
+}

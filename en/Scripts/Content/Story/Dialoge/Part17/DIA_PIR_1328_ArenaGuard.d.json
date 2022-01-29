@@ -1,0 +1,17 @@
+﻿{
+  "DIA_ArenaGuard_ArenaNoInvite_15_01": "What's behind those bars?",
+  "DIA_ArenaGuard_ArenaNoInvite_03_01": "A place for tournament participants. Everyone is counting on you to join at the upcoming tournament.",
+  "DIA_ArenaGuard_ArenaNoInvite_03_02": "A place for tournament participants. Fear not, you won't get a chance to see what it looks like from the inside.",
+  "DIA_ArenaGuard_ArenaNoInvite_Details_03_01": "Under the stands there is a special cage for various beasts. Admittedly, it hasn't been used for a long time, but apparently Cortez with Proximo came up with something special this time.",
+  "DIA_ArenaGuard_ArenaSignedIn_15_01": "I am one of the participants in the tournament.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_01": "Yes, I heard. I'm opening the gate now. Come in and make yourself comfortable.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_02": "If you do well, you might even spend most of the evening there.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_03": "There should still be a Proximo inside. He'll explain everything to you.",
+  "DIA_ArenaGuard_Q306_GiveUp_15_01": "I've had enough of this fight, I want to quit the tournament.",
+  "DIA_ArenaGuard_Q306_GiveUp_03_01": "You did pretty well, are you sure?",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_15_01": "Yeah.",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_03_01": "Suit yourself, you're probably scared out because of Ben.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_15_01": "No.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_Choice": "No",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_Choice": "Yes"
+}

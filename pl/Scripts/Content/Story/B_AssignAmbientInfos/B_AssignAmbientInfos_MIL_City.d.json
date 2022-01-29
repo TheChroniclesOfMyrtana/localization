@@ -1,0 +1,21 @@
+﻿{
+  "DIA_MIL_FMQ002_15_01": "Roderich kazał mi załatwić sobie miecz. Jakieś pomysły?",
+  "DIA_MIL_FMQ002_CanUShow_15_01": "Mógłbym zobaczyć twój miecz?",
+  "DIA_MIL_FMQ002_CanUShow_Rude_15_03": "Dawaj, nie gadaj.",
+  "DIA_MIL_FMQ002_NeedSword_15_01": "Potrzebuję takiego, by zostać strażnikiem.",
+  "DIA_MIL_FMQ002_SwordScheme_15_01": "Chciałbym poznać jego konstrukcję, by móc samemu taki wykuć.",
+  "DIA_MIL_FMQ002_WantToJoin_15_01": "Musisz mi zaufać, chcę do was dołączyć.",
+  "DIA_MIL_FMQ002_HaveGold_15_01": "To może dam ci kilka sztuk złota pod zastaw?",
+  "DIA_MIL_FMQ002_SwordScheme_No_15_01": "Zapomnij.",
+  "DIA_MIL_FMQ002_SwordScheme_Yes_15_02": "To mi powinno wystarczyć. Proszę oto twój miecz.",
+  "DIA_MIL_FMQ002_SwordScheme_Thanks_15_01": "Dzięki za pomoc.",
+  "DIA_MIL_FMQ002_SwordScheme_MissingGold_15_01": "Hej! Oddawaj resztę!",
+  "DIA_MIL_Roderich_15_02": "Słucham.",
+  "DIA_MIL_Roderich_What_15_01": "Wizytacja Królewskiego Wysłannika?",
+  "DIA_MIL_Roderich_What_15_03": "Okręt? Gdzie on teraz jest?",
+  "DIA_MIL_Roderich_Go_15_01": "Dziękuję za meldunek.",
+  "DIA_MIL_Roderich_Go_15_02": "Odmaszerować.",
+  "DIA_MIL_Late_15_04": "Dobrze, przyjdę. Odmaszerować.",
+  "DIA_MIL_GiveArmorBack_15_02": "Mówisz?",
+  "DIA_MIL_FMQ002_SwordScheme_CheckOut_Choice": "(Oddaj miecz)"
+}

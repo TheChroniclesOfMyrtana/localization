@@ -1,0 +1,23 @@
+﻿{
+  "DIA_WNRefugee_HELLO_03_01": "Przepraszam, to takie krępujące!",
+  "DIA_WNRefugee_HELLO_03_02": "Jestem w bardzo trudnej sytuacji i potrzebuje pomocy!",
+  "DIA_WNRefugee_HELLO_15_03": "O co chodzi?",
+  "DIA_WNRefugee_HELLO_03_04": "Chciałam się zapytać czy pożyczyłbyś mi 50 sztuk złota?",
+  "DIA_WNRefugee_HELLO_03_05": "Nie jestem nierobem i darmozjadem, po prostu zostałam okradziona zaraz po wejściu do miasta.",
+  "DIA_WNRefugee_HELLO_03_06": "Jeżeli mi pomożesz to obiecuję, że oddam to złoto z nawiązką. Oczywiście wtedy jak już znajdę sobie zajęcie.",
+  "DIA_WNRefugee_FuckOff_15_01": "Nie wierzę ci i nic ci nie dam.",
+  "DIA_WNRefugee_FuckOff_03_02": "Ty potworze!",
+  "DIA_WNRefugee_FuckOff_03_03": "Pozostaje mi tylko wierzyć, że wylądujesz w sytuacji gorszej od mojej!",
+  "DIA_WNRefugee_IsNice_15_01": "Proszę.",
+  "DIA_WNRefugee_IsNice_03_02": "No patrzcie, jednak są w tym mieście jacyś mili ludzie.",
+  "DIA_WNRefugee_IsNice_03_03": "Jak tylko znajdę prace to oddam złoto! Obiecuję!",
+  "DIA_WNRefugee_GetLost_03_01": "Idź zaczepiać kogoś innego ty bezduszna kreaturo!",
+  "DIA_WNRefugee_ComeLater_03_01": "Jak tylko zarobię oddam ci to złoto.",
+  "DIA_WNRefugee_YourGold_03_01": "Pewnie straciłeś już nadzieję na odzyskanie tego złota.",
+  "DIA_WNRefugee_YourGold_03_02": "Ale pomogłeś mi w potrzebie więc nie będę gołosłowną!",
+  "DIA_WNRefugee_YourGold_03_03": "Oto twoje pieniądze. Z nadwyżką tak jak obiecałam!",
+  "DIA_WNRefugee_YourGold_15_04": "Dziękuję za twoją uczciwość!",
+  "DIA_WNRefugee_YourGold_03_05": "Uważaj na siebie!",
+  "DIA_WNRefugee_Afterparty_03_01": "Jeszcze raz dzięki za zaufanie mi!",
+  "DIA_WNRefugee_IsNice_Choice": "Proszę. (Daj 50 SZ)"
+}
