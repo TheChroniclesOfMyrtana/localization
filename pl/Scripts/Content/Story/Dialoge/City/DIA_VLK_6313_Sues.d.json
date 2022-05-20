@@ -15,7 +15,7 @@
   "DIA_Sues_HELLO_WhatDo_15_01": "Jeśli powiesz mi co mam robić to z pewnością się coś znajdzie.",
   "DIA_Sues_HELLO_WhatDo_03_02": "Nie rozśmieszaj mnie, wiesz ilu takich obdartusów muszę spławiać?",
   "DIA_Sues_HELLO_WhatDo_03_03": "Pokaż mi, że potrafisz coś zrobić w drewnie, a ja już ocenię twoją przydatność.",
-  "DIA_Sues_HELLO_WhatDo_03_04": "Jeśli nic nie potrafisz, to lepiej spadaj, albo moja banda się z tobą zaopiekuje.",
+  "DIA_Sues_HELLO_WhatDo_03_04": "Jeśli nic nie potrafisz, to lepiej spadaj, albo moja banda się tobą zaopiekuje.",
   "DIA_Sues_WoodSword_15_01": "Może nie jest to figurka, ale na drewnie trochę się znam.",
   "DIA_Sues_WoodSword_03_02": "Nie powiem, wykonanie wygląda na całkiem porządne.",
   "DIA_Sues_WoodSword_03_03": "Mam pewne wątpliwości czy sam go wykonałeś, ale widać, że ci zależy na tej pracy.",
@@ -33,7 +33,7 @@
   "DIA_Sues_WoodCutter_03_06": "Widzę, że masz głowę do interesów. Dam ci jedną szansę, bo jakieś doświadczenie z drewnem musisz mieć.",
   "DIA_Sues_WoodCutter_03_07": "Siadaj, zobaczymy jak ci to wychodzi.",
   "DIA_Sues_InnosReady_15_01": "Czyli wszystkie złote Innosy są tak naprawdę drewniane?",
-  "DIA_Sues_InnosReady_03_02": "Są pozłacane. Kupujący oglądają złotego Innoska z wierzchu. W ten sposób są po prostu dużo tańsze i każdy sobie może na nie pozwolić.",
+  "DIA_Sues_InnosReady_03_02": "Są pozłacane. Kupujący oglądają złotego Innoska z wierzchu. W ten sposób są po prostu dużo tańsze i każdy może sobie na nie pozwolić.",
   "DIA_Sues_InnosReady_15_03": "W jaki sposób je pozłacasz?",
   "DIA_Sues_InnosReady_03_04": "To już mój sekret. Gdybym zaczął go rozpowiadać to w ciągu kilku dni straciłbym swój interes.",
   "DIA_Sues_InnosReady_03_06": "Nie jest źle, trochę poćwicz i może uda się to komuś sprzedać.",
@@ -45,6 +45,6 @@
   "DIA_Sues_SQ309_GotSkill_15_04": "To chyba oczywiste, że coś potrafię.",
   "DIA_Sues_SQ309_GotSkill_03_05": "Taki pewny siebie? Dobrze, przekonajmy się.",
   "DIA_Sues_SQ309_GotSkill_03_06": "Siadaj. Zobaczymy jak ci to wychodzi.",
-  "DIA_Sues_HELLO_Innos_Dima_WhatDo_Choice": "Z pewnością się coś znajdzie.",
-  "DIA_Sues_HELLO_Innos_Dima_Choice": "Dima powiedziała, że skupuje całe skrzynie tych figurek."
+  "DIA_Sues_HELLO_Innos_Dima_WhatDo_Choice": "Jeśli powiesz mi co mam robić to z pewnością się coś znajdzie.",
+  "DIA_Sues_HELLO_Innos_Dima_Choice": "Dima powiedziała, że skupuje od ciebie całe skrzynie tych figurek."
 }

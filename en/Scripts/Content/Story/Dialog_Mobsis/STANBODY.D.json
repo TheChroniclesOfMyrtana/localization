@@ -1,7 +1,7 @@
 ﻿{
   "DIA_StanBody_CheckBody_15_01": "There are no visible external wounds on the body...",
   "DIA_StanBody_CheckBody_15_02": "...it doesn't necessarily mean he was poisoned. He might as well have choked, after all, since he was eating and drinking like crazy.",
-  "DIA_StanBody_CheckThroat_15_01": "It stinks even worse than the rest....",
+  "DIA_StanBody_CheckThroat_15_01": "It stinks even worse than the rest...",
   "DIA_StanBody_CheckThroat_15_02": "...but I don't see anything that could cause choking...",
   "DIA_StanBody_CheckThroat_15_03": "Though the throat itself looks visibly irritated.",
   "DIA_StanBody_CheckPockets_15_01": "There's nothing interesting here...",
@@ -9,6 +9,6 @@
   "DIA_StanBody_CheckFloor_15_01": "Stan lies in a small puddle from the meal he ate.",
   "DIA_StanBody_CheckFloor_15_02": "There's still some left in the bowl...",
   "DIA_StanBody_CheckFood_15_01": "The dish does indeed smell in a very unusual way.",
-  "DIA_StanBody_CheckFood_15_02": "The smell is pungent and sulfurous....",
-  "DIA_StanBody_CheckFood_15_03": "I think that's the only lead I have at this point...."
+  "DIA_StanBody_CheckFood_15_02": "The smell is pungent and sulfurous...",
+  "DIA_StanBody_CheckFood_15_03": "I think that's the only lead I have at this point..."
 }

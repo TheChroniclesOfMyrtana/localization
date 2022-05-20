@@ -257,8 +257,8 @@
   "DIA_Viktor_Q205_Brother_Choice": "Maybe they can help me find my brother.",
   "DIA_Viktor_Q205_Viktor_Long_Visual_Choice": "What did those guards look like?",
   "DIA_Viktor_SQ225_GiantBug_Yes_Choice": "I've been dreaming about this for a long time.",
-  "DIA_Viktor_SQ410_Decision_EndingV2_Choice": "(Let Viktor know about the plan)",
-  "DIA_Viktor_SQ410_Decision_EndingV1_Choice": "(Don't let Viktor know about the plan)",
+  "DIA_Viktor_SQ410_Decision_EndingV2_Choice": "(Don't let Viktor know about the plan)",
+  "DIA_Viktor_SQ410_Decision_EndingV1_Choice": "(Let Viktor know about the plan)",
   "DIA_Viktor_Warehouse_WeWon_Choice": "The orcs have been repulsed...",
   "DIA_Viktor_Warehouse_Some_Choice": "More orc patrols are appearing on Archolos..."
 }

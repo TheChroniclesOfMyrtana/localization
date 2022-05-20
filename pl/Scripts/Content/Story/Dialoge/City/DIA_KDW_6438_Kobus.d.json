@@ -1,6 +1,6 @@
 ﻿{
   "DIA_Kobus_HELLO_15_01": "Witaj, magu!",
-  "DIA_Kobus_HELLO_03_02": "Co! Kto... O nie! Nie, nie, nie! Tylko nie to!",
+  "DIA_Kobus_HELLO_03_02": "Co! Kto... O nie! Nie, nie, nie, nie, nie! Tylko nie to!",
   "DIA_Kobus_HELLO_03_03": "I cała praca na nic! Niech to... Ahahahah...",
   "DIA_Kobus_HELLO_03_04": "Ty! Dlaczego mi przeszkodziłeś!?",
   "DIA_Kobus_HELLO_15_05": "Chciałem...",
@@ -34,9 +34,9 @@
   "DIA_Kobus_HELLO_Pearls_15_01": "Dlaczego akurat perły?",
   "DIA_Kobus_HELLO_Pearls_03_02": "Bo mają kształt idealnej sfery, już ci mówiłem.",
   "DIA_Kobus_HELLO_Pearls_15_03": "Dobrze rozumiem, że mam znaleźć dla ciebie perłę?",
-  "DIA_Kobus_HELLO_Pearls_03_04": "Nie perłę, tylko perły. Zaklęcie ma małą skuteczność. Żeby mieć pewność, że otrzymamy chociaż jedną, musimy mieć minimum 8 sztuk.",
+  "DIA_Kobus_HELLO_Pearls_03_04": "Nie perłę, tylko perły! Zaklęcie ma małą skuteczność. Żeby mieć pewność, że otrzymamy chociaż jedną, musimy mieć minimum 8 sztuk.",
   "DIA_Kobus_HELLO_Pearls_15_05": "Dobrze, zrozumiałem. Gdzie ich szukać?",
-  "DIA_Kobus_HELLO_Pearls_03_06": "Kup, znajdź, ukradnij, zabij kogoś. Nie wiem, masz przynieść mi 8 sztuk. Gdzie je znajdziesz, nie bardzo mnie to obchodzi.",
+  "DIA_Kobus_HELLO_Pearls_03_06": "Kup, znajdź, ukradnij, zabij kogoś. Nie wiem... Masz przynieść mi 8 sztuk. Gdzie je znajdziesz, nie bardzo mnie to obchodzi.",
   "DIA_Kobus_HELLO_Pearls_15_07": "W takim razie idę ich szukać.",
   "DIA_Kobus_Pearls_15_01": "Wracając do twojej sprawy...",
   "DIA_Kobus_Pearls_03_02": "Masz perły?",
@@ -55,7 +55,7 @@
   "DIA_Kobus_AfterPearls_15_04": "Niesamowite. Niby to woda, a zachowuje kształt sfery!",
   "DIA_Kobus_AfterPearls_03_05": "Sam jestem zaskoczony! Wyglądają pięknie moje... moje... perły wody!",
   "DIA_Kobus_AfterPearls_15_06": "Trzeba przyznać, że rzeczywiście robią wrażenie. Nie rozumiem tylko, po co je w ogóle stworzyłeś? Chciałeś nową błyskotkę?",
-  "DIA_Kobus_AfterPearls_03_07": "Ech... myślisz bardzo krótkowzrocznie. Perła to tylko test. Zacząłem od czegoś tak małego jak perła, by sprawdzić, czy w ogóle jestem w stanie nadać wodzie odpowiedni kształt.",
+  "DIA_Kobus_AfterPearls_03_07": "Ech, ech... Myślisz bardzo krótkowzrocznie. Perła to tylko test. Zacząłem od czegoś tak małego jak perła, by sprawdzić, czy w ogóle jestem w stanie nadać wodzie odpowiedni kształt.",
   "DIA_Kobus_AfterPearls_15_08": "Mówiłeś, że dla magii nie ma rzeczy niemożliwych.",
   "DIA_Kobus_AfterPearls_03_09": "Dla magii nie. Dla mnie tak. I jak się okazuje, byłem w stanie tego dokonać.",
   "DIA_Kobus_AfterPearls_15_10": "To co dalej, wodna kula armatnia? Dalej nie wiem, po co zaklinać wodę w sfery.",
@@ -69,5 +69,5 @@
   "DIA_Kobus_AfterPearls_03_18": "Nie teraz, tutaj magia się tworzy.",
   "DIA_Kobus_Ambient_03_02": "Kiepsko sypiam. Cały czas zastanawia mnie, jakie aspekty magii czekają na odkrycie...",
   "DIA_Kobus_Ambient_03_03": "Wolałbym zostać w Klasztorze. Tam mógłbym zająć się wyłącznie moimi badaniami. A tak to wiecznie mi ktoś przeszkadza...",
-  "DIA_Kobus_Ambient_03_01": "Nic nowego. Kule armatnie... to mogło by się udać."
+  "DIA_Kobus_Ambient_03_01": "Nic nowego. Kule armatnie... to mogłoby się udać."
 }
