@@ -4081,7 +4081,7 @@
   "ItemDesc_ITMIS_SQ123_SvenLetter_1": "Ledwo można coś z niej odczytać.",
   "ItemDesc_ITMIS_SQ127_VINE_UNREADY_1": "Butelka z dojrzewającym winem.",
   "ItemDesc_ITMIS_SQ127_VINE_UNREADY_2": "Gumbert prosił, bym odłożył je na półkę.",
-  "ItemDesc_ITMIS_SQ116_KurtLetter_1": "Liścik doręczony przez Gońca.",
+  "ItemDesc_ITMIS_SQ116_KurtLetter_1": "Liścik doręczony przez gońca.",
   "ItemDesc_ITMIS_SQ116_KurtLetter_2": "Jest zaadresowany do mnie.",
   "ItemDesc_ITMIS_SQ116_VINE_1": "Gumbert kazał mi wypróbować to wino.",
   "ItemDesc_ITMIS_SQ119_Plant_1": "Mech, który znalazłem na dnie",
@@ -4281,7 +4281,8 @@
   "ItemDesc_ItWr_Q304_AntonioLetter_1": "Znalazłem go przy ciele Antonio.",
   "ItemDesc_ItMis_Q304_FakeList_1": "Lista Corteza, którą mam przekazać Antonio.",
   "ItemDesc_ItMis_Q304_FakeList_2": "Kapitan chce zwabić oszustów w naszą zasadzkę.",
-  "ItemDesc_ItMis_Q304_Branches_1": "Liście do przygotowania pułapki",
+  "ItemDesc_ItMis_Q304_Branches_1": "Gałęzie do przygotowania pułapki",
+  "ItemDesc_ItMis_Q304_Leaves_1": "Liście do przygotowania pułapki", 
   "ItemDesc_ItMis_Q304_Branches_2": "na Szmuglera i jego bandę.",
   "ItemDesc_ItMis_Q305_GoldChest_Trace_Javad_1": "Jeden z towarów dla Corteza.",
   "ItemDesc_ItMis_Q305_GoldChest_Trace_Javad_2": "Pochodzi z rozbitego statku.",
@@ -5029,5 +5030,6 @@
   "NAME_NOEXP_SkeletonArcher": "Ożywiony szkielet-łucznik",
   "NAME_NOEXP_Skeleton": "Ożywiony szkielet",
   "NAME_EVENT_Homeless": "Agresywny biedak",
-  "NAME_EVENT_Refugee": "Agresywny uchodźca"
+  "NAME_EVENT_Refugee": "Agresywny uchodźca",
+  "Print_Vardhal_YouFucker": "Niechaj zgasną twoje gwiazdy!"
 }
