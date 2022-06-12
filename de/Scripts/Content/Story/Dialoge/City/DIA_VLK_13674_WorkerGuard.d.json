@@ -1,0 +1,19 @@
+﻿{
+  "DIA_WorkerGuard_FIRSTWARN_03_01": "Halt! Keiner darf in die Nähe der Kisten!",
+  "DIA_WorkerGuard_SECONDWARN_03_01": "Bist du taub? Ich hab dir was gesagt, hau ab!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_01": "Lass mich durch, ich bin Werftarbeiter und brauche Holz.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_02": "Seit wann? Ich habe dich gestern nicht hier gesehen!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_03": "Kein Wunder. Ich wurde gerade erst eingestellt.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_04": "Das ist ja interessant. Ich sollte Dack fragen, ob das stimmt!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_05": "Was ist dein Problem?",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_06": "Ach, nichts! Ich glaube, du führst etwas im Schilde!",
+  "DIA_WorkerGuard_KQ406_OfferMoney_Description": "Vielleicht kann das deine Zweifel beseitigen? (100 Gold)",
+  "DIA_WorkerGuard_KQ406_OfferMoney_15_01": "Vielleicht kann das deine Zweifel beseitigen?",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_02": "Vielleicht kann es das. Solange noch ein kaltes Bier dazukommt.",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_03": "Du hast keine Ahnung, wie lange ich hier schon stehe. Sie geben einem Freund nichtmal ein Bier.",
+  "DIA_WorkerGuard_KQ406_Give_Description": "Hier dein Bier. (Gib ein Bier und 100 Gold)",
+  "DIA_WorkerGuard_KQ406_Give_15_01": "Hier dein Bier.",
+  "DIA_WorkerGuard_KQ406_Give_03_02": "Ahhh. Genau was ich gebraucht habe.",
+  "DIA_WorkerGuard_KQ406_Give_03_03": "Nimm das Holz und mach dich wieder an die Arbeit. Schiffe bauen sich nicht von selbst.",
+  "DIA_WorkerGuard_KQ406_Give_03_04": "Ich schätze, du hast vergessen, es mitzunehmen."
+}

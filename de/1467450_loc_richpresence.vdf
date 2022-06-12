@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"german"
+	"Tokens"
+	{
+		"#Status_InMenu"	"Im Hauptmenü"
+		"#Status_InGame"	"{#Status_Guild_%guild%} - Stufe %level% - Kapitel %chapter%"
+		"#Status_Guild_None"	"Gildenlos"
+		"#Status_Guild_Citizen"	"Bürger"
+		"#Status_Guild_WaterCircle"	"Ring des Wassers"
+		"#Status_Guild_Runner"	"Läufer"
+		"#Status_Guild_VeteranRunner"	"Kurier"
+		"#Status_Guild_Mercenary"	"Söldner"
+		"#Status_Guild_Hunter"	"Jäger"
+		"#Status_Guild_VeteranMercenary"	"Elitesöldner"
+		"#Status_Guild_VeteranHunter"	"Elitejäger"
+		"#Status_Guild_Militia"	"Miliz"
+		"#Status_Guild_MilitiaVeteran"	"Stadtwache"
+		"#Status_Guild_Swordsman"	"Schwertkämpfer"
+		"#Status_Guild_Crossbowman"	"Armbrustschütze"
+		"#Status_Guild_VeteranSwordsman"	"Eliteschwertkämpfer"
+		"#Status_Guild_VeteranCrossbowman"	"Elitearmbrustschütze"
+	}
+}

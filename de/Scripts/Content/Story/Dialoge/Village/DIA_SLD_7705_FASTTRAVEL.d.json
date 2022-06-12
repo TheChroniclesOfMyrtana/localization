@@ -1,0 +1,23 @@
+﻿{
+  "DIA_FASTTRAVEL_Q201_Refused_03_01": "Sie haben dich mit leeren Händen weggeschickt, nicht wahr?",
+  "DIA_FASTTRAVEL_Q201_Refused_15_02": "Offenbar brauche ich eine Art Passierschein.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_03": "Ja, die Vorschriften wurden kürzlich verschärft. Wenn du kein Bürger der Stadt bist, kommst du ohne ein entsprechendes Schreiben nicht rein.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_04": "Aber du hast Glück! Ich kann dir helfen reinzukommen.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_05": "Ich fahre nach Silbach, du könntest dort einen vom Dorfältesten bekommen.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_06": "Ich würde dich gerne dorthin bringen.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_15_01": "Und was hast du davon?",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_02": "Als Vertreter der Händlergilde biete ich, wie viele meiner Kollegen, die über die ganze Insel verstreut sind, Begleiterdienste auf der ganzen Insel an.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_03": "Für ein paar Münzen bringen wir dich zu allen wichtigen Orten auf der Insel.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_04": "Und da ich sowieso nach Silbach fahre, biete ich dir einen Sonderpreis an.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_15_01": "Gibt es keine andere Möglichkeit, in die Stadt zu kommen?",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_02": "Das habe ich nicht gesagt. Ein Passierschein ist der sicherste Weg, um in die Stadt zu kommen, aber wenn du ein Dokument hast, das beweist, dass du in einer bestimmten Angelegenheit in die Stadt geschickt wurdest, solltest du ebenfalls eingelassen werden.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_03": "Natürlich gibt es immer die klassische Bestechung, aber das ist ziemlich riskant, wenn man nicht weiß, wen man bezahlen soll und wie viel. Die meisten der Wachen an den Toren sind treudoofe Diener.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_15_01": "Glaubst du, dass die Holzfäller mir ein solches Dokument schreiben könnten?",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_02": "Ein Versuch kann nicht schaden! Wenn du eine Eskorte brauchst, führe ich dich gerne zum nahe gelegenen Lager der Köhler. Von dort aus solltest du Knut und seine Männer ohne allzu große Schwierigkeiten erreichen können.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_03": "Auf dem Weg dorthin muss ich allerdings noch einen kurzen Halt in Silbach einlegen, weil die Gilde dort zu tun hat.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_Description": "Bring mich nach Silbach. (10 Gold)",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_15_01": "Bring mich nach Silbach.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_02": "Los gehts.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_03": "Dafür musst du bezahlen.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Unlocked_03_01": "Wir sind da. Wenn du weiter willst, kannst du mich oder einen meiner Kollegen hier treffen."
+}

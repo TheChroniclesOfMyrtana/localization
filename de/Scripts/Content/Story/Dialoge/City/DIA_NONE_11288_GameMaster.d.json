@@ -1,0 +1,14 @@
+﻿{
+  "DIA_GameMaster_Welcome_03_01": "Junger Mann, hast du Lust, an einem teuflisch schwierigen Spiel teilzunehmen? Das ist deine einzige Chance, mit nichts zu kommen und wie ein König zu gehen!",
+  "DIA_GameMaster_Welcome_03_02": "Die Regeln sind einfach: Du musst genau beobachten, wohin die Goldmünze wandert und dann nur auf den richtigen Becher zeigen, unter dem sie sich versteckt.",
+  "DIA_GameMaster_Welcome_03_03": "Wie sieht's aus? Hab ich dein Interesse geweckt?",
+  "DIA_GameMaster_Welcome_Yes_15_01": "Warum nicht!",
+  "DIA_GameMaster_Welcome_Yes_03_02": "Gut! Wie viel möchtest du setzen? Gewinnst du, bekommst du das Dreifache!",
+  "DIA_GameMaster_Welcome_10_15_01": "Hier ist das Gold.",
+  "DIA_GameMaster_Welcome_10_03_02": "Vielen Dank.",
+  "DIA_GameMaster_Welcome_No_15_01": "Ich habe keine Zeit.",
+  "DIA_GameMaster_Welcome_No_03_02": "Wie du willst, so eine Gelegenheit kommt so schnell nicht wieder.",
+  "DIA_GameMaster_Welcome_Yes_100_Choice": "(100 Gold setzen)",
+  "DIA_GameMaster_Welcome_Yes_50_Choice": "(50 Gold setzen)",
+  "DIA_GameMaster_Welcome_Yes_10_Choice": "(10 Gold setzen)"
+}

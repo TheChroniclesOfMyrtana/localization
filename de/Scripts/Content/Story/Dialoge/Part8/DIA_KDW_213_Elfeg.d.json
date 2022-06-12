@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Elfeg_Hello_03_01": "Was führt dich zu uns, junger Mann?",
+  "DIA_Elfeg_Hello_Exit_15_01": "Nichts ...",
+  "DIA_Elfeg_Hello_03_02": "Ja? Brauchst du irgendetwas?",
+  "DIA_Elfeg_Hello_Exit_03_02": "Dann geh in Frieden.",
+  "DIA_Elfeg_Hello_Jorn_03_02": "Leider ist das das erste Mal, dass ich davon höre. Die Gemeinschaft des Klosters hat sich lange Zeit von der Außenwelt abgeschottet und selbst solche Nachrichten erreichen uns nicht.",
+  "DIA_Elfeg_Hello_Jorn_03_03": "Frag in der Stadt nach, ich bin sicher, dass dir dort jemand helfen kann.",
+  "DIA_Elfeg_MayIEnter_15_01": "Kann ich das Kloster betreten?",
+  "DIA_Elfeg_MayIEnter_03_01": "Nein, der Prior hat Fremden den Zutritt untersagt. Außer für Kranke und Bedürftige, die sonst nirgendwo eine Bleibe finden. So siehst du für mich aber nicht aus.",
+  "DIA_Elfeg_AboutKloster_03_01": "Das Kloster ist seit jeher die Heimat von Wassermagiern und Novizen. Es dient uns als Ort für Gebet, Arbeit und Besinnung.",
+  "DIA_Elfeg_AboutKloster_03_02": "Wenn du dich für Geschichte interessierst, empfehle ich dir, Bücher über die Klosterinsel zu lesen. Einige der Geschichten, die mit diesem Ort verbunden sind, sind wirklich faszinierend!",
+  "DIA_Elfeg_AboutKloster_03_03": "Volfzack wusste, was er tat, als er dem Bau dieses Ortes zustimmte. Ohne das Kloster wäre Archolos nicht Archolos.",
+  "DIA_Elfeg_AboutWaterMages_03_01": "Du weißt es wahrscheinlich schon, aber wir sind Priester von Adanos, Hüter des Gleichgewichts und Heiler der Kranken.",
+  "DIA_Elfeg_AboutWaterMages_03_02": "Seit der Prior unsere Isolation angeordnet hat, steht es uns nicht mehr frei, die Klosterinsel zu verlassen, um den Bedürftigen in ganz Archolos zu helfen.",
+  "DIA_Elfeg_AboutWaterMages_03_03": "Nur einige wenige Magier dienen außerhalb dieser Mauern. Die meisten von ihnen bleiben in der Stadt.",
+  "DIA_Elfeg_Ambient_03_01": "Frieden und Ruhe. Hier habe ich viel Zeit für Bessinung, was sowohl schön als auch ärgerlich sein kann.",
+  "DIA_Elfeg_Ambient_03_03": "Wenn ich an die aktuelle Situation auf der Insel denke, frage ich mich, wann der Prior uns nun endlich erlauben wird, unter die Menschen zu gehen, um ihnen zu helfen.",
+  "DIA_Elfeg_LetMeOut_15_01": "Kannst du mich rauslassen?",
+  "DIA_Elfeg_Hello_Jorn_Choice": "Ich suche meinen Bruder."
+}

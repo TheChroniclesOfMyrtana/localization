@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Araxos_GuardMine_03_FIRSTWARN_03_01": "Halt! Kein Durchgang.",
+  "DIA_Araxos_GuardMine_03_SECONDWARN_03_01": "Bist du taub? Noch ein Schritt weiter und du wirst es bereuen!",
+  "DIA_Araxos_GuardMine_03_Why_15_01": "Warum?",
+  "DIA_Araxos_GuardMine_03_Why_03_02": "Die Führung hat beschlossen, diesen Teil der Mine zu schließen. Kaum Gold, Crawler und es geht ziemlich steil bergab.",
+  "DIA_Araxos_GuardMine_03_Why_03_03": "Es war mehr Aufwand als Nutzen.",
+  "DIA_Araxos_GuardMine_03_LookAway_15_01": "Könntest du nicht einen Moment wegschauen?",
+  "DIA_Araxos_GuardMine_03_LookAway_03_02": "Versuchst du, mich zu bestechen?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_15_01": "Sind fünf Goldbrocken genug?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_02": "Okay, her mit den Brocken. Aber erzähl niemandem, dass ich dich hier reingelassen habe.",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_03": "Ich glaube, so viele hast du nicht dabei, Junge.",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_15_01": "Ich habe ein paar Goldmünzen bei mir ...",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_03_02": "Was soll ich denn mit Münzen? Wir handeln hier mit Goldbrocken. Wenn du keine hast, müssen wir gar nicht weiterreden.",
+  "DIA_Guard_QA306_AlreadyPayed_15_01": "Ich habe dich schon bezahlt!",
+  "DIA_Guard_QA306_AlreadyPayed_03_02": "Mann, in letzter Zeit waren so viele von euch hier, dass ich nicht mehr mitkomme.",
+  "DIA_Guard_QA306_AlreadyPayed_03_03": "Vielleicht hast du bezahlt, vielleicht auch nicht. Als Zeichen meines guten Willens musst du nur die Hälfte zahlen. Wenn du nicht zahlen willst, verschwindest du besser, sonst werde ich sauer.",
+  "DIA_Guard_QA306_Why_15_01": "Warum sollte ich dafür bezahlen vorbeizukommen?",
+  "DIA_Guard_QA306_Why_03_02": "Ich denke, die Sache ist klar. Dieser Teil der Mine ist geschlossen. Deine kleine Spende ist für ... äh ... die Instandsetzung dieser schönen und vergessenen Schächte.",
+  "DIA_Guard_QA306_Why_03_03": "Zehn Goldbrocken sind eine wirklich faire Spende.",
+  "DIA_Guard_QA306_Pay_03_01": "Du bist herzlich willkommen.",
+  "DIA_Guard_QA306_Pay_5_Choice": "(5 Goldbrocken bezahlen)",
+  "DIA_Guard_QA306_Pay_10_Choice": "(10 Goldbrocken bezahlen)"
+}

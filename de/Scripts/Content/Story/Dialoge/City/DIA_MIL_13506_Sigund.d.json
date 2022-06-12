@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Sigund_QA304_StopRightThere_03_01": "Halt! Was machst du hier? Ich habe alles gesehen! Du hast diese Kisten den ganzen Weg von den Docks hierher gebracht und sie in diesem Lagerhaus abgestellt.",
+  "DIA_Sigund_QA304_StopRightThere_03_02": "Sag mir sofort, was diese Fracht ist und ob du die entsprechenden Genehmigungen hast.",
+  "DIA_Sigund_QA304_StopRightThere_Duster_15_01": "Wo ist Duster?",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_02": "Er ist krank geworden und kann sich nicht mehr als einen Meter von der Latrine entfernen. Glaub mir, ich bin auch nicht glücklich über die zusätzliche Schicht!",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_03": "Warum fragst du nach ihm? Hattest du ihn erwartet? Habt ihr eine Abmachung?! Rede!",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_15_01": "Vielleicht können wir uns einigen. Ich nehme an, nachts durch die Stadt zu laufen, ist nicht gerade dein Ding. Vielleicht könnten wir dir einen kurzen Besuch in der Schenke bezahlen?",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_03_02": "Eine Stadtwache im Dienst hat die Pflicht, nüchtern zu sein! Glaub nicht, dass du mich einfach abwimmeln kannst!",
+  "DIA_Sigund_QA304_StopRightThere_Stun_15_01": "Täusche ich mich oder ist da ein Feuer?",
+  "DIA_Sigund_QA304_StopRightThere_Stun_03_02": "Was?",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_01": "Wir tragen Öl.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_02": "Du weißt wahrscheinlich, dass man es nicht dem Sonnenlicht aussetzen darf, also kümmern wir uns nachts darum. Tagsüber wäre es dem Licht ausgesetzt und würde seine Eigenschaften verlieren.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_03": "Ja, sicher, ich weiß, aber für Öl riecht es ziemlich stechend.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_04": "Das liegt daran, dass es nicht belichtet ist. Auf diese Art brennt es besser.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_05": "Ah, verstehe. Okay, ihr könnt weiterarbeiten.",
+  "DIA_Sigund_QA304_StopRightThere_Gold_15_01": "So soll es sein. Für den Ruhm des Vaterlandes!",
+  "DIA_Sigund_Hello_03_01": "Was werde ich als Stadtwache schon tun? Patrouillen, Aufpassen, mich mit unhöflichen Bürgern beschäftigen.",
+  "DIA_Sigund_Ambient_03_01": "Wie immer im Dienst, nichts Interessantes.",
+  "DIA_Sigund_Ambient_03_02": "Gut so. Ich hoffe, ich muss mich nie wieder mit Leuten herumschlagen, die nachts Kisten irgendwohin schleppen.",
+  "DIA_Sigund_QA304_StopRightThere_Stun_Choice": "Bilde ich mir das nur ein, oder ist da Feuer? (Bewusstlos schlagen)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Choice": "Vielleicht können wir uns irgendwie einigen? (Bestechen)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Gold_Choice": "So soll es sein. Für den Ruhm des Vaterlandes! (50 Gold geben)"
+}

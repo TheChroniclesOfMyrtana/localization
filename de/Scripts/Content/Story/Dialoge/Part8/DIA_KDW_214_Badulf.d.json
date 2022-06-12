@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Badulf_FirstWarn_03_01": "Halt! Niemand darf ohne Erlaubnis die Katakomben des Klosters betreten!",
+  "DIA_Badulf_SecondWarn_03_01": "Dreh um!",
+  "DIA_Badulf_LastWarn_03_01": "Adanos, gib mir Kraft!",
+  "DIA_Badulf_Why_15_01": "Warum?",
+  "DIA_Badulf_Why_03_02": "Dies ist ein direkter Befehl des Priors. Nur Erzmagiern ist der Zutritt erlaubt.",
+  "DIA_Badulf_What_15_01": "Was ist in diesem Keller?",
+  "DIA_Badulf_What_03_02": "Hinter meinem Rücken befinden sich die Katakomben des Klosters. Nichts, was dich angehen sollte, junger Mann.",
+  "DIA_Badulf_Angry_03_01": "Glaube nicht, ich wüsste nicht von deinem Besuch in den Katakomben.",
+  "DIA_Badulf_Angry_03_02": "Du hast Glück, dass nichts Wertvolles fehlt, sonst hätte sich Notger persönlich um dich gekümmert.",
+  "DIA_Badulf_Pass_15_01": "Bewachst du nicht den Eingang zu den Katakomben?",
+  "DIA_Badulf_Pass_03_02": "Gerade bewacht ein anderer Magier die Tür. Wir wechseln uns von Zeit zu Zeit ab.",
+  "DIA_Badulf_Pass_03_03": "Dort unten auf dem Gang zu stehen, mag eine tolle Art zu meditieren sein, aber jeder braucht von Zeit zu Zeit etwas frische Luft.",
+  "DIA_Badulf_Potion_15_01": "Kann ich ein paar Heiltränke von dir bekommen?",
+  "DIA_Badulf_Potion_03_02": "Du siehst für mich nicht krank aus, aber so sei es. Nimm diesen Trank.",
+  "DIA_Badulf_Potion_03_03": "Aber für den nächsten Trank wirst du bezahlen müssen. Unser Kloster braucht Gold, um den Mittellosen zu helfen.",
+  "DIA_Badulf_Ambient_03_01": "Ich versuche zu meditieren. Stör mich nicht!",
+  "DIA_Badulf_Ambient_03_02": "Ich habe dir bereits gesagt, dass ich dich nicht vorbeilassen kann.",
+  "DIA_Badulf_Ambient_03_03": "Du liegst falsch, solltest du hoffen, mich aus dem Gleichgewicht zu bringen."
+}

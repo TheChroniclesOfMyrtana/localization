@@ -1,0 +1,21 @@
+﻿{
+  "DIA_Joris_EXIT_15_01": "Ich muss gehen.",
+  "DIA_Joris_EXIT_03_02": "Ich wünsche dir eine gute Reise.",
+  "DIA_Joris_Who_15_01": "Wer bist du?",
+  "DIA_Joris_Who_03_02": "Mein Name ist Joris und ich leite diese Mühle. Beeindruckend, nicht wahr?",
+  "DIA_Joris_Who_Dunno_15_01": "Eine Mühle wie jede andere. Ich weiß nichts über Mühlen.",
+  "DIA_Joris_Who_Dunno_03_02": "In diesen Zeiten sind sie von unglaublichem Wert, besonders wenn uns Hungersnöte bevorstehen.",
+  "DIA_Joris_Who_Nice_15_01": "Sie ist wirklich beeindruckend.",
+  "DIA_Joris_Who_Nice_03_02": "Sie wurde von den besten Zimmerleuten auf Archolos gefertigt, die sie nach den neusten Entwürfen fertigten.",
+  "DIA_Joris_Who_Nice_03_03": "Dank ihrer soliden Konstruktion und dem Steinsockel, auf dem sie sich dreht, kann sie auch der stärkste Wind nicht umwerfen.",
+  "DIA_Joris_Who_Nice_03_04": "Bermar, der Besitzer dieses Hofs, hat ein Vermögen in sie investiert, nachdem die letzten Unwetter die alten Gebäude zerstört haben.",
+  "DIA_Joris_Bermar_15_01": "Was kannst du mir über Bermar erzählen?",
+  "DIA_Joris_Bermar_03_02": "Er ist nicht der netteste Mensch, aber er ist ein ausgezeichneter Geschäftsmann.",
+  "DIA_Joris_Bermar_03_03": "Wenn er nicht gewesen wäre, wäre dieser Hof ein Drecksloch am Rande der Zivilisation.",
+  "DIA_Joris_Bermar_03_04": "Bermar kümmert sich mehr um seinen Hof als um seine eigenen Kinder.",
+  "DIA_Joris_Ambient_15_01": "Wie geht's?",
+  "DIA_Joris_Ambient_03_02": "Die Mühle mahlt wie eh und je und der Boden ist ertragreich.",
+  "DIA_Joris_Ambient_03_03": "Andere würden sagen, dass es den Göttern zu verdanken ist, aber für mich ist es einfach das Ergebnis harter Arbeit und Hingabe.",
+  "DIA_Joris_Ambient_03_04": "Wie ein altes Sprichwort sagt: Windmühlen kann man nicht mit Blasebälgen treiben.",
+  "DIA_Joris_Who_Dunno_Choice": "Ich weiß nichts über Mühlen."
+}

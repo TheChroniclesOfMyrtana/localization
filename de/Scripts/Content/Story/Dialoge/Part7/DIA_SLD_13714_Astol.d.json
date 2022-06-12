@@ -1,0 +1,17 @@
+﻿{
+  "DIA_Astol_HELLO_03_01": "Hallo, du musst müde sein nach dem ganzen Goldhacken.",
+  "DIA_Astol_HELLO_03_02": "Leg dich für eine Weile auf eines dieser bequemen Schaffellbetten und ruhe dich aus. So kommst du wieder zu Kräften und bist bereit weiterzumachen.",
+  "DIA_Astol_HELLO_Yes_15_01": "Danke, der Schlaf wird mir gut tun.",
+  "DIA_Astol_HELLO_No_15_01": "Vielleicht ein andermal.",
+  "DIA_Astol_AfterSleep_03_01": "Wie hast du geschlafen?",
+  "DIA_Astol_AfterSleep_15_02": "Ziemlich gut.",
+  "DIA_Astol_AfterSleep_03_03": "Das ist großartig. Sieben Goldbrocken.",
+  "DIA_Astol_AfterSleep_15_04": "Du hast nicht gesagt, dass ich für das Bett zahlen muss!",
+  "DIA_Astol_AfterSleep_03_05": "Ich denke, das ist offensichtlich. Wirst du zahlen, oder muss ich es mir selbst nehmen?",
+  "DIA_Astol_AfterSleep_03_06": "Müde? Du hast doch an die sieben Brocken für die Nutzung gedacht, oder?",
+  "DIA_Astol_AfterSleep_Pay_15_01": "Was soll's, nimm die Brocken.",
+  "DIA_Astol_AfterSleep_Pay_03_02": "Kluger Junge. Wenn du mal wieder ein Nickerchen brauchst, weißt du, wo du mich findest.",
+  "DIA_Astol_AfterSleep_No_15_01": "Von mir bekommst du nichts.",
+  "DIA_Astol_AfterFight_03_02": "Danke, dass du unsere Dienste in Anspruch genommen hast und komm bald wieder.",
+  "DIA_Astol_AfterFight_03_01": "Behalt deine Brocken. Geh mir aus den Augen!"
+}

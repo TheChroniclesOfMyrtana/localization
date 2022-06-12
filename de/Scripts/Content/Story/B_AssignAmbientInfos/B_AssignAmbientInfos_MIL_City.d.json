@@ -1,0 +1,21 @@
+﻿{
+  "DIA_MIL_FMQ002_15_01": "Roderich hat mir gesagt, ich soll mir ein Schwert besorgen. Irgendwelche Ideen?",
+  "DIA_MIL_FMQ002_CanUShow_15_01": "Kann ich mal dein Schwert sehen?",
+  "DIA_MIL_FMQ002_CanUShow_Rude_15_03": "Komm schon, quatsch nicht rum.",
+  "DIA_MIL_FMQ002_NeedSword_15_01": "Ich brauche eins, um der Stadtwache beizutreten.",
+  "DIA_MIL_FMQ002_SwordScheme_15_01": "Ich möchte gerne wissen, wie es hergestellt ist, damit ich mir eins schmieden kann.",
+  "DIA_MIL_FMQ002_WantToJoin_15_01": "Du musst mir vertrauen, ich möchte mich euch anschließen.",
+  "DIA_MIL_FMQ002_HaveGold_15_01": "Was hältst du davon, wenn ich dir ein paar Goldstücke als Pfand gebe?",
+  "DIA_MIL_FMQ002_SwordScheme_No_15_01": "Vergiss es.",
+  "DIA_MIL_FMQ002_SwordScheme_Yes_15_02": "Das sollte reichen, hier ist dein Schwert.",
+  "DIA_MIL_FMQ002_SwordScheme_Thanks_15_01": "Danke für deine Hilfe.",
+  "DIA_MIL_FMQ002_SwordScheme_MissingGold_15_01": "Hey! Gib mir den Rest!",
+  "DIA_MIL_Roderich_15_02": "Ich bin ganz Ohr.",
+  "DIA_MIL_Roderich_What_15_01": "Ein Besuch des königlichen Gesandten?",
+  "DIA_MIL_Roderich_What_15_03": "Das Schiff? Wo ist es jetzt?",
+  "DIA_MIL_Roderich_Go_15_01": "Vielen Dank für den Bericht.",
+  "DIA_MIL_Roderich_Go_15_02": "Wegtreten.",
+  "DIA_MIL_Late_15_04": "Okay, ich komme mit. Wegtreten.",
+  "DIA_MIL_GiveArmorBack_15_02": "Was sagst du?",
+  "DIA_MIL_FMQ002_SwordScheme_CheckOut_Choice": "(Übergib das Schwert)"
+}

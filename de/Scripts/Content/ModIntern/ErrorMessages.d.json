@@ -1,0 +1,11 @@
+﻿{
+  "MOD_NAME": "Die Chroniken von Myrtana: Archolos",
+  "ERROR_LAA": "'Large Address Aware' (LAA) wurde nicht erkannt. Das Spiel kann nicht mehr als 2 GB Speicher verarbeiten. Bitte installiere einen 4GB Patch, z.B.: https://ntcore.com/?page_id=371",
+  "ERROR_SAVE_LANGUAGEMISMATCH": "Der Spielstand kann nicht geladen werden, da die Sprache des Speicherstands nicht mit der aktuellen Sprache des Spiels übereinstimmt!",
+  "ERROR_SAVE_NOTCOMPATIBLE": "Der Spielstand kann nicht geladen werden, da er nicht mit der aktuellen Spielversion kompatibel ist. Wenn du dein Spiel fortsetzen möchten, wechsel bitte den Branch im Launcher oder auf Steam/GOG. Folge dazu bitte dieser Kurzanleitung: https://thechroniclesofmyrtana.com/saves-compatibility",
+  "ERROR_KMLIB_2": "KmLib.dll konnte nicht geladen werden! Bitte installiere die Anwendung neu oder wende dich an den technischen Support. Fehlercode: ",
+  "ERROR_KMLIB_126": "Die Bibliothek KmLib.dll konnte nicht geladen werden! Bitte installiere die neuesten Visual Studio Dateien https://aka.ms/vs/16/release/vc_redist.x86.exe und https://aka.ms/vs/16/release/vc_redist.x64.exe. Fehlercode: ",
+  "ERROR_KMLIB_OTHER": "Die Bibliothek KmLib.dll konnte nicht geladen werden! Bitte installiere die Anwendung neu oder wende dich an den technischen Support. Fehlercode: ",
+  "ERROR_KMLIB_GETPROCADDRESS": "Es konnte keine Funktion aus der Bibliothek KmLib.dll geladen werden! Bitte installiere die Anwendung neu oder wenden dich an den technischen Support. Fehlercode: ",
+  "MESSAGE_VDFS_MISMATCH": "Es wurde eine inkompatible Version des SystemPacks erkannt. Vorerst wird von dieser Mod nur SystemPack 1.8 offiziell unterstützt.\\nWir garantieren keine Kompatibilität zu anderen Version, anderen Patches, Union etc."
+}

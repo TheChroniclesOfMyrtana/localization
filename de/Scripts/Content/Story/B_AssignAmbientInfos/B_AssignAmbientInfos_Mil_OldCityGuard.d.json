@@ -1,0 +1,21 @@
+﻿{
+  "DIA_OldCityGuard_FirstWarn_03_01": "Moment mal! Wo willst du denn hin?",
+  "DIA_OldCityGuard_FirstWarn_15_02": "Na da durch.",
+  "DIA_OldCityGuard_FirstWarn_03_03": "Dein Ruf eilt dir voraus! Geh zu Roderich und erkläre dich.",
+  "DIA_OldCityGuard_FirstWarn_03_04": "Bis dahin gibt es keinen Zutritt.",
+  "DIA_OldCityGuard_FirstWarn_03_07": "Tut mir leid, laut Vorschrift haben nur die Wachen, die diesen Bezirk bewachen Zutritt zur Altstadt.",
+  "DIA_OldCityGuard_FirstWarn_03_11": "Kein Durchgang!",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_01": "Ich wusste nicht, dass ich dafür einen Passierschein brauche.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_02": "Glaubst du, ich lasse hier jeden durch? Kannst du vergessen, Kumpel.",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_03": "Woher bekommt man so ein Dokument?",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_04": "Du müsstest ein Haus in der Altstadt besitzen oder von einem Mitglied des Stadtrats eine Erlaubnis erhalten.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_05": "Ich gehe mal davon aus, dass beides nicht auf dich zutrifft.",
+  "DIA_OldCityGuard_FirstWarn_Why_15_01": "Warum nicht?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_02": "Ich bin schließlich ein Bürger dieser Stadt.",
+  "DIA_OldCityGuard_FirstWarn_Why_03_03": "Hast du einen Passierschein dabei?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_04": "Von welcher Art von Passierschein redest du?",
+  "DIA_OldCityGuard_FirstWarn_Why_03_05": "Von einem Passierschein, der dir das Betreten der Altstadt erlaubt.",
+  "DIA_OldCityGuard_SecondWarn_03_01": "Ich sagte doch gerade etwas. Was hast du daran nicht verstanden?",
+  "DIA_OldCityGuard_LastWarn_03_01": "Du hast es so gewollt!",
+  "DIA_OldCityGuard_FirstWarn_15_06": "Du hast nichts dagegen, oder? Ich bin schließlich bei der Stadtwache."
+}

@@ -1,0 +1,20 @@
+﻿{
+  "DIA_MARVIN_Q501Potion_15_01": "Oh, Mist! Meine Hände zittern noch immer ... In diesem Zustand kann ich keinen Trank brauen!",
+  "PC_PotionAlchemy_Regenerate_Description": "Regenerationstränke brauen.",
+  "PC_Mana_Start_Description": "Manatränke brauen.",
+  "PC_Special_Start_Description": "Permanente Tränke brauen.",
+  "PC_PotionAlchemy_Timed_Description": "Temporäre Tränke brauen.",
+  "PC_PotionAlchemy_Seed_Description": "Tränke aus Samen brauen.",
+  "PC_Health_Start_Description": "Heiltränke brauen.",
+  "PC_PotionAlchemy_Other_Description": "Sonstiges.",
+  "PC_PotionAlchemy_Other_Ore_Description": "Magisches Erz zerkleinern.",
+  "PC_PotionAlchemy_Other_Ore_One_Description": "1 Brocken zerkleinern.",
+  "PC_PotionAlchemy_Other_Ore_Five_Description": "5 Brocken zerkleinern.",
+  "PC_PotionAlchemy_Other_Ore_Ten_Description": "10 Brocken zerkleinern.",
+  "PC_PotionAlchemy_Other_Ore_All_Description": "Alle Brocken zerkleinern.",
+  "PC_Poison_Start_Description": "Gift mischen.",
+  "PC_Q501Potion_Start_Description": "Dagoberts Panazee brauen.",
+  "PC_Q307Potion_Start_Description": "Gift und Gegengift für Ben brauen.",
+  "PC_Poison_SQ228_Description": "Rattengift mischen.",
+  "PC_Tabak_Start_Description": "Tabak mischen und Stengel drehen."
+}

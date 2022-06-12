@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Bodyguard01_HELLO_15_01": "Hi, ich bin ...",
+  "DIA_Bodyguard01_HELLO_03_02": "Münze.",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_03_01": "Der Boss ist drinnen. Er erwartet dich.",
+  "DIA_Bodyguard01_GoAway_03_01": "Ich habe keine Zeit, sprich mit dem Boss.",
+  "DIA_Bodyguard01_GoAway_03_02": "Sprich mit dem Boss.",
+  "DIA_Bodyguard01_GoAway_03_03": "Lass mich in Ruhe.",
+  "DIA_Bodyguard01_GoAway_03_04": "Hau ab, Junge!",
+  "DIA_Bodyguard_Fight_03_01": "Verdammt, du bist es!",
+  "DIA_Bodyguard_Fight_Nightmare_15_01": "Ja, ich bin es, dein schlimmster Albtraum.",
+  "DIA_Bodyguard_Fight_Nightmare_03_02": "Jetzt hast du mich zum Lachen gebracht, Junge.",
+  "DIA_Bodyguard_Fight_Nightmare_03_03": "Gut, das war nett, aber jetzt ist Zeit die Sumpfhaie zu füttern.",
+  "DIA_Bodyguard_Fight_Looking_15_01": "Hast du nach mir gesucht?",
+  "DIA_Bodyguard_Fight_Looking_03_02": "Äh, ja ... mein Boss hat mir gesagt, ich soll dir etwas ausrichten ...",
+  "DIA_Bodyguard_Fight_Looking_03_03": "Okay, wem mache ich was vor ...",
+  "DIA_Bodyguard01_HELLO_GoldCoin_Choice": "(Goldmünze zeigen)",
+  "DIA_Bodyguard01_HELLO_OldCoin_Choice": "(Alte Münze zeigen)",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_Choice": "(Seltsame Münze zeigen)",
+  "DIA_Bodyguard01_HELLO_Fist_Choice": "(Faust zeigen - Provozieren)"
+}

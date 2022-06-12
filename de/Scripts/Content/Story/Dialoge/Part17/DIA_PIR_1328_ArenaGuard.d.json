@@ -1,0 +1,17 @@
+﻿{
+  "DIA_ArenaGuard_ArenaNoInvite_15_01": "Was ist hinter den Gittern?",
+  "DIA_ArenaGuard_ArenaNoInvite_03_01": "Der Platz für Turnierteilnehmer. Jeder zählt darauf, dass du am nächsten Turnier teilnimmst.",
+  "DIA_ArenaGuard_ArenaNoInvite_03_02": "Der Platz für Turnierteilnehmer. Keine Sorge, du wirst keine Gelegenheit bekommen ihn von innen zu sehen.",
+  "DIA_ArenaGuard_ArenaNoInvite_Details_03_01": "Unter der Tribüne gibt es einen speziellen Käfig für verschiedene Tiere. Zugegeben, er wurde schon lange nicht mehr benutzt, aber offenbar hat sich Cortez mit Proximo diesmal etwas Besonderes einfallen lassen.",
+  "DIA_ArenaGuard_ArenaSignedIn_15_01": "Ich bin einer der Teilnehmer des Turniers.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_01": "Ja, das habe ich mitbekommen. Ich öffne jetzt das Tor. Komm herein und mach es dir bequem.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_02": "Wenn du dich gut schlägst, darfst du vielleicht den Großteil des Abends dort verbringen.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_03": "Proximo sollte noch drinnen sein. Er wird dir alles erklären.",
+  "DIA_ArenaGuard_Q306_GiveUp_15_01": "Ich habe genug von diesem Kampf, ich will aus dem Turnier aussteigen.",
+  "DIA_ArenaGuard_Q306_GiveUp_03_01": "Du warst ziemlich gut, bist du sicher?",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_15_01": "Ja.",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_03_01": "Wie du willst, du hast wahrscheinlich Angst vor Ben.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_15_01": "Nein.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_Choice": "Nein",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_Choice": "Ja"
+}
