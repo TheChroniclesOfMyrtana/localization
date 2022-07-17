@@ -2,8 +2,8 @@
   "DIA_Huug_WELCOME_03_01": "Hello, customer. Have you come to see the most sacred relics? Just be careful, these are powerful magical items! I even have the tears of Adanos here!",
   "DIA_Huug_WELCOME_03_02": "Just one drop added to your drink and in no time, any woman will love you for the rest of her days!",
   "DIA_Huug_WELCOME_03_03": "Or are you looking for riches? If so, here is the Crown of Adanos. Put it on and riches will come to you!",
-  "DIA_Huug_WELCOME_03_04": "Hm, you seem unconcerned. In that case, take a look at the Beliar's Whisper. But be careful! If you open the bottle, the scent will drive your enemies mad!",
-  "DIA_Huug_WELCOME_03_05": "And if you are a connoisseur of weapons, I have here the Breath of Death, the sword of the god of darkness himself! Then there's the Staff of Adanos, the Burning Blade of Doom, the Armor of Chaos...",
+  "DIA_Huug_WELCOME_03_04": "Hm, you seem unconcerned. In that case, take a look at the Whisper of Beliar. But be careful! If you open the bottle, the scent will drive your enemies mad!",
+  "DIA_Huug_WELCOME_03_05": "And if you are a connoisseur of weapons, I have here the Breath of Death, the sword of the god of darkness himself! Then there's the Staff of Adanos, the Flaming Sword of Doom, the Armor of Chaos...",
   "DIA_Huug_NICESTUFF_Description": "All those relics of yours look cheap.",
   "DIA_Huug_NICESTUFF_15_01": "Impressive offer, but all those relics of yours, as you call them, look... cheap.",
   "DIA_Huug_NICESTUFF_03_02": "It is for the sake of appearances! The wise gods placed particles of their power in simple objects so that greedy people would not lay their unworthy hands on them.",
@@ -81,9 +81,9 @@
   "DIA_Huug_CQ005_Enough_Choice": "Stop this farce.",
   "DIA_Huug_CQ005_Cost_TakeIt_Choice": "Okay, I'll take it. (100 GP)",
   "DIA_Huug_SQ313_GotYou_Wait_Choice": "Be reasonable.",
-  "DIA_Huug_Trade_Doom_Choice": "Burning Blade of Death. (50 GP)",
-  "DIA_Huug_Trade_Death_Choice": "Death's Breath. (50 GP)",
-  "DIA_Huug_Trade_Adanos_Choice": "The Staff of Adanos. (50 GP)",
-  "DIA_Huug_Trade_Beliar_Choice": "Beliar's Whisper. (40 GP)",
-  "DIA_Huug_Trade_Crown_Choice": "The Crown of Adanos. (40 GP)"
+  "DIA_Huug_Trade_Doom_Choice": "Flaming Sword of Doom. (50 GP)",
+  "DIA_Huug_Trade_Death_Choice": "Breath of Death. (50 GP)",
+  "DIA_Huug_Trade_Adanos_Choice": "Staff of Adanos. (50 GP)",
+  "DIA_Huug_Trade_Beliar_Choice": "Whisper of Beliar. (40 GP)",
+  "DIA_Huug_Trade_Crown_Choice": "Crown of Adanos. (40 GP)"
 }

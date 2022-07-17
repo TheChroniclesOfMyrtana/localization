@@ -93,7 +93,7 @@
 	"MENU_TEXT_OPTIONS_AUDIO_PROVIDER": "Źródło dźwięku",
 	"MENU_TEXT_OPTIONS_AUDIO_PROVIDER_COMMENT": "Zmiany uaktywnią się po ponownym uruchomieniu!",
 	"MENU_TEXT_OPTIONS_AUDIO_SPEEKER": "Głośniki",
-	"MENU_TEXT_OPTIONS_AUDIO_SPEEKER_CHOICE": "2 głośniki|Słuchawki|Surround|4 głośniki",
+	"MENU_TEXT_OPTIONS_AUDIO_SPEEKER_CHOICE": "2 głośniki|Słuchawki|Surround|4 głośniki|głośniki 5.1|głośniki 7.1",
 	"MENU_TEXT_OPTIONS_AUDIO_REVERB": "Pogłos",
 	"MENU_TEXT_OPTIONS_AUDIO_REVERB_COMMENT": "Włącza pogłos w jaskiniach (wymaga ponownego uruchomienia).",
 	"MENU_TEXT_OPTIONS_AUDIO_SAMPLERATE": "Próbkowanie",
