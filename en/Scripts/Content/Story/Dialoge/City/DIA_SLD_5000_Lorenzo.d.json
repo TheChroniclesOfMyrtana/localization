@@ -654,7 +654,7 @@
   "DIA_Lorenzo_QA306_Start_Go_15_01": "I'll head out to the mine in the next few days.",
   "DIA_Lorenzo_QA306_Start_Go_03_02": "Keep your eyes and ears open!",
   "DIA_Lorenzo_QA306_Finish_03_01": "It's good you're here, we need to talk about what you did at the mine. Bloodwyn has already told me everything.",
-  "DIA_Lorenzo_QA306_Finish_Next_03_01": "Easy, boy. You think you can fool me that easily?",
+  "DIA_Lorenzo_QA306_Finish_Next_03_01": "Easy, boy. Do you think I can be deceived so easily?",
   "DIA_Lorenzo_QA306_Finish_Next_03_02": "I listened calmly to what Bloodwyn had to say. I sifted the truth from the lies and eventually Bloodwyn received a ticket from me for an exciting trip to the Valley of Mines.",
   "DIA_Lorenzo_QA306_Finish_Next_03_03": "That fool tried to blame the whole mine situation on you. The only thing he didn't foresee was that you were working directly under my orders.",
   "DIA_Lorenzo_QA306_Finish_Next_03_04": "In this way he told me all his methods and offenses as if they applied to you, and I received clear evidence of his guilt.",
@@ -762,7 +762,7 @@
   "DIA_Lorenzo_KQ403_Kaleb_Teleport_Choice": "(Go to Kaleb)",
   "DIA_Lorenzo_QA401_Start_Trace_What_Choice": "What should I do once I'm done with it?",
   "DIA_Lorenzo_QA401_Finish_OneSmuggler_Choice": "We let one smuggler go so he talk about what happened.",
-  "DIA_Lorenzo_QA306_Ask_Yes_Choice": "I visited her some time ago.",
+  "DIA_Lorenzo_QA306_Ask_Yes_Choice": "I visited it some time ago.",
   "DIA_Lorenzo_QA306_Start_Weird_Choice": "And it won't be suspicious if I suddenly return to the mine?",
   "DIA_Lorenzo_QA306_Finish_Lie_Choice": "Whatever he said is lies!"
 }

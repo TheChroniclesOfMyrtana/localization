@@ -3,7 +3,7 @@
   "DIA_Huug_WELCOME_03_02": "Nur ein Tropfen davon in deinem Getränk und im Handumdrehen wird jede Frau dich für den Rest ihrer Tage lieben!",
   "DIA_Huug_WELCOME_03_03": "Oder bist du auf der Suche nach Reichtum? Wenn ja, hier ist die Krone Adanos'. Setz sie auf und der Reichtum kommt zu dir!",
   "DIA_Huug_WELCOME_03_04": "Hm, du scheinst unbesorgt zu sein. Wenn das so ist, dann sieh dir Beliars Flüstern an. Aber sei vorsichtig! Wenn du die Flasche öffnest, wird der Duft deine Feinde in den Wahnsinn treiben!",
-  "DIA_Huug_WELCOME_03_05": "Und wenn du ein Waffenkenner bist, habe ich hier den Hauch des Todes, das Schwert des Gottes der Dunkelheit selbst! Dann gibt es noch den Stab Adanos', die Brennende Klinge des Todes, die Rüstung des Chaos ...",
+  "DIA_Huug_WELCOME_03_05": "Und wenn du ein Waffenkenner bist, habe ich hier den Todeshauch, das Schwert des Gottes der Dunkelheit selbst! Dann gibt es noch den Stab Adanos', die Brennende Klinge des Todes, die Rüstung des Chaos ...",
   "DIA_Huug_NICESTUFF_Description": "Diese Artefakte sehen alle ziemlich billig aus.",
   "DIA_Huug_NICESTUFF_15_01": "Beeindruckendes Sortiment, aber all diese sogenannten Artefakte sehen ... billig aus.",
   "DIA_Huug_NICESTUFF_03_02": "Alles eine Frage der Erscheinung! Die Götter haben in ihrer Weisheit Teile ihrer Macht in simple Gegenständen übertragen, damit gierige Menschen nicht ihre unwürdigen Hände danach ausstrecken.",
@@ -29,7 +29,7 @@
   "DIA_Huug_CQ005_EyeOfInnos_Description": "Ich möchte für das Auge bezahlen. (100 Gold)",
   "DIA_Huug_CQ005_EyeOfInnos_15_01": "Ich möchte für das Auge bezahlen.",
   "DIA_Huug_CQ005_Alright_15_01": "Ich bin ganz Ohr ...",
-  "DIA_Huug_CQ005_Alright_03_02": "Der Plan ist sehr einfach. Du wist mit ihm um Mitternacht zum Innosschrein, direkt vor dem Osttor, kommen.",
+  "DIA_Huug_CQ005_Alright_03_02": "Der Plan ist sehr einfach. Du wirst mit ihm um Mitternacht zum Innosschrein direkt vor dem Osttor kommen.",
   "DIA_Huug_CQ005_Alright_03_03": "Um die Macht des Auges zu aktivieren, muss man ein spezielles ... Ritual des Feuers durchführen, für das die Anwesenheit eines wahren Paladins erforderlich ist.",
   "DIA_Huug_CQ005_Alright_15_04": "Das klingt nicht sehr überzeugend.",
   "DIA_Huug_CQ005_Alright_03_05": "Du willst doch das Problem des verrückten Paladin lösen, ich möchte meinen Laden behalten, also haben wir das gleiche Ziel. Außerdem, glaubst du wirklich, ich wäre in der Lage einen Paladin zu verletzen?",
@@ -83,7 +83,7 @@
   "DIA_Huug_SQ313_GotYou_Wait_Choice": "Sei vernünftig.",
   "DIA_Huug_Trade_Doom_Choice": "Brennende Klinge des Todes. (50 Gold)",
   "DIA_Huug_Trade_Death_Choice": "Todeshauch. (50 Gold)",
-  "DIA_Huug_Trade_Adanos_Choice": "Der Stab Adanos'. (50 Gold)",
+  "DIA_Huug_Trade_Adanos_Choice": "Stab Adanos'. (50 Gold)",
   "DIA_Huug_Trade_Beliar_Choice": "Beliars Flüstern. (40 Gold)",
   "DIA_Huug_Trade_Crown_Choice": "Die Krone Adanos'. (40 Gold)"
 }

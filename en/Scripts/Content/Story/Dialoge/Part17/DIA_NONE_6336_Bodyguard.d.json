@@ -13,8 +13,8 @@
   "DIA_Bodyguard_Fight_Looking_15_01": "Have you been looking for me?",
   "DIA_Bodyguard_Fight_Looking_03_02": "Uh, yeah... my boss told me to tell you something...",
   "DIA_Bodyguard_Fight_Looking_03_03": "Okay, who am I kidding...",
-  "DIA_Bodyguard01_HELLO_GoldCoin_Choice": "(Show gold coin)",
-  "DIA_Bodyguard01_HELLO_OldCoin_Choice": "(Show old coin)",
-  "DIA_Bodyguard01_HELLO_WeirdCoin_Choice": "(Show a strange coin)",
+  "DIA_Bodyguard01_HELLO_GoldCoin_Choice": "(Show a gold coin)",
+  "DIA_Bodyguard01_HELLO_OldCoin_Choice": "(Show an old coin)",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_Choice": "(Show the strange coin)",
   "DIA_Bodyguard01_HELLO_Fist_Choice": "(Show fist - Provoke)"
 }
