@@ -1,0 +1,21 @@
+﻿{
+  "DIA_OldCityGuard_FirstWarn_03_01": "Эй, эй! Куда ты собрался?",
+  "DIA_OldCityGuard_FirstWarn_15_02": "Вперёд.",
+  "DIA_OldCityGuard_FirstWarn_03_03": "Твоя репутация опережает тебя! Иди к Родериху и разберись.",
+  "DIA_OldCityGuard_FirstWarn_03_04": "До тех пор вход запрещён.",
+  "DIA_OldCityGuard_FirstWarn_03_07": "Извини, согласно правилам, только охраняющим этот квартал стражникам разрешён вход в Старый город.",
+  "DIA_OldCityGuard_FirstWarn_03_11": "Проход запрещён!",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_01": "Я не знал, что для этого нужен пропуск.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_02": "Ты думаешь, я пропущу кого угодно? Ни за что, приятель.",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_03": "Где можно получить такой документ?",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_04": "Ты должен иметь дом в Старом городе или получить разрешение на вход от кого-нибудь из городского совета.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_05": "Смею предположить, что ничего из этого у тебя нет.",
+  "DIA_OldCityGuard_FirstWarn_Why_15_01": "Почему запрещён?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_02": "Я, в конце концов, гражданин этого города.",
+  "DIA_OldCityGuard_FirstWarn_Why_03_03": "А пропуск у тебя есть?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_04": "О каком пропуске ты говоришь?",
+  "DIA_OldCityGuard_FirstWarn_Why_03_05": "О пропуске, который даёт тебе право на вход в Старый город.",
+  "DIA_OldCityGuard_SecondWarn_03_01": "Я уже говорил! Что тебе не понятно?",
+  "DIA_OldCityGuard_LastWarn_03_01": "Ты сам напросился!",
+  "DIA_OldCityGuard_FirstWarn_15_06": "Ты ведь не против? Я городской стражник."
+}

@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Bodyguard01_HELLO_15_01": "Привет, я...",
+  "DIA_Bodyguard01_HELLO_03_02": "Монета.",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_03_01": "Хозяин внутри. Он ждёт тебя.",
+  "DIA_Bodyguard01_GoAway_03_01": "У меня нет времени. Иди к хозяину.",
+  "DIA_Bodyguard01_GoAway_03_02": "Поговори с хозяином.",
+  "DIA_Bodyguard01_GoAway_03_03": "Не беспокой меня.",
+  "DIA_Bodyguard01_GoAway_03_04": "Проваливай, парень!",
+  "DIA_Bodyguard_Fight_03_01": "Зараза, это же ты!",
+  "DIA_Bodyguard_Fight_Nightmare_15_01": "Да, это я, твой худший кошмар.",
+  "DIA_Bodyguard_Fight_Nightmare_03_02": "Теперь ты меня рассмешил, малец.",
+  "DIA_Bodyguard_Fight_Nightmare_03_03": "Ну, это было мило, но пора кормить болотожоров.",
+  "DIA_Bodyguard_Fight_Looking_15_01": "Ты искал меня?",
+  "DIA_Bodyguard_Fight_Looking_03_02": "Да... мой хозяин просил передать тебе кое-что...",
+  "DIA_Bodyguard_Fight_Looking_03_03": "Ладно, кого я обманываю...",
+  "DIA_Bodyguard01_HELLO_GoldCoin_Choice": "(Показать золотую монету)",
+  "DIA_Bodyguard01_HELLO_OldCoin_Choice": "(Показать старую монету)",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_Choice": "(Показать странную монету)",
+  "DIA_Bodyguard01_HELLO_Fist_Choice": "(Показать кулак – спровоцировать)"
+}

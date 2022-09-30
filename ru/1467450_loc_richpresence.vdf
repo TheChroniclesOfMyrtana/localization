@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"russian"
+	"Tokens"
+	{
+		"#Status_InMenu"	"В главном меню"
+		"#Status_InGame"	"{#Status_Guild_%guild%} - Уровень %level% - Глава %chapter%"
+		"#Status_Guild_None"	"Без гильдии"
+		"#Status_Guild_Citizen"	"Гражданин"
+		"#Status_Guild_WaterCircle"	"Кольцо Воды"
+		"#Status_Guild_Runner"	"Бегун"
+		"#Status_Guild_VeteranRunner"	"Старший бегун"
+		"#Status_Guild_Mercenary"	"Наёмник"
+		"#Status_Guild_Hunter"	"Охотник"
+		"#Status_Guild_VeteranMercenary"	"Старший наёмник"
+		"#Status_Guild_VeteranHunter"	"Старший охотник"
+		"#Status_Guild_Militia"	"Стражник"
+		"#Status_Guild_MilitiaVeteran"	"Старший стражник"
+		"#Status_Guild_Swordsman"	"Мечник"
+		"#Status_Guild_Crossbowman"	"Арбалетчик"
+		"#Status_Guild_VeteranSwordsman"	"Старший мечник"
+		"#Status_Guild_VeteranCrossbowman"	"Старший арбалетчик"
+	}
+}

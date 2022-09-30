@@ -1,0 +1,20 @@
+﻿{
+  "DIA_MARVIN_Q501Potion_15_01": "Вот зараза! Мои руки всё ещё дрожат... Я не могу сварить зелье в таком состоянии!",
+  "PC_PotionAlchemy_Regenerate_Description": "Зелья восстановления.",
+  "PC_Mana_Start_Description": "Варить зелья маны.",
+  "PC_Special_Start_Description": "Зелья постоянного эффекта.",
+  "PC_PotionAlchemy_Timed_Description": "Временные зелья.",
+  "PC_PotionAlchemy_Seed_Description": "Зелья из семян.",
+  "PC_Health_Start_Description": "Варить целебные зелья.",
+  "PC_PotionAlchemy_Other_Description": "Другое.",
+  "PC_PotionAlchemy_Other_Ore_Description": "Раздробить самородки магической руды.",
+  "PC_PotionAlchemy_Other_Ore_One_Description": "Раздробить 1 самородок.",
+  "PC_PotionAlchemy_Other_Ore_Five_Description": "Раздробить 5 самородков.",
+  "PC_PotionAlchemy_Other_Ore_Ten_Description": "Раздробить 10 самородков.",
+  "PC_PotionAlchemy_Other_Ore_All_Description": "Раздробить все самородки.",
+  "PC_Poison_Start_Description": "Приготовить яд.",
+  "PC_Q501Potion_Start_Description": "Сварить зелье Дагоберта.",
+  "PC_Q307Potion_Start_Description": "Сварить яд и противоядие для Бена.",
+  "PC_Poison_SQ228_Description": "Крысиный яд.",
+  "PC_Tabak_Start_Description": "Смешать табак и скрутить косяки."
+}

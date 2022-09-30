@@ -1,0 +1,21 @@
+﻿{
+  "DIA_MIL_FMQ002_15_01": "Родерих сказал, чтобы я нашёл себе меч. Есть идеи?",
+  "DIA_MIL_FMQ002_CanUShow_15_01": "Можно взглянуть на твой меч?",
+  "DIA_MIL_FMQ002_CanUShow_Rude_15_03": "Помолчи.",
+  "DIA_MIL_FMQ002_NeedSword_15_01": "Мне нужен один для вступления в стражу.",
+  "DIA_MIL_FMQ002_SwordScheme_15_01": "Я хочу изучить его конструкцию, чтобы потом выковать.",
+  "DIA_MIL_FMQ002_WantToJoin_15_01": "Ты можешь мне доверять, я хочу присоединиться к вам.",
+  "DIA_MIL_FMQ002_HaveGold_15_01": "Как насчёт нескольких золотых в качестве залога?",
+  "DIA_MIL_FMQ002_SwordScheme_No_15_01": "Так не пойдёт.",
+  "DIA_MIL_FMQ002_SwordScheme_Yes_15_02": "Я узнал всё, что хотел. Вот твой меч.",
+  "DIA_MIL_FMQ002_SwordScheme_Thanks_15_01": "Спасибо за помощь.",
+  "DIA_MIL_FMQ002_SwordScheme_MissingGold_15_01": "Эй! Отдай мне остальное!",
+  "DIA_MIL_Roderich_15_02": "Я слушаю.",
+  "DIA_MIL_Roderich_What_15_01": "Визит королевского посланника?",
+  "DIA_MIL_Roderich_What_15_03": "Корабль? Где он сейчас?",
+  "DIA_MIL_Roderich_Go_15_01": "Спасибо, что сообщил.",
+  "DIA_MIL_Roderich_Go_15_02": "Свободен.",
+  "DIA_MIL_Late_15_04": "Хорошо, я приду. Свободен.",
+  "DIA_MIL_GiveArmorBack_15_02": "Серьёзно?",
+  "DIA_MIL_FMQ002_SwordScheme_CheckOut_Choice": "(Отдать меч)"
+}

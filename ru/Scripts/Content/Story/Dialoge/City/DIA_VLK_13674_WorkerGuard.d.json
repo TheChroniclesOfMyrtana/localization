@@ -1,0 +1,19 @@
+﻿{
+  "DIA_WorkerGuard_FIRSTWARN_03_01": "Стой! Никому не разрешается приближаться к ящикам!",
+  "DIA_WorkerGuard_SECONDWARN_03_01": "Ты оглох? Я к тебе обращаюсь, проваливай!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_01": "Пропусти меня, я портовый рабочий и мне нужны дрова.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_02": "С каких пор? Вчера я тебя здесь не видел!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_03": "Не удивительно. Меня только что наняли.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_04": "Да что ты говоришь? Я спрошу у Дака, правда ли это!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_05": "В чём проблема?",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_06": "О, ни в чём! Я думаю, ты что-то задумал!",
+  "DIA_WorkerGuard_KQ406_OfferMoney_Description": "Может быть, это развеет твои сомнения? (Заплатить 100 золотых)",
+  "DIA_WorkerGuard_KQ406_OfferMoney_15_01": "Может, это развеет твои сомнения?",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_02": "Возможно. Если только ты добавишь на холодное пиво.",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_03": "Ты понятия не имеешь, как долго я тут стою. Они даже не угостят друга выпивкой.",
+  "DIA_WorkerGuard_KQ406_Give_Description": "Держи своё пиво. (Отдать пиво и 100 золотых)",
+  "DIA_WorkerGuard_KQ406_Give_15_01": "Держи своё пиво.",
+  "DIA_WorkerGuard_KQ406_Give_03_02": "Хорошо, вот чего мне не хватало.",
+  "DIA_WorkerGuard_KQ406_Give_03_03": "Бери дрова и возвращайся к работе. Корабли сами себя не построят.",
+  "DIA_WorkerGuard_KQ406_Give_03_04": "Думаю, ты забыл взять его с собой."
+}
