@@ -1,0 +1,20 @@
+﻿{
+  "DIA_MARVIN_Q501Potion_15_01": "Oh, merda! Le mie mani stanno ancora tremando... Non posso fare una pozione in questo stato!",
+  "PC_PotionAlchemy_Regenerate_Description": "Prepara pozioni di rigenerazione.",
+  "PC_Mana_Start_Description": "Prepara pozioni di mana.",
+  "PC_Special_Start_Description": "Prepara pozioni permanenti.",
+  "PC_PotionAlchemy_Timed_Description": "Prepara pozioni temporanee.",
+  "PC_PotionAlchemy_Seed_Description": "Prepara pozioni dai semi.",
+  "PC_Health_Start_Description": "Prepara pozioni curative.",
+  "PC_PotionAlchemy_Other_Description": "Altro.",
+  "PC_PotionAlchemy_Other_Ore_Description": "Frantuma le pepite di metallo magico.",
+  "PC_PotionAlchemy_Other_Ore_One_Description": "Frantuma 1 pepita.",
+  "PC_PotionAlchemy_Other_Ore_Five_Description": "Frantuma 5 pepite.",
+  "PC_PotionAlchemy_Other_Ore_Ten_Description": "Frantuma 10 pepite.",
+  "PC_PotionAlchemy_Other_Ore_All_Description": "Frantuma tutte le pepite.",
+  "PC_Poison_Start_Description": "Prepara del veleno.",
+  "PC_Q501Potion_Start_Description": "Prepara la pozione di Dagobert.",
+  "PC_Q307Potion_Start_Description": "Prepara il veleno e l'antidoto per Ben.",
+  "PC_Poison_SQ228_Description": "Prepara veleno per ratti.",
+  "PC_Tabak_Start_Description": "Miscela il tabacco e rolla gli spinelli."
+}

@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Elfeg_Hello_03_01": "Cosa ti porta da noi, giovanotto?",
+  "DIA_Elfeg_Hello_Exit_15_01": "Nulla...",
+  "DIA_Elfeg_Hello_03_02": "Sì? Non c'è nulla che ti serve?",
+  "DIA_Elfeg_Hello_Exit_03_02": "Allora vai in pace.",
+  "DIA_Elfeg_Hello_Jorn_03_02": "Purtroppo, è la prima volta che lo sento. Per molto tempo la comunità del monastero è stata chiusa rispetto alle faccende esterne e anche notizie simili non arrivano qui.",
+  "DIA_Elfeg_Hello_Jorn_03_03": "Prova a chiedere in città, sono certo che qualcuno lì potrà aiutarti.",
+  "DIA_Elfeg_MayIEnter_15_01": "Posso entrare nel monastero?",
+  "DIA_Elfeg_MayIEnter_03_01": "No, il priore ha proibito l'accesso agli estranei. Ed accezione dei malati e dei bisognosi che non hanno alcun posto dove andare. Non mi sembra il tuo caso.",
+  "DIA_Elfeg_AboutKloster_03_01": "Il monastero è stata la dimora dei Maghi dell'Acqua e dei novizi da tempi immemori. È un luogo di preghiera, lavoro e contemplazione.",
+  "DIA_Elfeg_AboutKloster_03_02": "Se ti piace la storia, ti raccomando di leggere i libri sul nostro complesso. Alcune delle storie collegate a questo luogo sono davvero affascinanti!",
+  "DIA_Elfeg_AboutKloster_03_03": "Volfzack sapeva cosa stava facendo accettando di costruire questo luogo. Senza il monastero, Archolos non sarebbe la stessa!",
+  "DIA_Elfeg_AboutWaterMages_03_01": "Probabilmente lo saprai già, ma noi siamo i sacerdoti di Adanos, i guardiani dell'equilibrio e i custodi dei malati.",
+  "DIA_Elfeg_AboutWaterMages_03_02": "Da quando il priore ha ordinato il nostro isolamento nel monastero, non siamo più liberi di lasciare l'isola e aiutare chi ha bisogno in tutta Archolos.",
+  "DIA_Elfeg_AboutWaterMages_03_03": "Solo pochi maghi selezionati servono al di fuori di queste mura. La maggior parte si trova in città.",
+  "DIA_Elfeg_Ambient_03_01": "Pace e quiete. Qui ho un sacco di tempo per la contemplazione, che può essere al contempo bellissima o irritante.",
+  "DIA_Elfeg_Ambient_03_03": "Quando penso all'attuale situazione sull'isola, inizio a chiedermi quando il priore ci consentirà finalmente di andare tra la gente per aiutarla.",
+  "DIA_Elfeg_LetMeOut_15_01": "Potresti farmi uscire?",
+  "DIA_Elfeg_Hello_Jorn_Choice": "Sto cercando mio fratello."
+}

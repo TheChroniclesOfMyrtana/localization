@@ -1,0 +1,23 @@
+﻿{
+  "DIA_FASTTRAVEL_Q201_Refused_03_01": "Ti hanno mandato via e basta, vero?",
+  "DIA_FASTTRAVEL_Q201_Refused_15_02": "A quanto pare, ho bisogno di un qualche tipo di lasciapassare.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_03": "Sì, le regole sono state inasprite di recente. Se non sei un cittadino, non entrerai senza un permesso adatto.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_04": "Sei fortunato però, si dà il caso che io possa aiutarti a entrare.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_05": "Sto andando a Silbach, potresti ottenerne uno dall'Anziano del villaggio.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_06": "Sarei felice di accompagnarti lì.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_15_01": "E che affari hai li?",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_02": "In qualità di rappresentante della Gilda dei Mercanti, come molti dei miei colleghi sparsi per l'isola, offro servizi di scorta in tutta l'isola.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_03": "Per poche monete, ti scorteremo in ogni luogo importante dell'isola.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_04": "E dato che comunque vado a Silbach, ti offro un prezzo promozionale.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_15_01": "Non c'è un altro modo per entrare in città?",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_02": "Non ho detto quello. Un lasciapassare è il modo più sicuro, ma se hai un documento che dimostra che sei stato mandato in città per qualche faccenda, dovresti essere autorizzato a entrare.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_03": "Certo c'è sempre la classica tangente, ma è piuttosto rischiosa quando non sai chi pagare e quanto. La guardie ai cancelli sono per lo più terribili.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_15_01": "Pensi che i taglialegna potrebbero scrivermi un documento del genere?",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_02": "Non può far male provare! Se hai bisogno di una scorta, sarò felice di condurti al vicino campo dei carbonai. Da lì dovresti riuscire a raggiungere Knut e i suoi uomini senza troppi problemi.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_03": "Lungo la strada, però, devo fermarmi ancora un attimo a Silbach per questioni della Gilda.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_Description": "Portami a Silbach. (10 monete d'oro)",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_15_01": "Portami a Silbach.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_02": "Andiamo.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_03": "Devi pagare per questo.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Unlocked_03_01": "Siamo arrivati. Se hai bisogno di avventurarti più lontano, è qui che puoi incontrare me o uno dei miei colleghi."
+}

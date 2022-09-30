@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Sigund_QA304_StopRightThere_03_01": "Fermi! Cosa state facendo qui? Ho visto tutto! Avete portato quelle casse dal porto e le avete lasciate in questo magazzino.",
+  "DIA_Sigund_QA304_StopRightThere_03_02": "Ditemi subito qual è il carico e se avete i permessi adeguati.",
+  "DIA_Sigund_QA304_StopRightThere_Duster_15_01": "Dov'è Duster?",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_02": "Si è ammalato e non può spostarsi a più di un metro dalla latrina. Credimi, anche a me non piacciono i lavori extra!",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_03": "Perché chiedi di lui? Lo stavi aspettando? Avete un accordo?! Parla!",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_15_01": "Forse possiamo trovare una soluzione. Suppongo che vagare per la città di notte non sia esattamente il tuo forte. Forse possiamo pagarti una breve sosta alla locanda?",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_03_02": "Una guardia in servizio ha il dovere di essere sobria! Non pensare di potermi liquidare così!",
+  "DIA_Sigund_QA304_StopRightThere_Stun_15_01": "Sbaglio o quello è un incendio?",
+  "DIA_Sigund_QA304_StopRightThere_Stun_03_02": "Cosa?",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_01": "Trasportiamo l'olio.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_02": "Probabilmente sai che non può essere esposto alla luce del sole, per questo ce ne occupiamo di notte. La luce solare altererebbe le sue proprietà.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_03": "Sì, certo che lo so, ma ha un odore piuttosto pungente per essere un olio.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_04": "Questo perché è sempre stato al chiuso. Così brucerà meglio.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_05": "Sì, certo. Bene, ora puoi tornare al lavoro.",
+  "DIA_Sigund_QA304_StopRightThere_Gold_15_01": "Così sia. Per la gloria della patria!",
+  "DIA_Sigund_Hello_03_01": "E cosa posso fare come guardia? Pattugliare, sorvegliare e occuparmi dei cittadini incivili.",
+  "DIA_Sigund_Ambient_03_01": "Come in servizio, niente di interessante.",
+  "DIA_Sigund_Ambient_03_02": "Bene. Spero di non dover mai più avere a che fare con persone che trasportano casse di notte.",
+  "DIA_Sigund_QA304_StopRightThere_Stun_Choice": "È la mia immaginazione o quello è fuoco? (Tramortisci)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Choice": "Forse possiamo trovare una soluzione? (Corrompi)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Gold_Choice": "Così sia. Per la gloria della patria! (Dai 50 monete d'oro)"
+}

@@ -1,0 +1,21 @@
+﻿{
+  "DIA_Joris_EXIT_15_01": "Devo andare.",
+  "DIA_Joris_EXIT_03_02": "Fai buon viaggio.",
+  "DIA_Joris_Who_15_01": "E tu chi sei?",
+  "DIA_Joris_Who_03_02": "Mi chiamo Joris e gestisco questo mulino. Impressionante, vero?",
+  "DIA_Joris_Who_Dunno_15_01": "Per essere un mulino è un mulino. Ma io non ne so nulla.",
+  "DIA_Joris_Who_Dunno_03_02": "Si tratta di veri e propri tesori al giorno d'oggi, particolarmente preziosi quando guardi la fame in faccia.",
+  "DIA_Joris_Who_Nice_15_01": "È davvero impressionante.",
+  "DIA_Joris_Who_Nice_03_02": "È uscito dalle mani dei migliori carpentieri di Archolos, che l'hanno realizzato secondo un nuovo progetto.",
+  "DIA_Joris_Who_Nice_03_03": "Anche i venti più forti non lo faranno cadere, grazie alla sua solida struttura e alla base in pietra su cui ruota.",
+  "DIA_Joris_Who_Nice_03_04": "Bermar, il proprietario di questa fattoria, vi ha investito una grande fortuna dopo che le recenti tempeste avevano distrutto la vecchia stalla.",
+  "DIA_Joris_Bermar_15_01": "Cosa mi puoi dire di Bermar?",
+  "DIA_Joris_Bermar_03_02": "Non è la più gentile delle persone, ma è un eccellente uomo d'affari.",
+  "DIA_Joris_Bermar_03_03": "Se non fosse stato per lui, questa fattoria sarebbe stato un buco ai margini della civiltà.",
+  "DIA_Joris_Bermar_03_04": "Bermar si prende cura della sua fattoria più di quanto si prenda cura dei suoi figli.",
+  "DIA_Joris_Ambient_15_01": "Come te la passi?",
+  "DIA_Joris_Ambient_03_02": "La macina funziona come dovrebbe e la terra produce raccolti.",
+  "DIA_Joris_Ambient_03_03": "Altri direbbero che è merito degli dei, ma per me è solo il risultato di duro lavoro e dedizione.",
+  "DIA_Joris_Ambient_03_04": "Come dice il vecchio detto: due macine rotte non ne fanno una sana.",
+  "DIA_Joris_Who_Dunno_Choice": "Non so nulla dei mulini."
+}

@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Bodyguard01_HELLO_15_01": "Salve, io qono...",
+  "DIA_Bodyguard01_HELLO_03_02": "Moneta.",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_03_01": "Il capo è dentro, ti sta aspettando.",
+  "DIA_Bodyguard01_GoAway_03_01": "Non ho tempo, vai dal capo.",
+  "DIA_Bodyguard01_GoAway_03_02": "Parla con il capo.",
+  "DIA_Bodyguard01_GoAway_03_03": "Non infastidirmi.",
+  "DIA_Bodyguard01_GoAway_03_04": "Sparisci, ragazzo!",
+  "DIA_Bodyguard_Fight_03_01": "Dannazione, sei tu!",
+  "DIA_Bodyguard_Fight_Nightmare_15_01": "Sì, sono io, il tuo peggiore incubo.",
+  "DIA_Bodyguard_Fight_Nightmare_03_02": "Tu sì che sai come farmi ridere, ragazzo.",
+  "DIA_Bodyguard_Fight_Nightmare_03_03": "È stato un momento piacevole, ma è ora di sfamare gli squali di palude.",
+  "DIA_Bodyguard_Fight_Looking_15_01": "Mi stavi cercando?",
+  "DIA_Bodyguard_Fight_Looking_03_02": "Eh, sì, il mio capo mi ha detto di riferiti qualcosa...",
+  "DIA_Bodyguard_Fight_Looking_03_03": "Ok, chi sto prendendo in giro...",
+  "DIA_Bodyguard01_HELLO_GoldCoin_Choice": "(Mostra la moneta d'oro)",
+  "DIA_Bodyguard01_HELLO_OldCoin_Choice": "(Mostra la moneta antica)",
+  "DIA_Bodyguard01_HELLO_WeirdCoin_Choice": "(Mostra la moneta strana)",
+  "DIA_Bodyguard01_HELLO_Fist_Choice": "(Mostra il pugno e provoca)"
+}

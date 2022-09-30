@@ -1,0 +1,21 @@
+﻿{
+  "DIA_MIL_FMQ002_15_01": "Roderich mi ha detto di procurarmi una spada. Qualche idea?",
+  "DIA_MIL_FMQ002_CanUShow_15_01": "Posso vedere la tua spada?",
+  "DIA_MIL_FMQ002_CanUShow_Rude_15_03": "Dai, non discutere.",
+  "DIA_MIL_FMQ002_NeedSword_15_01": "Ne ho bisogno per diventare una guardia.",
+  "DIA_MIL_FMQ002_SwordScheme_15_01": "Vorrei sapere come è stata costruita per poterne forgiare una io stesso.",
+  "DIA_MIL_FMQ002_WantToJoin_15_01": "Devi fidarti di me, voglio unirmi a voi.",
+  "DIA_MIL_FMQ002_HaveGold_15_01": "Che ne dici se ti do qualche moneta d'oro come garanzia?",
+  "DIA_MIL_FMQ002_SwordScheme_No_15_01": "Scordatelo.",
+  "DIA_MIL_FMQ002_SwordScheme_Yes_15_02": "Questo dovrebbe essere sufficiente per me. Ecco la tua spada.",
+  "DIA_MIL_FMQ002_SwordScheme_Thanks_15_01": "Grazie per il tuo aiuto.",
+  "DIA_MIL_FMQ002_SwordScheme_MissingGold_15_01": "Ehi, dammi il resto!",
+  "DIA_MIL_Roderich_15_02": "Sto ascoltando.",
+  "DIA_MIL_Roderich_What_15_01": "Una visita dell'Emissario Reale?",
+  "DIA_MIL_Roderich_What_15_03": "La nave? Dove si trova ora?",
+  "DIA_MIL_Roderich_Go_15_01": "Grazie per la segnalazione.",
+  "DIA_MIL_Roderich_Go_15_02": "Congedato.",
+  "DIA_MIL_Late_15_04": "Va bene, verrò. Congedato.",
+  "DIA_MIL_GiveArmorBack_15_02": "Tu dici?",
+  "DIA_MIL_FMQ002_SwordScheme_CheckOut_Choice": "(Rinuncia alla spada)"
+}

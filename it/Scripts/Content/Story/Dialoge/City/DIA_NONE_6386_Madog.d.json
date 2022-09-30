@@ -1,0 +1,22 @@
+﻿{
+  "DIA_Madog_FIRSTWARN_03_01": "E tu dove stai andando?",
+  "DIA_Madog_FIRSTWARN_15_02": "Ho bisogno di parlare con Volker.",
+  "DIA_Madog_FIRSTWARN_03_03": "Il capo è occupato.",
+  "DIA_Madog_FIRSTWARN_15_04": "Ascolta, sono stato incaricato di indagare sull'attentato alla sua vita.",
+  "DIA_Madog_FIRSTWARN_03_05": "Ci fai o ci sei?",
+  "DIA_Madog_FIRSTWARN_03_06": "Nessuno passerà di qui.",
+  "DIA_Madog_FIRSTWARN_Pass_15_01": "Per ordine di Roderich, devi lasciarmi passare!",
+  "DIA_Madog_FIRSTWARN_Pass_15_02": "Se non vuoi avere a che fare con la Gilda, ti farai da parte, con grazia e gentilezza.",
+  "DIA_Madog_FIRSTWARN_Pass_03_03": "E se tu vuoi tenere la testa sul collo, esci subito di qui.",
+  "DIA_Madog_FIRSTWARN_Inside_15_01": "Il tuo capo è dentro?",
+  "DIA_Madog_FIRSTWARN_Inside_03_02": "Forse lo è, forse no.",
+  "DIA_Madog_FIRSTWARN_Inside_03_03": "Anche se ci fosse, non avrebbe comunque tempo per te.",
+  "DIA_Madog_SECONDWARN_03_01": "Non voglio ripetermi. Levati dai piedi, stronzetto!",
+  "DIA_Madog_Q308SeeBoss_15_01": "Posso vedere il tuo capo ora?",
+  "DIA_Madog_Q308SeeBoss_03_02": " Lo deciderà Bradlock. Lo troverai nel corridoio.",
+  "DIA_Madog_Q308_Blood_03_01": "Visto che si suppone tu sia a capo di questa indagine, perché non cominci con il dannato sangue sul muro?!",
+  "DIA_Madog_Q308_Blood_03_02": "Col tempaccio, puzza così tanto che è impossibile piantonare la porta senza sentirsi nauseati.",
+  "DIA_Madog_Q308_Blood_03_03": "Almeno il giardiniere sarà in grado di pulire l'intero muro.",
+  "DIA_Madog_FIRSTWARN_Bye_Choice": "(Vai via)",
+  "DIA_Madog_FIRSTWARN_Pass_Choice": "Lasciami passare, ora!"
+}

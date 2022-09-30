@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Badulf_FirstWarn_03_01": "Fermo! Nessuno ha il permesso di scendere nei sotterranei del monastero senza autorizzazione!",
+  "DIA_Badulf_SecondWarn_03_01": "Torna indietro!",
+  "DIA_Badulf_LastWarn_03_01": "Adanos, dammi la forza!",
+  "DIA_Badulf_Why_15_01": "Perché?",
+  "DIA_Badulf_Why_03_02": "È un ordine diretto del priore. Solo gli Arcimaghi sono autorizzati.",
+  "DIA_Badulf_What_15_01": "Cosa c'è nei sotterranei?",
+  "DIA_Badulf_What_03_02": "Alle mie spalle ci sono le catacombe del monastero. Nulla che ti interessi, ragazzo.",
+  "DIA_Badulf_Angry_03_01": "Non credere che io non sappia della tua visita alle catacombe.",
+  "DIA_Badulf_Angry_03_02": "Sei fortunato che non manca nulla di valore, altrimenti Nolger stesso si sarebbe occupato di te.",
+  "DIA_Badulf_Pass_15_01": "Non sei di guardia all'ingresso delle catacombe?",
+  "DIA_Badulf_Pass_03_02": "Adesso c'è un altro mago di guardia. Penso che sia ovvio che dobbiamo fare i turni di tanto in tanto.",
+  "DIA_Badulf_Pass_03_03": "Rimanere nei sotterranei può aiutare nella meditazione, ma tutti abbiamo bisogno di una boccata d'aria fresca ogni tanto.",
+  "DIA_Badulf_Potion_15_01": "Posso prendere alcune pozioni curative da te?",
+  "DIA_Badulf_Potion_03_02": "Non mi sembri malato, ma così sia. Prendi questa pozione.",
+  "DIA_Badulf_Potion_03_03": "Ma dovrai pagare la prossima. Il nostro monastero ha bisogno di fondi per aiutare i più poveri.",
+  "DIA_Badulf_Ambient_03_01": "Sto cercando di meditare, non disturbarmi!",
+  "DIA_Badulf_Ambient_03_02": "Te l'ho già detto, non posso lasciarti passare.",
+  "DIA_Badulf_Ambient_03_03": "Se speri di farmi perdere l'equilibrio, ti sbagli."
+}

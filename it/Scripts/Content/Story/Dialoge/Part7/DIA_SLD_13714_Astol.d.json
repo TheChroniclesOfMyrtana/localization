@@ -1,0 +1,17 @@
+﻿{
+  "DIA_Astol_HELLO_03_01": "Salve, devi essere stanco dopo tutto quel lavoro nella miniera d'oro.",
+  "DIA_Astol_HELLO_03_02": "Sdraiati per un po' su uno di quei comodi letti di pelli di pecora e riposati. Ritroverai le forze e sarai pronto per andare avanti.",
+  "DIA_Astol_HELLO_Yes_15_01": "Grazie, dormire mi farà bene.",
+  "DIA_Astol_HELLO_No_15_01": "Magari un'altra volta.",
+  "DIA_Astol_AfterSleep_03_01": "Come hai dormito?",
+  "DIA_Astol_AfterSleep_15_02": "Abbastanza bene.",
+  "DIA_Astol_AfterSleep_03_03": "È fantastico. Sette pepite d'oro.",
+  "DIA_Astol_AfterSleep_15_04": "Non avevi detto che avrei dovuto pagare per dormire!",
+  "DIA_Astol_AfterSleep_03_05": "Penso sia ovvio. Vuoi pagare o devo tirartele fuori io stesso?",
+  "DIA_Astol_AfterSleep_03_06": "Assonnato? Non hai dimenticato le 7 pepite per il servizio, vero?",
+  "DIA_Astol_AfterSleep_Pay_15_01": "D'accordo, prendi le pepite.",
+  "DIA_Astol_AfterSleep_Pay_03_02": "Ragazzo intelligente. Se hai bisogno di fare un altro breve pisolino, sai dove trovarmi.",
+  "DIA_Astol_AfterSleep_No_15_01": "Non avrai nulla.",
+  "DIA_Astol_AfterFight_03_02": "Grazie per aver utilizzato i nostri servizi e torna a trovarci.",
+  "DIA_Astol_AfterFight_03_01": "Tieni le pepite. Fuori dalla mia vista!"
+}

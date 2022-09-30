@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"italian"
+	"Tokens"
+	{
+		"#Status_InMenu"	"Nel menu principale"
+		"#Status_InGame"	"{#Status_Guild_%guild%} - Livello %level% - Capitolo %chapter%"
+		"#Status_Guild_None"	"Senza gilda"
+		"#Status_Guild_Citizen"	"Cittadino"
+		"#Status_Guild_WaterCircle"	"Anello dell'Acqua"
+		"#Status_Guild_Runner"	"Corriere"
+		"#Status_Guild_VeteranRunner"	"Corriere esperto"
+		"#Status_Guild_Mercenary"	"Mercenario"
+		"#Status_Guild_Hunter"	"Ricognitore"
+		"#Status_Guild_VeteranMercenary"	"Mercenario d'élite"
+		"#Status_Guild_VeteranHunter"	"Ricognitore d'élite"
+		"#Status_Guild_Militia"	"Miliziano"
+		"#Status_Guild_MilitiaVeteran"	"Miliziano esperto"
+		"#Status_Guild_Swordsman"	"Spadaccino"
+		"#Status_Guild_Crossbowman"	"Balestriere"
+		"#Status_Guild_VeteranSwordsman"	"Spadaccino d'élite"
+		"#Status_Guild_VeteranCrossbowman"	"Balestriere d'élite"
+	}
+}

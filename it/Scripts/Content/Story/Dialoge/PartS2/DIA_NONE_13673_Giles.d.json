@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Giles_KQ405_Search_15_01": "Ho sentito che conosci le fogne come il palmo della tua mano.",
+  "DIA_Giles_KQ405_Search_03_02": "Qualcuno deve controllare i nidi nell'area che potrebbero minacciarci.",
+  "DIA_Giles_KQ405_Search_15_03": "C'è il cadavere di un uomo non lontano da qui, gli hai trovato qualcosa addosso?",
+  "DIA_Giles_KQ405_Search_03_04": "Come avrai notato, ci sono alcuni cadaveri qua. Devi essere più specifico.",
+  "DIA_Giles_KQ405_Search_15_05": "Quello con la gola tagliata.",
+  "DIA_Giles_KQ405_Search_03_06": "Sì, stavo cercando di vedere se avessero qualcosa addosso da poter usare.",
+  "DIA_Giles_KQ405_Search_03_07": "Oltre alla più brutta statuetta di Innos che abbia mai visto, non aveva nulla d'interessante.",
+  "DIA_Giles_KQ405_Figure_15_01": "Hai ancora quella statuetta?",
+  "DIA_Giles_KQ405_Figure_03_02": "Sì, pensavo che avremmo potuto venderla per dell'oro. Sfortunatamente, è fatta così male che nessuno ha voluto comprarla.",
+  "DIA_Giles_KQ405_Figure_03_03": "Se lo stai chiedendo, dev'essere importante per te.",
+  "DIA_Giles_KQ405_Figure_03_04": "Posso vendertela per, diciamo... 250 monete d'oro.",
+  "DIA_Giles_KQ405_Figure_Give_15_01": "D'accordo. Fai buon uso di quell'oro.",
+  "DIA_Giles_KQ405_Figure_Give_03_02": "Lo farò. Forse potremmo finalmente uscire da questo posto. Ecco la tua statuetta.",
+  "DIA_Giles_KQ405_Figure_Give_15_03": "È davvero brutta. È ora che vada.",
+  "DIA_Giles_KQ405_Figure_Fight_15_01": "Ho un'offerta migliore. Me la dai gratis e io non ti farò del male.",
+  "DIA_Giles_KQ405_Figure_Fight_03_02": "Lo vedi quanti siamo? Pensi di poterci affrontare?",
+  "DIA_Giles_KQ405_Figure_Fight_15_03": "Non c'è problema.",
+  "DIA_Giles_KQ405_Figure_Fight_03_04": "L'hai voluto tu!",
+  "DIA_Giles_KQ405_GiveGold_Descrption": "Pagherò la statuetta. (Dai 250 monete)",
+  "DIA_Giles_KQ405_Figure_Give_Choice": "Pagherò. (Dai 250 monete)",
+  "DIA_Giles_KQ405_Figure_Fight_Choice": "Me la darai gratis e io non ti farò del male."
+}
