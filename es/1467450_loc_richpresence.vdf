@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"spanish"
+	"Tokens"
+	{
+		"#Status_InMenu"	"En el menú principal"
+		"#Status_InGame"	"{#Status_Guild_%guild%} - Nivel %level% - Capítulo %chapter%"
+		"#Status_Guild_None"	"Sin Gremio"
+		"#Status_Guild_Citizen"	"Ciudadano"
+		"#Status_Guild_WaterCircle"	"El Anillo del Agua"
+		"#Status_Guild_Runner"	"Corredor"
+		"#Status_Guild_VeteranRunner"	"Corredor Veterano"
+		"#Status_Guild_Mercenary"	"Mercenario"
+		"#Status_Guild_Hunter"	"Cazador"
+		"#Status_Guild_VeteranMercenary"	"Mercenario Veterano"
+		"#Status_Guild_VeteranHunter"	"Cazador Veterano"
+		"#Status_Guild_Militia"	"Milicia"
+		"#Status_Guild_MilitiaVeteran"	"Guardia Veterano"
+		"#Status_Guild_Swordsman"	"Espadachín"
+		"#Status_Guild_Crossbowman"	"Ballestero"
+		"#Status_Guild_VeteranSwordsman"	"Espadachín Veterano"
+		"#Status_Guild_VeteranCrossbowman"	"Ballestero Veterano"
+	}
+}

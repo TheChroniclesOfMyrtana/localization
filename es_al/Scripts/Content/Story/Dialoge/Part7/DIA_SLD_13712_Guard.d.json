@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Araxos_GuardMine_03_FIRSTWARN_03_01": "¡Deténgase! No hay manera de pasar.",
+  "DIA_Araxos_GuardMine_03_SECONDWARN_03_01": "¿Eres sordo? ¡Un paso más y te arrepentirás!",
+  "DIA_Araxos_GuardMine_03_Why_15_01": "¿Por qué?",
+  "DIA_Araxos_GuardMine_03_Why_03_02": "La gerencia ha decidido cerrar esta parte de la mina. Acantilado escarpado, orugas y pequeñas cantidades de oro.",
+  "DIA_Araxos_GuardMine_03_Why_03_03": "Representa más gasto que un beneficio.",
+  "DIA_Araxos_GuardMine_03_LookAway_15_01": "¿No podrías mirar hacia otro lado por un momento?",
+  "DIA_Araxos_GuardMine_03_LookAway_03_02": "¿Estás tratando de sobornarme?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_15_01": "¿Cinco pepitas es suficiente?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_02": "Está bien, dame las pepitas, pero no le digas a nadie que te dejé entrar aquí.",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_03": "No creo que te los hayas llevado contigo, muchacho.",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_15_01": "Tengo algunas monedas de oro conmigo...",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_03_02": "¿Para qué necesito las monedas? Usamos pepitas aquí. Sin ellas, no hay nada de qué hablar.",
+  "DIA_Guard_QA306_AlreadyPayed_15_01": "¡Ya te pagué!",
+  "DIA_Guard_QA306_AlreadyPayed_03_02": "Hombre, han habido tantos de ustedes por aquí últimamente que estoy perdiendo la cuenta.",
+  "DIA_Guard_QA306_AlreadyPayed_03_03": "Tal vez pagaste, tal vez no. Por mi buen corazón, entrarás por la mitad del precio actual. Si no vas a pagar, será mejor que te vayas antes de que me enoje.",
+  "DIA_Guard_QA306_Why_15_01": "¿Por qué debo pagar por el pase?",
+  "DIA_Guard_QA306_Why_03_02": "Creo que está claro, esta parte de la mina está cerrada. Esta cuota voluntaria tiene el propósito de... uh... la restauración de estos hermosos y olvidados pozos.",
+  "DIA_Guard_QA306_Why_03_03": "10 pepitas de oro es una donación muy justa.",
+  "DIA_Guard_QA306_Pay_03_01": "Te invito a entrar.",
+  "DIA_Guard_QA306_Pay_5_Choice": "(Pagar 5 pepitas de oro)",
+  "DIA_Guard_QA306_Pay_10_Choice": "(Pagar 10 pepitas de oro)"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "DIA_GameMaster_Welcome_03_01": "Joven, ¿le gustaría participar en un juego endiabladamente difícil? ¡Esta es su única oportunidad de entrar sin nada y salir como un rey!",
+  "DIA_GameMaster_Welcome_03_02": "Las reglas son sencillas, debe observar cuidadosamente por dónde se mueve la moneda de oro y señalar bajo qué taza se esconde.",
+  "DIA_GameMaster_Welcome_03_03": "¿Qué le parece? ¿Intrigado?",
+  "DIA_GameMaster_Welcome_Yes_15_01": "¿Por qué no?",
+  "DIA_GameMaster_Welcome_Yes_03_02": "¡Genial! ¿Cuánto quiere apostar por su victoria? El triple de la cantidad que apueste estará disponible en caso de que gane.",
+  "DIA_GameMaster_Welcome_10_15_01": "Aquí está el dinero.",
+  "DIA_GameMaster_Welcome_10_03_02": "Muchas gracias.",
+  "DIA_GameMaster_Welcome_No_15_01": "No tengo tiempo.",
+  "DIA_GameMaster_Welcome_No_03_02": "Como usted desee, tal oportunidad no volverá a presentarse.",
+  "DIA_GameMaster_Welcome_Yes_100_Choice": "(Apostar 100 oro)",
+  "DIA_GameMaster_Welcome_Yes_50_Choice": "(Apostar 50 oro)",
+  "DIA_GameMaster_Welcome_Yes_10_Choice": "(Apostar 10 oro)"
+}

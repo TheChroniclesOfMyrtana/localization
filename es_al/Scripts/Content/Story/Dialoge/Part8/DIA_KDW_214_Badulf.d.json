@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Badulf_FirstWarn_03_01": "¡Deténgase! ¡Nadie puede bajar al sótano del monasterio sin permiso!",
+  "DIA_Badulf_SecondWarn_03_01": "¡Da la vuelta!",
+  "DIA_Badulf_LastWarn_03_01": "¡Adanos, dame fuerzas!",
+  "DIA_Badulf_Why_15_01": "¿Por qué?",
+  "DIA_Badulf_Why_03_02": "Esta es una orden directa del Prior. Solo los archimagos pueden entrar.",
+  "DIA_Badulf_What_15_01": "¿Qué hay en ese sótano?",
+  "DIA_Badulf_What_03_02": "Detrás de mi espalda están las catacumbas del monasterio. Nada que te interese, jovencito.",
+  "DIA_Badulf_Angry_03_01": "No creas que no sé nada de tu pequeña visita a las catacumbas.",
+  "DIA_Badulf_Angry_03_02": "Tienes suerte de que no falte nada de valor allí, o el mismísimo Notger iría por tu pellejo.",
+  "DIA_Badulf_Pass_15_01": "¿No estás vigilando la entrada a las catacumbas?",
+  "DIA_Badulf_Pass_03_02": "En este punto, otro mago está vigilando la puerta. Creo que es obvio que necesitamos turnarnos de vez en cuando.",
+  "DIA_Badulf_Pass_03_03": "Estar de pie en ese subsuelo puede ser una gran manera de meditar, pero todo el mundo necesita tomar un poco de aire fresco de vez en cuando.",
+  "DIA_Badulf_Potion_15_01": "¿Podría obtener algunas pociones curativas de ti?",
+  "DIA_Badulf_Potion_03_02": "No me pareces enfermo, pero que así sea. Toma esta poción.",
+  "DIA_Badulf_Potion_03_03": "Pero tendrás que pagar por el siguiente. Nuestro monasterio necesita fondos para ayudar a los pobres.",
+  "DIA_Badulf_Ambient_03_01": "Estoy tratando de meditar. ¡No me molestes!",
+  "DIA_Badulf_Ambient_03_02": "Ya te lo dije, no puedo dejarte pasar.",
+  "DIA_Badulf_Ambient_03_03": "Si esperas desequilibrarme, estás equivocado."
+}

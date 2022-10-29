@@ -1,0 +1,23 @@
+﻿{
+  "DIA_FASTTRAVEL_Q201_Refused_03_01": "Te enviaron sin nada, ¿verdad?",
+  "DIA_FASTTRAVEL_Q201_Refused_15_02": "Aparentemente, necesito algún tipo de pase.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_03": "Sí, las normas se han endurecido recientemente. Si no eres ciudadano, no podrás entrar sin una carta adecuada.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_04": "Pero estás de suerte, resulta que puedo ayudarte a entrar.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_05": "Voy a ir a Silbach, allí podrías conseguir uno del Patriarca del pueblo.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_06": "Estaré encantado de llevarte allí.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_15_01": "¿Y qué beneficio obtienes con eso?",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_02": "Como representante del Gremio de Mercaderes, al igual que muchos de mis colegas repartidos por la isla, ofrezco servicios de escolta por la isla.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_03": "Por unas pocas monedas, te llevaremos a todos los lugares importantes de la isla.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_04": "Y como de todos modos iba a Silbach, te ofrezco un descuento.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_15_01": "¿No hay otra forma de entrar a la ciudad?",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_02": "Yo no he dicho eso. Un pase es la forma más segura de entrar, pero si tuvieras un documento que demostrara que te enviaron a la ciudad por algún asunto, te deberían dejar entrar.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_03": "Por supuesto, siempre está el clásico soborno, pero eso es bastante arriesgado cuando no se sabe a quién pagar y cuánto. La mayoría de los guardias de las puertas son pésimos servidores.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_15_01": "¿Crees que los leñadores podrían escribirme un documento así?",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_02": "No está de más intentarlo. Si necesitas un escolta, estaré encantado de llevarte al campamento de los carboneros. Desde allí deberías poder llegar donde Knut y sus hombres, sin demasiados problemas.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_03": "En el camino, sin embargo, tengo que detenerme un momento en Silbach por asuntos del gremio.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_Description": "Llévame a Silbach. (10 oro)",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_15_01": "Llévame a Silbach.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_02": "Vamos.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_03": "Tienes que pagar por ello.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Unlocked_03_01": "Aquí estamos. Si necesitas ir más lejos, aquí podrás encontrarme o a cualquiera de mis colegas."
+}

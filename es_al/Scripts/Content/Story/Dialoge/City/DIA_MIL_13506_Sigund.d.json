@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Sigund_QA304_StopRightThere_03_01": "¡Para! ¿Qué estás haciendo aquí? ¡Lo he visto todo! Trajiste esas cajas desde los muelles y las dejaste en este almacén.",
+  "DIA_Sigund_QA304_StopRightThere_03_02": "Dime ahora mismo qué contienen y si tienes los permisos adecuados.",
+  "DIA_Sigund_QA304_StopRightThere_Duster_15_01": "¿Dónde está Duster?",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_02": "Se ha puesto enfermo y no puede alejarse más de un metro del retrete. Créeme, ¡yo mismo no estoy contento con el trabajo extra!",
+  "DIA_Sigund_QA304_StopRightThere_Duster_03_03": "¿Por qué preguntas por él? ¿Lo esperabas? ¡¿Tienes un trato?! ¡Habla!",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_15_01": "Tal vez podamos arreglar algo. Supongo que vagar por la ciudad de noche no es exactamente lo tuyo. ¿Tal vez podríamos pagarte una pequeña visita en la posada?",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_03_02": "¡Un guardia de servicio tiene el deber de estar sobrio! ¡No creas que puedes despedirme sin más!",
+  "DIA_Sigund_QA304_StopRightThere_Stun_15_01": "¿Me equivoco o eso es fuego?",
+  "DIA_Sigund_QA304_StopRightThere_Stun_03_02": "¿Qué?",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_01": "Mueve el aceite.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_02": "Probablemente sepas que no puede exponerse a la luz del sol, por lo que lidiamos con ella por la noche. Durante el día se expondría y perdería sus propiedades.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_03": "Sí, claro que lo sé, pero huele muy fuerte para ser un aceite.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_15_04": "Eso es porque está sin exponer. Así se quemará mejor.",
+  "DIA_Sigund_QA304_StopRightThere_Oil_03_05": "Sí, claro. Bien, puedes seguir trabajando.",
+  "DIA_Sigund_QA304_StopRightThere_Gold_15_01": "Que así sea. ¡Por la gloria de la patria!",
+  "DIA_Sigund_Hello_03_01": "¿Y qué puedo hacer como guardia? Patrullar, vigilar, lidiar con ciudadanos maleducados.",
+  "DIA_Sigund_Ambient_03_01": "Como de costumbre, nada interesante.",
+  "DIA_Sigund_Ambient_03_02": "Bien. Espero no tener que lidiar nunca más con gente cargando cajas en algún lugar por la noche.",
+  "DIA_Sigund_QA304_StopRightThere_Stun_Choice": "¿Es mi imaginación, o eso es fuego? (Noquear)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Choice": "¿Tal vez podamos llegar a un acuerdo? (Sobornar)",
+  "DIA_Sigund_QA304_StopRightThere_Discuss_Gold_Choice": "Que así sea. ¡Por la gloria de la patria! (Dar 50 oro)"
+}

@@ -1,0 +1,22 @@
+﻿{
+  "DIA_Madog_FIRSTWARN_03_01": "Y tú, ¿a dónde vas?",
+  "DIA_Madog_FIRSTWARN_15_02": "Necesito hablar con Volker.",
+  "DIA_Madog_FIRSTWARN_03_03": "El jefe está ocupado.",
+  "DIA_Madog_FIRSTWARN_15_04": "Escuche, me han asignado para resolver una investigación sobre un atentado contra su vida.",
+  "DIA_Madog_FIRSTWARN_03_05": "¿Eres sordo o idiota?",
+  "DIA_Madog_FIRSTWARN_03_06": "Nadie pasará por aquí.",
+  "DIA_Madog_FIRSTWARN_Pass_15_01": "¡Por orden de Roderich, debes dejarme pasar en este momento!",
+  "DIA_Madog_FIRSTWARN_Pass_15_02": "Si no quiere tener que lidiar con el Gremio, te moverás, educada y amablemente.",
+  "DIA_Madog_FIRSTWARN_Pass_03_03": "Y tú, si quieres mantener tu cabeza unida al cuerpo, te irás de aquí enseguida.",
+  "DIA_Madog_FIRSTWARN_Inside_15_01": "¿Tu jefe está dentro?",
+  "DIA_Madog_FIRSTWARN_Inside_03_02": "Tal vez si, tal vez no.",
+  "DIA_Madog_FIRSTWARN_Inside_03_03": "Incluso si estuviera, seguiría sin tener tiempo para ti.",
+  "DIA_Madog_SECONDWARN_03_01": "No quiero tener que repetirme. ¡Lárgate de aquí, pequeño imbécil!",
+  "DIA_Madog_Q308SeeBoss_15_01": "¿Puedo ver a tu jefe ahora?",
+  "DIA_Madog_Q308SeeBoss_03_02": "Bradlock decidirá eso. Lo encontrarás en el pasillo.",
+  "DIA_Madog_Q308_Blood_03_01": "Ya que se supone que estás a cargo de esta investigación, ¿por qué no empiezas con la maldita sangre en la pared?",
+  "DIA_Madog_Q308_Blood_03_02": "Con este clima, apesta tanto que es imposible vigilar la puerta sin sentir náuseas.",
+  "DIA_Madog_Q308_Blood_03_03": "Al menos el jardinero podrá limpiar toda la pared.",
+  "DIA_Madog_FIRSTWARN_Bye_Choice": "(Avanzar)",
+  "DIA_Madog_FIRSTWARN_Pass_Choice": "¡Déjame pasar, ahora!"
+}

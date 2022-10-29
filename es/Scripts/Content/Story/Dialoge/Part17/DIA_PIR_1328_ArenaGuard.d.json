@@ -1,0 +1,17 @@
+﻿{
+  "DIA_ArenaGuard_ArenaNoInvite_15_01": "¿Qué hay detrás de esos barrotes?",
+  "DIA_ArenaGuard_ArenaNoInvite_03_01": "Un lugar para los participantes del torneo. Todos cuentan con que te unas al próximo torneo.",
+  "DIA_ArenaGuard_ArenaNoInvite_03_02": "Un lugar para los participantes del torneo. No temas, no tendrás la oportunidad de ver cómo es por dentro.",
+  "DIA_ArenaGuard_ArenaNoInvite_Details_03_01": "Bajo las gradas hay una jaula especial para varias bestias. Es cierto que no se ha utilizado durante mucho tiempo, pero al parecer Cortez con Proximo idearon algo especial esta vez.",
+  "DIA_ArenaGuard_ArenaSignedIn_15_01": "Soy uno de los participantes en el torneo.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_01": "Sí, lo he oído. Ahora te abro la puerta. Entra y ponte cómodo.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_02": "Si lo haces bien, puede que pases la mayor parte de la tarde allí.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_03": "Todavía debería estar Proximo dentro. Él te lo explicará todo.",
+  "DIA_ArenaGuard_Q306_GiveUp_15_01": "Ya me he cansado de esta pelea, quiero dejar el torneo.",
+  "DIA_ArenaGuard_Q306_GiveUp_03_01": "Lo has hecho muy bien, ¿estás seguro?",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_15_01": "Sí.",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_03_01": "Como quieras, probablemente estés asustado por Ben.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_15_01": "No.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_Choice": "No.",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_Choice": "Sí."
+}

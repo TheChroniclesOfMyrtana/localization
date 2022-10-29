@@ -1,0 +1,17 @@
+﻿{
+  "DIA_Astol_HELLO_03_01": "Hola, debes estar cansado después de tanta extracción de oro.",
+  "DIA_Astol_HELLO_03_02": "Acuéstate un rato en una de esas cómodas camas de piel de oveja y descansa un poco. Recuperarás tu fuerza y estarás listo para seguir adelante.",
+  "DIA_Astol_HELLO_Yes_15_01": "Gracias, dormir me hará bien.",
+  "DIA_Astol_HELLO_No_15_01": "Quizás en otra ocasión.",
+  "DIA_Astol_AfterSleep_03_01": "¿Cómo has dormido?",
+  "DIA_Astol_AfterSleep_15_02": "Bastante bien.",
+  "DIA_Astol_AfterSleep_03_03": "Eso es genial. Siete pepitas de oro.",
+  "DIA_Astol_AfterSleep_15_04": "¡No dijiste que tendría que pagar para dormir!",
+  "DIA_Astol_AfterSleep_03_05": "Creo que es obvio. ¿Vas a pagar, o tengo que sacártelo yo mismo?",
+  "DIA_Astol_AfterSleep_03_06": "¿Somnoliento? No olvidaste las 7 pepitas por el servicio, ¿verdad?",
+  "DIA_Astol_AfterSleep_Pay_15_01": "Bien, toma las pepitas.",
+  "DIA_Astol_AfterSleep_Pay_03_02": "Chico listo. Si necesitas otra siesta corta, ya sabes dónde encontrarme.",
+  "DIA_Astol_AfterSleep_No_15_01": "No vas a conseguir nada.",
+  "DIA_Astol_AfterFight_03_02": "Gracias por usar nuestros servicios y regresa pronto.",
+  "DIA_Astol_AfterFight_03_01": "Conserva las pepitas. ¡Apártate de mi vista!"
+}

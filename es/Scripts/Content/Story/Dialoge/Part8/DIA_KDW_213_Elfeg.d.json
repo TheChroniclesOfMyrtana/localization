@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Elfeg_Hello_03_01": "¿Qué te trae a nosotros, jovencito?",
+  "DIA_Elfeg_Hello_Exit_15_01": "Nada...",
+  "DIA_Elfeg_Hello_03_02": "¿Sí? ¿Alguna cosa que necesites?",
+  "DIA_Elfeg_Hello_Exit_03_02": "Entonces vete en paz.",
+  "DIA_Elfeg_Hello_Jorn_03_02": "Desafortunadamente, esta es la primera vez que lo escucho. Durante mucho tiempo la comunidad del monasterio ha estado cerrada a los asuntos del exterior y ni siquiera esas noticias llegan aquí.",
+  "DIA_Elfeg_Hello_Jorn_03_03": "Prueba a preguntar por la ciudad, seguro que alguien te puede ayudar.",
+  "DIA_Elfeg_MayIEnter_15_01": "¿Puedo entrar al monasterio?",
+  "DIA_Elfeg_MayIEnter_03_01": "No, el Prior ha prohibido la entrada de extraños. Excepto por los enfermos y necesitados que no tienen otro lugar adonde ir. Tú no me pareces así.",
+  "DIA_Elfeg_AboutKloster_03_01": "El monasterio ha sido el hogar de los magos de agua y novicios desde tiempos inmemoriales. Nos sirve como lugar de oración, trabajo y contemplación.",
+  "DIA_Elfeg_AboutKloster_03_02": "Si te gusta la historia, recomiendo leer sobre el complejo en los libros. ¡Algunas de las historias asociadas con este lugar son realmente fascinantes!",
+  "DIA_Elfeg_AboutKloster_03_03": "Volfzack sabía lo que estaba haciendo al aceptar construir este lugar. ¡Sin el monasterio, Archolos no sería lo mismo!",
+  "DIA_Elfeg_AboutWaterMages_03_01": "Probablemente ya lo sepas, pero somos sacerdotes de Adanos, guardianes del equilibrio y cuidadores de los enfermos.",
+  "DIA_Elfeg_AboutWaterMages_03_02": "Dado que el Prior ha ordenado nuestro aislamiento en el monasterio, ya no somos libres de abandonar esta isla y ayudar a los necesitados en Archolos.",
+  "DIA_Elfeg_AboutWaterMages_03_03": "Solo unos pocos magos selectos sirven fuera de estos muros. La mayoría de ellos se quedan en la ciudad.",
+  "DIA_Elfeg_Ambient_03_01": "Paz y tranquilidad. Aquí tengo mucho tiempo para la contemplación, lo que puede ser tanto hermoso como exasperante.",
+  "DIA_Elfeg_Ambient_03_03": "Cuando pienso en la situación actual de la isla, empiezo a preguntarme cuándo finalmente el Prior nos permitirá acercarnos a la gente para brindarles ayuda.",
+  "DIA_Elfeg_LetMeOut_15_01": "¿Podrías dejarme salir?",
+  "DIA_Elfeg_Hello_Jorn_Choice": "Estoy buscando a mi hermano."
+}

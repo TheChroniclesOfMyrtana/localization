@@ -1,0 +1,21 @@
+﻿{
+  "DIA_Joris_EXIT_15_01": "Tengo que irme.",
+  "DIA_Joris_EXIT_03_02": "Ten un viaje seguro.",
+  "DIA_Joris_Who_15_01": "¿Quién eres tú?",
+  "DIA_Joris_Who_03_02": "Mi nombre es Joris y dirijo este molino. Impresionante, ¿no?",
+  "DIA_Joris_Who_Dunno_15_01": "Un molino tal cual. No sé nada de ellos.",
+  "DIA_Joris_Who_Dunno_03_02": "Estos son verdaderos tesoros en estos días, especialmente valiosos cuando el hambre nos está mirando a la cara.",
+  "DIA_Joris_Who_Nice_15_01": "Es realmente impresionante.",
+  "DIA_Joris_Who_Nice_03_02": "Salió de las manos de los mejores carpinteros de Archolos, quienes lo hicieron de acuerdo con un nuevo diseño.",
+  "DIA_Joris_Who_Nice_03_03": "Incluso las ráfagas de viento no lo derribarán, gracias a su sólida construcción y la base de piedra sobre la que gira.",
+  "DIA_Joris_Who_Nice_03_04": "Bermar, el propietario de esta finca, invirtió una gran fortuna en ella después de que las tormentas recientes destruyeran la antigua cooperativa.",
+  "DIA_Joris_Bermar_15_01": "¿Qué me puedes decir de Bermar?",
+  "DIA_Joris_Bermar_03_02": "No es la persona más agradable, pero es un excelente hombre de negocios.",
+  "DIA_Joris_Bermar_03_03": "Si no fuera por él, esta granja habría sido un sumidero al borde de la civilización.",
+  "DIA_Joris_Bermar_03_04": "Bermar cuida de su granja mejor que de sus propios hijos.",
+  "DIA_Joris_Ambient_15_01": "¿Cómo te va?",
+  "DIA_Joris_Ambient_03_02": "El molino muele como debe, y la tierra cede.",
+  "DIA_Joris_Ambient_03_03": "Otros dirían que se debe a los dioses, pero para mí es puramente el resultado del trabajo duro y la dedicación.",
+  "DIA_Joris_Ambient_03_04": "Como dice el viejo refrán: dos piedras desafiladas no harán nada.",
+  "DIA_Joris_Who_Dunno_Choice": "No sé nada de molinos."
+}

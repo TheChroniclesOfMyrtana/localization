@@ -1,0 +1,20 @@
+﻿{
+  "DIA_MARVIN_Q501Potion_15_01": "¡Oh, mierda! Todavía me tiemblan las manos... ¡No puedo hacer una poción en este estado!",
+  "PC_PotionAlchemy_Regenerate_Description": "Pociones de restauración.",
+  "PC_Mana_Start_Description": "Preparar pociones de maná.",
+  "PC_Special_Start_Description": "Pociones permanentes.",
+  "PC_PotionAlchemy_Timed_Description": "Pociones temporales.",
+  "PC_PotionAlchemy_Seed_Description": "Pociones a base de semillas.",
+  "PC_Health_Start_Description": "Preparar pociones curativas.",
+  "PC_PotionAlchemy_Other_Description": "Otro.",
+  "PC_PotionAlchemy_Other_Ore_Description": "Aplastar pepitas de mineral mágico.",
+  "PC_PotionAlchemy_Other_Ore_One_Description": "Aplastar 1 pepita.",
+  "PC_PotionAlchemy_Other_Ore_Five_Description": "Aplastar 5 pepitas.",
+  "PC_PotionAlchemy_Other_Ore_Ten_Description": "Aplastar 10 pepitas.",
+  "PC_PotionAlchemy_Other_Ore_All_Description": "Aplastar todas las pepitas.",
+  "PC_Poison_Start_Description": "Preparar veneno.",
+  "PC_Q501Potion_Start_Description": "Preparar la poción de Dagoberto.",
+  "PC_Q307Potion_Start_Description": "Preparar veneno y antídoto para Ben.",
+  "PC_Poison_SQ228_Description": "Veneno para ratas.",
+  "PC_Tabak_Start_Description": "Mezcla de tabaco y porros de hierba del pantano."
+}

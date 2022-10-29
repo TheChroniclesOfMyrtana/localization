@@ -1,0 +1,19 @@
+﻿{
+  "DIA_Ghost_SQ406_Fight_Description": "¿Un fantasma? ¿No se te ocurre nada más estúpido? (Provocar una pelea)",
+  "DIA_Ghost_SQ406_Fight_15_01": "¿Un fantasma? ¿No se te ocurre nada más estúpido?",
+  "DIA_Ghost_SQ406_Fight_03_02": "¿Qué has dicho, idiota? ¿Crees que eres alguien ahora? Te mostraré a dónde perteneces.",
+  "DIA_Ghost_SQ406_AfterFight_03_01": "Muy bien, muy bien, ¡has ganado! Pero si intentas burlarte de mí otra vez, te encontraré una noche de lluvia y te arrancaré las tripas.",
+  "DIA_Ghost_SQ406_AfterFight_15_02": "Lo siento, puede que haya exagerado. No quería convertirte en un enemigo. ¿Qué tal una poción curativa para que te recuperes?",
+  "DIA_Ghost_SQ406_AfterFight_03_03": "¡Muy bien! Dame eso porque me duele la cabeza como si una jauría de ratopos me hubiera pasado por encima.",
+  "DIA_Ghost_SQ406_AfterFight_Transform_L_03_01": "Gracias, sabe a hierba del pantano seca, pero me siento mejor.",
+  "DIA_Ghost_SQ406_AfterFight_Transform_M_03_01": "¿Qué me has dado? ¡Es asqueroso!",
+  "DIA_Ghost_SQ406_AfterFight_Transform_M_03_02": "Si querías matarme, podías haberme matado ahora mismo, no torturarme con esta mierda. ¡Sal de mi vista!",
+  "DIA_Ghost_SQ406_AfterFight_Transform_H_03_01": "Maldita sea, mi estómago. ¡¡¡Aah!!!",
+  "DIA_Ghost_SQ406_Monster_03_02": "¡Sucio pedazo de basura! Podría haber adivinado que estabas tramando algo. ¡Ahora vas a pagar por lo que hiciste!",
+  "DIA_Ghost_Q306_Reward_03_01": "Hermosa actuación allí en la arena. Es raro ver a alguien luchar con tanta gracia. Acepta estas baratijas como tributo a tu arte.",
+  "DIA_Ghost_Q306_AfterTournament_03_01": "¿Cansado después de una pelea? Si piensas dormir hasta tarde, olvídate del Refugio. Estos festines posteriores al torneo suelen durar unos días...",
+  "DIA_Ghost_Ambient_13_13": "¿No deberías hablar con Cortez?",
+  "DIA_Ghost_Ambient_13_14": "Ahora mismo estoy ocupado y no tengo tiempo para charlar.",
+  "DIA_Ghost_Ambient_13_15": "Probablemente no sea tan bueno como el nuevo maestro de la arena, así que no hablaré en vano.",
+  "DIA_Ghost_Ambient_13_16": "Está bien, probablemente no sea mejor que tú. Pero al menos nunca he sido tan estúpido como para que me golpeen en la arena."
+}

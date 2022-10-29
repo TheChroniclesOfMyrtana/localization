@@ -1,0 +1,19 @@
+﻿{
+  "DIA_WorkerGuard_FIRSTWARN_03_01": "¡Alto! ¡No se permite a nadie acercarse a las cajas!",
+  "DIA_WorkerGuard_SECONDWARN_03_01": "¿Estás sordo? Te he dicho algo, ¡vete!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_01": "Déjame pasar, soy un trabajador portuario y necesito madera.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_02": "¿Desde cuándo? ¡No te vi aquí ayer!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_03": "No me extraña. Me acaban de contratar.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_04": "Qué interesante. ¡Le preguntaré a Dack si es cierto!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_05": "¿Cuál es tu problema?",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_06": "¡Oh, ninguno! ¡Creo que estás tramando algo!",
+  "DIA_WorkerGuard_KQ406_OfferMoney_Description": "¿Quizás esto aclare tus dudas? (Pagar 100 oro)",
+  "DIA_WorkerGuard_KQ406_OfferMoney_15_01": "¿Quizá esto aclare tus dudas?",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_02": "Tal vez. Siempre y cuando le agregues una cerveza fría.",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_03": "No tienes ni idea de cuánto tiempo he estado aquí de pie. Ni siquiera le dan un trago a un amigo.",
+  "DIA_WorkerGuard_KQ406_Give_Description": "Ten tu cerveza. (Dar una cerveza y 100 oro)",
+  "DIA_WorkerGuard_KQ406_Give_15_01": "Ten tu cerveza.",
+  "DIA_WorkerGuard_KQ406_Give_03_02": "Bueno, eso es lo que necesitaba.",
+  "DIA_WorkerGuard_KQ406_Give_03_03": "Coge la madera y vuelve a trabajar. Los barcos no se construirán solos.",
+  "DIA_WorkerGuard_KQ406_Give_03_04": "Supongo que te olvidaste de llevártelo."
+}

@@ -1,0 +1,21 @@
+﻿{
+  "DIA_OldCityGuard_FirstWarn_03_01": "¡Hey, hey! ¿Adónde vas?",
+  "DIA_OldCityGuard_FirstWarn_15_02": "Ahí adelante.",
+  "DIA_OldCityGuard_FirstWarn_03_03": "¡Tu reputación te precede! Ve a Roderich y aclara las cosas.",
+  "DIA_OldCityGuard_FirstWarn_03_04": "Hasta entonces, no hay entrada.",
+  "DIA_OldCityGuard_FirstWarn_03_07": "Lo siento, de acuerdo con las reglas, solo los guardias que custodian este distrito pueden entrar al Barrio Viejo.",
+  "DIA_OldCityGuard_FirstWarn_03_11": "¡Sin pase!",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_01": "No sabía que necesitaba un pase para eso.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_02": "¿Crees que voy a dejar pasar a cualquiera? De ninguna manera, amigo.",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_03": "¿Dónde puedo conseguir tal documento?",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_04": "Tendrías que ser dueño de una casa en el Barrio Viejo u obtener permiso para entrar de alguien en el Concejo Municipal.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_05": "Me atrevo a decir que no tienes ninguna de esas cosas.",
+  "DIA_OldCityGuard_FirstWarn_Why_15_01": "¿Por qué no?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_02": "Después de todo, soy ciudadano de esta ciudad.",
+  "DIA_OldCityGuard_FirstWarn_Why_03_03": "¿Y tienes un pase contigo?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_04": "¿De qué tipo de pase estás hablando?",
+  "DIA_OldCityGuard_FirstWarn_Why_03_05": "Por un pase que te autoriza a entrar en el Barrio Viejo.",
+  "DIA_OldCityGuard_SecondWarn_03_01": "¡Dije algo! ¿Qué no entendiste?",
+  "DIA_OldCityGuard_LastWarn_03_01": "¡Tú lo pediste!",
+  "DIA_OldCityGuard_FirstWarn_15_06": "No te importa, ¿verdad? Soy guardia de la ciudad."
+}

@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Giles_KQ405_Search_15_01": "He oido que conoces las cloacas como la palma de tu mano.",
+  "DIA_Giles_KQ405_Search_03_02": "Alguien debe investigar el área, por si hay nidos que puedan ser un peligro.",
+  "DIA_Giles_KQ405_Search_15_03": "Hay un cadáver no muy lejos de aquí, ¿encontraste algo en él?",
+  "DIA_Giles_KQ405_Search_03_04": "Como habrás notado, hay varios cadáveres aquí. Tienes que ser más específico.",
+  "DIA_Giles_KQ405_Search_15_05": "Este tiene la garganta cortada.",
+  "DIA_Giles_KQ405_Search_03_06": "Sí. Estuve viendo si tenía algo que pudiera servirnos.",
+  "DIA_Giles_KQ405_Search_03_07": "Más allá de la estatuilla de Innos más horrenda que he visto, no tenía nada útil.",
+  "DIA_Giles_KQ405_Figure_15_01": "¿Todavía la tienes?",
+  "DIA_Giles_KQ405_Figure_03_02": "Sí, pensé que podría sacarle algo de oro. Desafortunadamente, está tan mal hecha que nadie la quiere.",
+  "DIA_Giles_KQ405_Figure_03_03": "Si estás preguntando por ella, debe ser importante para tí.",
+  "DIA_Giles_KQ405_Figure_03_04": "Te la puedo vender por... A ver... 250 piezas de oro.",
+  "DIA_Giles_KQ405_Figure_Give_15_01": "Bien. Usa bien el oro.",
+  "DIA_Giles_KQ405_Figure_Give_03_02": "Lo haré. Quizá al fin podamos salir de aquí. Aquí tienes tu estatuilla.",
+  "DIA_Giles_KQ405_Figure_Give_15_03": "Es realmente horrenda. Es hora de que me vaya.",
+  "DIA_Giles_KQ405_Figure_Fight_15_01": "Tengo una mejor oferta. Me la das gratis, y no te lastimaré.",
+  "DIA_Giles_KQ405_Figure_Fight_03_02": "¿Acaso ves cuántos somos? ¿Piensas que puedes con todos?",
+  "DIA_Giles_KQ405_Figure_Fight_15_03": "Sin problemas.",
+  "DIA_Giles_KQ405_Figure_Fight_03_04": "¡Tú te lo buscaste!",
+  "DIA_Giles_KQ405_GiveGold_Descrption": "Pagaré por la estatuilla. (Dar 250 oro)",
+  "DIA_Giles_KQ405_Figure_Give_Choice": "Pagaré. (Dar 250 oro)",
+  "DIA_Giles_KQ405_Figure_Fight_Choice": "Me la das gratis, y no te lastimaré."
+}

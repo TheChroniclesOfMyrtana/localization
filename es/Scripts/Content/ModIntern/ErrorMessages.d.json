@@ -1,0 +1,11 @@
+﻿{
+  "MOD_NAME": "Las Crónicas de Myrtana: Archolos",
+  "ERROR_LAA": "No se detectó Large Address Aware, el juego no puede manejar más de 2 GB de memoria. Por favor instala el llamado 'Parche de 4Gb', desde aquí: https://ntcore.com/?page_id=371.",
+  "ERROR_SAVE_LANGUAGEMISMATCH": "No se puede cargar partida, el idioma de la partida guardada no es el mismo que el del juego.",
+  "ERROR_SAVE_NOTCOMPATIBLE": "No se puede cargar partida, no es compatible con la versión actual del juego. Si quieres continuar la misma partida, por favor cambia la rama (branch) en launcher/Steam/GOG. Para esto, por favor sigue esta guía rápida: https://thechroniclesofmyrtana.com/saves-compatibility",
+  "ERROR_KMLIB_2": "¡El archivo KmLib.dll no se encontró! Por favor reinstala el juego o contacta al soporte técnico. Código de error: ",
+  "ERROR_KMLIB_126": "¡No se pudo cargar la librería KmLib.dll! Por favor instala la última versión de Visual Studio redistributable (https://aka.ms/vs/16/release/vc_redist.x86.exe y https://aka.ms/vs/16/release/vc_redist.x64.exe). Código de error: ",
+  "ERROR_KMLIB_OTHER": "¡No se pudo cargar la librería KmLib.dll! Por favor reinstala el juego o contacta al soporte técnico. Código de error: ",
+  "ERROR_KMLIB_GETPROCADDRESS": "¡No se pudo cargar una función de la librería KmLib.dll! Por favor reinstala el juego o contacta al soporte técnico. Código de error: ",
+  "MESSAGE_VDFS_MISMATCH": "¡Versión incorrecta de SystemPack detectada! Por ahora, este mod sólo soporta oficialmente SystemPack v1.8.\\nNo garantizamos compatibilidad con otras versiones, otros parches, Union, etc."
+}
