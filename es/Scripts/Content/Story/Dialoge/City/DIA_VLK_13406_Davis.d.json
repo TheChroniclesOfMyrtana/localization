@@ -20,7 +20,7 @@
   "DIA_Davis_PQ109_Start_03_03": "Vayamos directamente al grano. En el puerto, un tipo que vino de Khorinis, o de algún otro pueblo, abrió un taller.",
   "DIA_Davis_PQ109_Start_03_04": "Hace cerraduras sin remedio, pero he perdido bastantes clientes por sus bajos precios. Quiero que te cueles en su taller por la noche y vacíes todos sus cofres destinados a la venta.",
   "DIA_Davis_PQ109_Start_All_15_01": "¿Eso es todo?",
-  "DIA_Davis_PQ109_Start_All_03_02": "También puedes tomar sus herramientas, por si acaso. Al menos nos aseguraremos de que no intente hacer nuevos cofres pronto.",
+  "DIA_Davis_PQ109_Start_All_03_02": "También puedes coger sus herramientas, por si acaso. Al menos nos aseguraremos de que no intente hacer nuevos cofres pronto.",
   "DIA_Davis_PQ109_Start_Place_15_01": "¿Dónde puedo encontrar su taller?",
   "DIA_Davis_PQ109_Start_Place_03_02": "Oh... Cómo describirlo... Probablemente sea más fácil si te mueves desde el mercado de pescado hacia esa casa alta en construcción. Entre ellas deberías ver un pequeño taller.",
   "DIA_Davis_PQ109_Start_Job_15_01": "Me pondré manos a la obra.",
@@ -33,7 +33,7 @@
   "DIA_Davis_PQ109_Finish_15_03": "Los cofres sólo tenían estos papeles, pero yo también tengo las herramientas.",
   "DIA_Davis_PQ109_Finish_03_04": "Eso es exactamente lo que debías encontrar. Con estos papeles, podré convencer a media ciudad de que soy el lugar donde comprar cofres.",
   "DIA_Davis_PQ109_Finish_03_05": "De todos modos, no he escuchado a nadie hablar de un ladrón de puertos que sea atrapado con las manos en la masa, así que lo has manejado bastante bien.",
-  "DIA_Davis_PQ109_Finish_03_06": "Gracias por tu ayuda. No puedo tomarte como aprendiz, pero me gusta pagar por un trabajo bien hecho, así que toma. ¡No lo desperdicies todo en bebida!",
+  "DIA_Davis_PQ109_Finish_03_06": "Gracias por tu ayuda. No puedo cogerte como aprendiz, pero me gusta pagar por un trabajo bien hecho, así que toma. ¡No lo desperdicies todo en bebida!",
   "DIA_Davis_PQ109_Finish_03_07": "En cuanto a mí, puedes convertirte en mi aprendiz ahora mismo.",
   "DIA_Davis_IwanttobePeon_15_01": "Quiero ser tu aprendiz.",
   "DIA_Davis_IwanttobePeon_03_02": "¿Estás seguro? Una vez que informe a los otros maestros, no hay vuelta atrás.",
@@ -116,5 +116,5 @@
   "DIA_Davis_Ambient_03_04": "Nunca he tenido un aprendiz tan bueno como tú. De hecho, me pregunto si alguien te superará alguna vez...",
   "DIA_Davis_IHaveSomething_Wood_Choice": "(Vender la madera)",
   "DIA_Davis_IHaveSomething_Valuables_Choice": "(Vender objetos de valor)",
-  "DIA_Davis_FinalPresent_Rune_Choice": "Tomaré la runa."
+  "DIA_Davis_FinalPresent_Rune_Choice": "Cogere la runa."
 }

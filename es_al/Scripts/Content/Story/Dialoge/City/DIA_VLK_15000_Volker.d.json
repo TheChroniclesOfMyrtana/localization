@@ -51,7 +51,7 @@
   "DIA_Volker_HELLO_Guess_03_05": "Hay que darle a esta ciudad la seguridad que se merece.",
   "DIA_Volker_HELLO_Millitia_15_01": "¿Es cierto que pueden cubrirte el pellejo, pero supongo que están aquí para protegerte?",
   "DIA_Volker_HELLO_Millitia_03_02": "Por lo que puedo ver, ya no eres un recluta. Me sorprende que aún no hayas recuperado el sentido.",
-  "DIA_Volker_HELLO_Millitia_03_03": "La mayoría de ellos son sobornados e incompetentes, y el grupo que estoy tratando de averiguar tiene muchos informantes. Estoy seguro de que también habrá algunos en la guardia de la ciudad.",
+  "DIA_Volker_HELLO_Millitia_03_03": "La mayoría de ellos están sobornados y son incompetentes, y el grupo que estoy tratando de averiguar tiene muchos informantes. Estoy seguro de que también habrá algunos en la guardia de la ciudad.",
   "DIA_Volker_HELLO_Millitia_03_04": "No puedo investigar con eficacia con una unidad de espías potenciales en mi propio patio trasero.",
   "DIA_Volker_HELLO_Leave_03_02": "En el mejor de los casos sucederá, pero generalmente no creo en las coincidencias. Dudo que los guardias me dejen pronto.",
   "DIA_Volker_HELLO_KNOW_15_01": "Creo que sé lo que podemos hacer al respecto.",
@@ -63,7 +63,7 @@
   "DIA_Volker_HELLO_WHY_03_03": "¿Qué pasaría si te dijera que no hubo un solo hombre detrás del asesinato, sino un grupo de personas? ¿El mismo grupo que he estado tratando de descifrar durante años?",
   "DIA_Volker_HELLO_WHY_15_04": "¿Tienes alguna prueba de eso?",
   "DIA_Volker_HELLO_WHY_03_05": "Mis y las palabras de otros.",
-  "DIA_Volker_HELLO_WHY_03_06": "¡Si uno de los hombres de Braddock no hubiera estado en la línea de fuego del asesino, en ese momento se habría recitado la última letanía por mi alma!",
+  "DIA_Volker_HELLO_WHY_03_06": "¡Si uno de los hombres de Bradlock no hubiera estado en la línea de fuego del asesino, en ese momento se habría recitado la última letanía por mi alma!",
   "DIA_Volker_HELLO_WHY_03_07": "Este hombre sabía exactamente lo que estaba haciendo.",
   "DIA_Volker_HELLO_Next_03_01": "Como dicen los comerciantes: 'El tiempo se acaba, así que hagamos un trato'.",
   "DIA_Volker_HELLO_Next_03_02": "Averigüa quién estuvo realmente detrás del asesinato, presenta pruebas irrefutables a las autoridades y conocerás mi generosidad.",
@@ -151,5 +151,5 @@
   "DIA_Volker_HELLO_Wrong_Death_Choice": "¿Por qué te quieren muerto?",
   "DIA_Volker_IvyTrialog_Brother_Choice": "¿Qué pasa con los secuestradores de mi hermano? ¿Cuándo los atraparemos?",
   "DIA_Volker_IvyTrialog_Brother_Next_Southerners_Choice": "Me encontré con un grupo de sureños...",
-  "DIA_Volker_IvyTrialog_Brother_Next_Investigation_Choice": "Durante la investigación, me enteré de que el virote provenía de la Guarida del Lobo."
+  "DIA_Volker_IvyTrialog_Brother_Next_Investigation_Choice": "En la investigación descubrí que el virote provenía de la Guarida del Lobo."
 }

@@ -34,7 +34,7 @@
   "DIA_Javad_CalmDown_Sure_15_01": "De acuerdo. Voy a buscar a esas bestias. ¿Y tú?",
   "DIA_Javad_CalmDown_Sure_03_02": "Me voy en busca de guerreros hábiles. Estas gemas mantendrán mi plato lleno durante mucho tiempo.",
   "DIA_Javad_CalmDown_Sure_03_03": "Me alegro de que hayamos llegado a un acuerdo. No me gustaría quitarte la vida.",
-  "DIA_Javad_CalmDown_Warriors_15_01": "Sé dónde puedes encontrar guerreros. En el cercano Haven, hay un montón de tipos con talento. Incluso tienen una arena donde organizan combates.",
+  "DIA_Javad_CalmDown_Warriors_15_01": "Sé dónde puedes encontrar guerreros. En el cercano Refugio, hay un montón de tipos con talento. Incluso tienen una arena donde organizan combates.",
   "DIA_Javad_CalmDown_Warriors_03_02": "¿Arena? ¡Por fin un reto para Javad! ¿Está lejos?",
   "DIA_Javad_CalmDown_Warriors_15_03": "No. Deberías encontrarlo sin problemas. Diles que te envía Marvin.",
   "DIA_Javad_CalmDown_Warriors_03_04": "En ese caso, estoy en camino.",
@@ -84,7 +84,7 @@
   "DIA_Javad_HowsThere_03_02": "Nunca he visto una ciudad tan grande en toda mi vida... Todavía me pierdo en algunas calles, pero no me quejo. Archolos es una ciudad de oportunidades. Veremos qué pasa después.",
   "DIA_Javad_HowsThere_03_03": "Este es exactamente el tipo de lugar que he estado buscando, puedes ganar algo de oro y no aburrirte. Menos mal que me has traído aquí.",
   "DIA_Javad_CalmDown_Talk_Sure_Choice": "Muy bien. Voy a buscar a esas bestias. ¿Y tú?",
-  "DIA_Javad_CalmDown_Talk_Sure_Warriors_Choice": "Sé dónde puedes encontrar guerreros. (Enviar a Haven)",
+  "DIA_Javad_CalmDown_Talk_Sure_Warriors_Choice": "Sé dónde puedes encontrar guerreros. (Enviar al Refugio)",
   "DIA_Javad_CalmDown_Talk_Sure_Warriors_Place_Choice": "Conozco un lugar donde podrías ser útil. (Enviar a la ciudad)",
   "DIA_Javad_TournamentFight_Win_Choice": "Javad, tengo que ganar este torneo."
 }

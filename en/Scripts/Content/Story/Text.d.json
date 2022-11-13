@@ -427,7 +427,7 @@
   "Pickpocket_120_Female": "(It would be nearly impossible to steal this purse.)",
   "PRINT_PICKLOCK_SUCCESS": "That sounded good.",
   "PRINT_PICKLOCK_UNLOCK": "The lock's open.",
-  "PRINT_PICKLOCK_FAILURE": "Damn ... Try again.",
+  "PRINT_PICKLOCK_FAILURE": "Damn... Try again.",
   "PRINT_PICKLOCK_BROKEN": "The lockpick broke.",
   "PRINT_PICKLOCK_AUTOMATIC": "Your picklocking skills allow you to open the lock instantly.",
   "PRINT_HITPOINTS_MISSING": "Not enough Hitpoints.",
