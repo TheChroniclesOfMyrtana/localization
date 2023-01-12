@@ -16,7 +16,7 @@
   "DIA_Detlow_SQ204_Help_15_04": "Ich habe Knut versprochen, ihm zu helfen, das Rudel loszuwerden und im Gegenzug wird er mich bezahlen. Das ist alles, woran ich interessiert bin.",
   "DIA_Detlow_SQ204_Help_03_05": "Ich könnte jemanden gebrauchen ... der die Wölfe ablenkt.",
   "DIA_Detlow_SQ204_Help_03_06": "Die Sache ist einfach, aber wichtig, also hör mir jetzt gut zu, Junge.",
-  "DIA_Detlow_SQ204_Help_03_07": "Letzte Nacht habe ich dieses Rudel aufgespürt. Es sind nicht mehr als ein dutzend Tiere.",
+  "DIA_Detlow_SQ204_Help_03_07": "Letzte Nacht habe ich dieses Rudel aufgespürt. Es sind nicht mehr als ein Dutzend Tiere.",
   "DIA_Detlow_SQ204_Help_03_08": "Tu genau das, was ich dir sage, geh genau dorthin, wo ich hingehe und misch dich nicht in meine Arbeit ein, okay?",
   "DIA_Detlow_SQ204_FirstRound_03_01": "Ich sehe zwei Wölfe vor uns. Sie müssen die Späher des Rudels sein.",
   "DIA_Detlow_SQ204_FirstRound_03_02": "Es könnte nur ein Köder sein. Ich bin mir sicher, dass es noch mehr von diesen Biestern gibt.",
@@ -135,7 +135,7 @@
   "DIA_Detlow_SQ416_AfterFight_15_01": "Ich dachte schon, die Bestie würde nie fallen.",
   "DIA_Detlow_SQ416_AfterFight_03_02": "Du hast recht, ein zähes Exemplar, aber das Wichtigste ist, dass es endlich vorbei ist.",
   "DIA_Detlow_SQ416_AfterFight_03_03": "Wir müssen den Kadaver zurück ins Dorf schleppen, aber ich glaube nicht, dass wir das alleine schaffen.",
-  "DIA_Detlow_SQ416_AfterFight_Why_15_01": "Warum hat diese Bestie Rüstunsteile getragen?",
+  "DIA_Detlow_SQ416_AfterFight_Why_15_01": "Warum hat diese Bestie Rüstungsteile getragen?",
   "DIA_Detlow_SQ416_AfterFight_Why_03_02": "Ich habe keine Ahnung, ich habe so etwas noch nie gesehen ...",
   "DIA_Detlow_SQ416_AfterFight_Why_03_03": "Das Einzige, was mir einfällt, sind Orks. Die Jungs an der Front sagen oft, dass sie alle Arten von Tieren zum Kämpfen benutzen.",
   "DIA_Detlow_SQ416_AfterFight_Why_03_04": "Vielleicht ein gescheitertes Experiment. Ich weiß es nicht ...",
@@ -217,6 +217,6 @@
   "DIA_Detlow_SQ204_HurtWolf_Allright_Choice": "Okay, aber beeil dich.",
   "DIA_Detlow_SQ204_Finish_Hard_Choice": "Ich dachte, ein ganzes Rudel Wölfe abzuschlachten wäre eine Herausforderung.",
   "DIA_Detlow_QM302_Guild_Repair_Next_Plants_Choice": "Ich werde die Kräuter holen.",
-  "DIA_Detlow_SQ416_AfterFight_Why_Choice": "Warum hat diese Bestie Rüstunsteile getragen?",
+  "DIA_Detlow_SQ416_AfterFight_Why_Choice": "Warum hat diese Bestie Rüstungsteile getragen?",
   "DIA_Detlow_SQ416_RealBeast_Why_Who_Silence_Next_Next2_Silence2_Choice": "(Sag nichts und zieh deine Waffe)"
 }

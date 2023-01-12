@@ -4,12 +4,12 @@
   "DIA_Ludwig_Q402Map_15_03": "De sangre.",
   "DIA_Ludwig_Q402Map_03_04": "¿Sangre? Dioses, ¿de dónde has sacado un mapa manchado de sangre?",
   "DIA_Ludwig_Q402Map_Next_15_01": "Toma.",
-  "DIA_Ludwig_Q402Map_Next_03_02": "Oho, eso es difícil... realmente, podría ser un problema.",
+  "DIA_Ludwig_Q402Map_Next_03_02": "Oh, eso es difícil... podría ser un problema.",
   "DIA_Ludwig_Q402Map_Next_03_03": "Lo que no cambia el hecho de que esté dispuesto a intentar hacerlo bien.",
   "DIA_Ludwig_Q402Map_Next_03_04": "¿Y sabes qué? Lo haré gratis. No sólo no garantizo el éxito, sino que no tengo el corazón para coger el dinero de alguien que ha pasado por algo así.",
-  "DIA_Ludwig_Q402Map_Next_15_05": "Gracias. ¿Cuándo puedo recogerlo? No puedo negar que me vendría bien cuanto antes.",
-  "DIA_Ludwig_Q402Map_Next_03_08": "De alguien que tiene que enfrentarse a las bestias en el yermo, no voy a tardar mucho, no temas. Además, no sé si tendré éxito.",
-  "DIA_Ludwig_Q402Map_Next_15_09": "Cuento contigo. ¿Cuándo puedo recogerlo? No puedo negar que me vendría bien cuanto antes.",
+  "DIA_Ludwig_Q402Map_Next_15_05": "Gracias. ¿Cuándo puedo recogerlo? No puedo negar que tengo prisa, me vendría bien cuanto antes.",
+  "DIA_Ludwig_Q402Map_Next_03_08": "De alguien que tiene que enfrentarse a las bestias salvajes, no voy a tardar mucho, no temas. De todas maneras, no sé si tendré éxito.",
+  "DIA_Ludwig_Q402Map_Next_15_09": "Cuento contigo. ¿Cuándo puedo recogerlo? No puedo negar que tengo prisa, me vendría bien cuanto antes.",
   "DIA_Ludwig_Q402Map_Next_03_10": "Entiendo que hayas tenido mala suerte, pero limpiar una mancha así va a ser complicado. Ni siquiera sé con seguridad si tendré éxito.",
   "DIA_Ludwig_Q402Map_Next_03_11": "Tendrás que poner algo de oro como incentivo.",
   "DIA_Ludwig_Q402Map_Next_15_12": "Ya veo. ¿Cuándo estará listo? Me gustaría tenerlo lo antes posible.",
@@ -51,5 +51,5 @@
   "DIA_Ludwig_Ambient_03_01": "Estoy bien. Espero que te hayas recuperado de la muerte de tu compañero, debe haber sido una experiencia realmente terrible para ti.",
   "DIA_Ludwig_Ambient_03_02": "Bastante bien. Espero que ya estés cuidando mejor tus mapas. Recuerda que no siempre se pueden salvar.",
   "DIA_Ludwig_Ambient_03_03": "Las carreteras son cada vez más peligrosas y la gente empieza a tener miedo de viajar. Prefiero no pensar en cómo afectará esto a mis ingresos.",
-  "DIA_Ludwig_Q402Map_Butcher_Next_Gold_Choice": "Toma, tu dinero. (100 oro)"
+  "DIA_Ludwig_Q402Map_Butcher_Next_Gold_Choice": "Toma, tu dinero. (200 oro)"
 }

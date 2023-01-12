@@ -3,7 +3,7 @@
   "DIA_Yezegan_Q602_HELLO_03_01": "Kennen wir uns nicht irgendwoher?",
   "DIA_Yezegan_Q602_HELLO_03_04": "Marvin, richtig?",
   "DIA_Yezegan_Q602_HELLO_03_05": "Du bist ganz schön umtriebig.",
-  "DIA_Yezegan_Q602_HELLO_03_06": "Eines muss ich dir zugutehalten: Deine Hilfe war von unschätzbarem Wert für die Verbesserung des Pulvers.",
+  "DIA_Yezegan_Q602_HELLO_03_06": "Eines muss ich dir zugutehalten: Deine Hilfe war für die Verbesserung des Pulvers von unschätzbarem Wert.",
   "DIA_Yezegan_Q602_HELLO_03_07": "Wer weiß, ob es uns ohne dich gelungen wäre, diese Stadt durchzuschütteln!",
   "DIA_Yezegan_Q602_HELLO_03_08": "Wie schade, dass du dich in diesem Konflikt auf die falsche Seite gestellt hast.",
   "DIA_Yezegan_Q602_HELLO_03_02": "Nein, ich schätze das habe ich mir nur eingebildet.",
@@ -21,8 +21,8 @@
   "DIA_Yezegan_Q602_HELLO_Leave_15_01": "Das ist nicht mein Kampf. Mir geht es nur darum, den Wucherer zu bekommen.",
   "DIA_Yezegan_Q602_HELLO_Leave_03_02": "In diesem Fall kann ich dich leider nicht gehen lassen.",
   "DIA_Yezegan_Q602_WhatDo_Kill_15_01": "Das wars für dich, Abschaum!",
-  "DIA_Yezegan_Q602_WhatDo_Leave_15_01": "Raus mit dir, du dreckiger Wurm!",
+  "DIA_Yezegan_Q602_WhatDo_Leave_15_01": "Verschwinde, du dreckiger Wurm!",
   "DIA_Yezegan_Q602_HELLO_Leave_Choice": "Das ist nicht mein Kampf. Mir geht es nur darum, den Wucherer zu bekommen.",
-  "DIA_Yezegan_Q602_WhatDo_Leave_Choice": "Raus hier, du räudiger Wurm! (Yezegan verschonen)",
-  "DIA_Yezegan_Q602_WhatDo_Kill_Choice": "Du bist tot, Abschaum! (Töten)"
+  "DIA_Yezegan_Q602_WhatDo_Leave_Choice": "Verschwinde, du dreckiger Wurm! (Yezegan verschonen)",
+  "DIA_Yezegan_Q602_WhatDo_Kill_Choice": "Du wars für dich, Abschaum! (Yezegan töten)"
 }
