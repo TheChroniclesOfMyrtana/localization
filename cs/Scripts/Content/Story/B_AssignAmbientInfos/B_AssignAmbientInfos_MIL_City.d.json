@@ -1,0 +1,21 @@
+﻿{
+"DIA_MIL_FMQ002_15_01" : "Roderich mi řekl, abych si sehnal meč. Nějaké nápady?",
+"DIA_MIL_FMQ002_CanUShow_15_01" : "Mohl bych vidět tvůj meč?",
+"DIA_MIL_FMQ002_CanUShow_Rude_15_03" : "Nekecej a dělej.",
+"DIA_MIL_FMQ002_NeedSword_15_01" : "Potřebuju ho, abych mohl být strážníkem.",
+"DIA_MIL_FMQ002_SwordScheme_15_01" : "Chtěl bych se dozvědět o jeho konstrukci, abych si ho mohl sám vykovat.",
+"DIA_MIL_FMQ002_WantToJoin_15_01" : "Musíš mi věřit, chci se k vám přidat.",
+"DIA_MIL_FMQ002_HaveGold_15_01" : "Co kdybych ti dal pár zlaťáků jako záruku?",
+"DIA_MIL_FMQ002_SwordScheme_No_15_01" : "Zapomeň na to.",
+"DIA_MIL_FMQ002_SwordScheme_Yes_15_02" : "To by mi mělo stačit. Tady je tvůj meč.",
+"DIA_MIL_FMQ002_SwordScheme_Thanks_15_01" : "Díky za pomoc.",
+"DIA_MIL_FMQ002_SwordScheme_MissingGold_15_01" : "Hej! Dej mi ten zbytek!",
+"DIA_MIL_Roderich_15_02" : "Poslouchám.",
+"DIA_MIL_Roderich_What_15_01" : "Návštěva královského vyslance?",
+"DIA_MIL_Roderich_What_15_03" : "Ta loď? Kde je teď?",
+"DIA_MIL_Roderich_Go_15_01" : "Děkuju za nahlášení.",
+"DIA_MIL_Roderich_Go_15_02" : "Rozchod.",
+"DIA_MIL_Late_15_04" : "Dobře, přijdu. Rozchod.",
+"DIA_MIL_GiveArmorBack_15_02" : "Co říkáš?",
+"DIA_MIL_FMQ002_SwordScheme_CheckOut_Choice" : "(Odevzdat meč)"
+}

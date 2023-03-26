@@ -1,0 +1,23 @@
+﻿{
+"DIA_Araxos_GuardMine_03_FIRSTWARN_03_01" : "Stůj! Tudy neprojdeš.",
+"DIA_Araxos_GuardMine_03_SECONDWARN_03_01" : "Seš snad hluchej? Ještě jeden krok a budeš litovat!",
+"DIA_Araxos_GuardMine_03_Why_15_01" : "Proč?",
+"DIA_Araxos_GuardMine_03_Why_03_02" : "Vedení se rozhodlo uzavřít tuhle část dolu. Strmý útesy, červy a celkem málo zlata.",
+"DIA_Araxos_GuardMine_03_Why_03_03" : "Bylo s tím víc škody než užitku.",
+"DIA_Araxos_GuardMine_03_LookAway_15_01" : "Nemohl by ses na chvíli podívat jiným směrem?",
+"DIA_Araxos_GuardMine_03_LookAway_03_02" : "Snažíš se mě podplatit?",
+"DIA_Araxos_GuardMine_03_Offer_5Ore_15_01" : "5 valounů bude stačit?",
+"DIA_Araxos_GuardMine_03_Offer_5Ore_03_02" : "Dobře, dej mi ty valouny, ale nikomu neříkej, že jsem tě sem pustil.",
+"DIA_Araxos_GuardMine_03_Offer_5Ore_03_03" : "Myslím, že je u sebe nemáš, chlapče.",
+"DIA_Araxos_GuardMine_03_Offer_Gold_15_01" : "Mám u sebe nějaké zlaté mince...",
+"DIA_Araxos_GuardMine_03_Offer_Gold_03_02" : "Na co by mi byly mince? Tady se používají valouny. Bez nich si nemáme co říct.",
+"DIA_Guard_QA306_AlreadyPayed_15_01" : "Ale já už jsem ti zaplatil!",
+"DIA_Guard_QA306_AlreadyPayed_03_02" : "Člověče, v poslední době je vás tu tolik, že už to nestíhám počítat.",
+"DIA_Guard_QA306_AlreadyPayed_03_03" : "Možná jsi zaplatil, možná ne. Díky mýmu dobrýmu srdci se dovnitř dostaneš za polovinu současný ceny. Pokud neplánuješ platit, raději vypadni, než se naštvu.",
+"DIA_Guard_QA306_Why_15_01" : "Proč bych měl platit za průchod?",
+"DIA_Guard_QA306_Why_03_02" : "Myslím, že je to jasný, tato část dolu je uzavřena. Tohle dobrovolný vstupný je určený na... ehm... obnovu těchto krásných a zapomenutých šachet.",
+"DIA_Guard_QA306_Why_03_03" : "10 zlatých valounů je opravdu spravedlivý příspěvek.",
+"DIA_Guard_QA306_Pay_03_01" : "Prosím, můžeš vstoupit.",
+"DIA_Guard_QA306_Pay_5_Choice" : "(Zaplatit 5 zlatých valounů)",
+"DIA_Guard_QA306_Pay_10_Choice" : "(Zaplatit 10 zlatých valounů)"
+}

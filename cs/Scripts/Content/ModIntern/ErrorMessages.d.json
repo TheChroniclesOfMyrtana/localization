@@ -1,0 +1,11 @@
+﻿{
+"MOD_NAME" : "Kroniky Myrtany: Archolos",
+"ERROR_LAA" : "Nepodařilo se detakovat Large Adress Aware. Hra nezvládne více než 2 GB paměti. Prosíme, nainstalujte tzv. 4GB patch, například z https://ntcore.com/?page_id=371.",
+"ERROR_SAVE_LANGUAGEMISMATCH" : "Nelze načíst uloženou hru, jazyk uložené hry se liší od aktuálního jazyka hry!",
+"ERROR_SAVE_NOTCOMPATIBLE" : "Nelze načíst uloženou hru, protože není kompatibilní se současnou verzí hry. Pokud chcete pokračovat ve hraní, změňte prosím verzi hry v launcheru/Steam/GOG. Prosím, postupujte podle krátkého návodu: https://thechroniclesofmyrtana.com/saves-compatibility",
+"ERROR_KMLIB_2" : "Soubor KmLib.dll nebyl nalezen! Přeinstalujte prosím aplikaci nebo kontaktujte technickou podporu. Kód chyby: ",
+"ERROR_KMLIB_126" : "Nelze načíst knihovnu KmLib.dll! Nainstalujte prosím nejnovější Visual Studio redistributable files (https://aka.ms/vs/16/release/vc_redist.x86.exe a https://aka.ms/vs/16/release/vc_redist.x64.exe). Kód chyby: ",
+"ERROR_KMLIB_OTHER" : "Nelze načíst funkci knihovny KmLib.dll! Přeinstalujte prosím aplikaci nebo kontaktujte technickou podporu. Kód chyby: ",
+"ERROR_KMLIB_GETPROCADDRESS" : "Nelze načíst funkci z knihovny KmLib.dll! Přeinstalujte prosím aplikaci nebo kontaktujte technickou podporu. Kód chyby: ",
+"MESSAGE_VDFS_MISMATCH" : "Detekována nesprávná verze SystemPacku! Modifikace zatím oficiálně podporuje pouze SystemPack v1.8.\\nNezaručujeme kompatibilitu s jinými verzemi, jinými patchi, Union, atd."
+}

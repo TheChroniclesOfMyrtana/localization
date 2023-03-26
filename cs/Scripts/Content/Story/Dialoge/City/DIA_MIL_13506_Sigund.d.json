@@ -1,0 +1,23 @@
+﻿{
+"DIA_Sigund_QA304_StopRightThere_03_01" : "Stát! Co tu děláš? Viděl jsem všechno! Přivezl jsi tyhle bedny až z doků a nechal jsi je v tomhle skladišti.",
+"DIA_Sigund_QA304_StopRightThere_03_02" : "Okamžitě mi řekni, co v nich je a jestli máš příslušná povolení.",
+"DIA_Sigund_QA304_StopRightThere_Duster_15_01" : "Kde je Duster?",
+"DIA_Sigund_QA304_StopRightThere_Duster_03_02" : "Onemocněl a nemůže odejít ani na metr od záchoda. Věř mi, že sám nejsem s těmi povinnostmi navíc spokojený!",
+"DIA_Sigund_QA304_StopRightThere_Duster_03_03" : "Proč se ho ptáš? Čekal jsi to? Máš nějakou dohodu?! Mluv!",
+"DIA_Sigund_QA304_StopRightThere_Discuss_15_01" : "Snad se můžeme nějak dohodnout. Toulání se po městě v noci asi není tvou oblíbenou činností. Možná bychom ti mohli zaplatit krátkou návštěvu v hostinci?",
+"DIA_Sigund_QA304_StopRightThere_Discuss_03_02" : "Strážník ve službě musí být střízlivý! Nemysli si, že mě můžeš jen tak propustit!",
+"DIA_Sigund_QA304_StopRightThere_Stun_15_01" : "Zdá se mi to a nebo je támhle oheň?",
+"DIA_Sigund_QA304_StopRightThere_Stun_03_02" : "Co?",
+"DIA_Sigund_QA304_StopRightThere_Oil_15_01" : "Pohni s tím olejem.",
+"DIA_Sigund_QA304_StopRightThere_Oil_15_02" : "Asi víš, že to nemůže být vystavené slunečnímu záření, a tak se o to staráme v noci. Během dne na to zasvíti a ztratí své vlastnosti.",
+"DIA_Sigund_QA304_StopRightThere_Oil_03_03" : "Ano, to samozřejmě vím, ale na olej to voní docela silně.",
+"DIA_Sigund_QA304_StopRightThere_Oil_15_04" : "To právě proto, že je neexponovaný. Díky tomu bude lépe hořet.",
+"DIA_Sigund_QA304_StopRightThere_Oil_03_05" : "No tak dobrá. Můžete pokračovat v práci.",
+"DIA_Sigund_QA304_StopRightThere_Gold_15_01" : "Budiž. Pro slávu vlasti!",
+"DIA_Sigund_Hello_03_01" : "Co mohu jako strážný dělat? Hlídky, stráže, vypořádání se s drzými občany.",
+"DIA_Sigund_Ambient_03_01" : "Jako ve službě, nic zajímavého.",
+"DIA_Sigund_Ambient_03_02" : "Dobře. Doufám, že se už nikdy nebudu muset potýkat s lidmi, kteří po noci někam táhnou bedny.",
+"DIA_Sigund_QA304_StopRightThere_Stun_Choice" : "Zdá se mi to a nebo je támhle oheň? (Omráčit)",
+"DIA_Sigund_QA304_StopRightThere_Discuss_Choice" : "Možná bychom se mohli nějak domluvit? (Podplatit)",
+"DIA_Sigund_QA304_StopRightThere_Discuss_Gold_Choice" : "Budiž. Pro slávu vlasti! (Dát 50 zlatých)"
+}

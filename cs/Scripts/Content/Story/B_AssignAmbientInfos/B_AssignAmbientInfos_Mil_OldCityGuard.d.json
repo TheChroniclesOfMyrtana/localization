@@ -1,0 +1,21 @@
+﻿{
+"DIA_OldCityGuard_FirstWarn_03_01" : "Hej, hej! Kam to jdeš?",
+"DIA_OldCityGuard_FirstWarn_15_02" : "Dopředu.",
+"DIA_OldCityGuard_FirstWarn_03_03" : "Tvoje pověst tě předchází! Jdi za Roderichem a dej věci do pořádku.",
+"DIA_OldCityGuard_FirstWarn_03_04" : "Do té doby máš vstup zakázán.",
+"DIA_OldCityGuard_FirstWarn_03_07" : "Je mi líto, ale podle pravidel mají vstup do Starého Města pouze strážní, kteří hlídají tuto čtvrť.",
+"DIA_OldCityGuard_FirstWarn_03_11" : "Zákaz vstupu!",
+"DIA_OldCityGuard_FirstWarn_Pass_15_01" : "Nevěděl jsem, že potřebuji mít propustku.",
+"DIA_OldCityGuard_FirstWarn_Pass_03_02" : "Myslíš, že nechám projít jen tak někoho? Ani náhodou, kámo.",
+"DIA_OldCityGuard_FirstWarn_Pass_15_03" : "Kde mohu takový dokument získat?",
+"DIA_OldCityGuard_FirstWarn_Pass_03_04" : "Musel bys vlastnit dům ve Starém Městě nebo získat povolení ke vstupu od někoho z městské rady.",
+"DIA_OldCityGuard_FirstWarn_Pass_03_05" : "A troufám si říct, že nic z toho nemáš.",
+"DIA_OldCityGuard_FirstWarn_Why_15_01" : "Proč ne?",
+"DIA_OldCityGuard_FirstWarn_Why_15_02" : "Jsem přece měšťanem tohoto města.",
+"DIA_OldCityGuard_FirstWarn_Why_03_03" : "A máš u sebe propustku?",
+"DIA_OldCityGuard_FirstWarn_Why_15_04" : "Jakou propustku máš na mysli?",
+"DIA_OldCityGuard_FirstWarn_Why_03_05" : "Propustku, která tě opravňuje ke vstupu do Starého Města.",
+"DIA_OldCityGuard_SecondWarn_03_01" : "Něco jsem řekl! Nerozuměl jsi snad?",
+"DIA_OldCityGuard_LastWarn_03_01" : "Řekl sis o to!",
+"DIA_OldCityGuard_FirstWarn_15_06" : "Nevadí ti to, že? Jsem městským strážníkem."
+}

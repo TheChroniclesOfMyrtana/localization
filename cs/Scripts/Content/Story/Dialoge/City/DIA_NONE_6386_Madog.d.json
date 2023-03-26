@@ -1,0 +1,22 @@
+﻿{
+"DIA_Madog_FIRSTWARN_03_01" : "A ty? Kam ty jdeš?",
+"DIA_Madog_FIRSTWARN_15_02" : "Potřebuju mluvit s Volkerem.",
+"DIA_Madog_FIRSTWARN_03_03" : "Šéf nemá čas.",
+"DIA_Madog_FIRSTWARN_15_04" : "Poslouchej, byl jsem pověřen vyřešit pokus o jeho vraždu.",
+"DIA_Madog_FIRSTWARN_03_05" : "Jseš chluchej nebo jen blbej?",
+"DIA_Madog_FIRSTWARN_03_06" : "Tudy nikdo neprojde.",
+"DIA_Madog_FIRSTWARN_Pass_15_01" : "Na rozkaz Rodericha jsi povinen mě pustit!",
+"DIA_Madog_FIRSTWARN_Pass_15_02" : "Pokud nechceš mít problém s Cechem, tak vypadneš, tiše a klidně.",
+"DIA_Madog_FIRSTWARN_Pass_03_03" : "A jestli ty nechceš mít hlavu na maděru, tak vypadneš.",
+"DIA_Madog_FIRSTWARN_Inside_15_01" : "Je tvůj šéf uvnitř?",
+"DIA_Madog_FIRSTWARN_Inside_03_02" : "Možná je, možná není.",
+"DIA_Madog_FIRSTWARN_Inside_03_03" : "I kdyby byl, stejnak na tebe nebude mít čas.",
+"DIA_Madog_SECONDWARN_03_01" : "Nebudu se opakovat. Táhni odsud, blbečku!",
+"DIA_Madog_Q308SeeBoss_15_01" : "Mohu vidět tvého šéfa?",
+"DIA_Madog_Q308SeeBoss_03_02" : "To rozhodne Bradlock. Najdeš ho v hale.",
+"DIA_Madog_Q308_Blood_03_01" : "Když jsi pověřen vyšetřováním, proč nezačneš u toho podělaného krvavého fleku na stěně.",
+"DIA_Madog_Q308_Blood_03_02" : "V tomhle počasí to tady tak smrdí, že je nemožné se z toho při hlídání dveří nepoblít.",
+"DIA_Madog_Q308_Blood_03_03" : "Alespoň to zahradník bude moci umýt z té zdi.",
+"DIA_Madog_FIRSTWARN_Bye_Choice" : "(Odejít)",
+"DIA_Madog_FIRSTWARN_Pass_Choice" : "Pusť mě, hned!"
+}

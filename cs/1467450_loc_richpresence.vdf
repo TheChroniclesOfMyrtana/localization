@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"czech"
+	"Tokens"
+	{
+		"#Status_InMenu"	"V hlavní nabídce"
+		"#Status_InGame"	"{#Hodnost_Cech_%guild%} - Úroveň %level% - Kapitola %chapter%"
+		"#Status_Guild_None"	"Nezávislý"
+		"#Status_Guild_Citizen"	"Měšťan"
+		"#Status_Guild_WaterCircle"	"Prsten Vody"
+		"#Status_Guild_Runner"	"Posel"
+		"#Status_Guild_VeteranRunner"	"Zkušený posel"
+		"#Status_Guild_Mercenary"	"Žoldnéř"
+		"#Status_Guild_Hunter"	"Lovec"
+		"#Status_Guild_VeteranMercenary"	"Elitní žoldnéř"
+		"#Status_Guild_VeteranHunter"	"Mistr lovec"
+		"#Status_Guild_Militia"	"Strážník"
+		"#Status_Guild_MilitiaVeteran"	"Strážmistr"
+		"#Status_Guild_Swordsman"	"Šermíř"
+		"#Status_Guild_Crossbowman"	"Kušník"
+		"#Status_Guild_VeteranSwordsman"	"Elitní šermíř"
+		"#Status_Guild_VeteranCrossbowman"	"Elitní kušník"
+	}
+}

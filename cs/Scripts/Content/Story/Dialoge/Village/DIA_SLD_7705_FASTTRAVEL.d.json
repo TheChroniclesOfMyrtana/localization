@@ -1,0 +1,23 @@
+﻿{
+"DIA_FASTTRAVEL_Q201_Refused_03_01" : "Poslali tě pryč s prázdnou, co?",
+"DIA_FASTTRAVEL_Q201_Refused_15_02" : "Vypadá to, že potřebuji nějakou propustku.",
+"DIA_FASTTRAVEL_Q201_Refused_03_03" : "Ano, pravidla se nedávno zpřísnila. Pokud nejsi měšťan, tak se do města bez správného dopisu nedostaneš.",
+"DIA_FASTTRAVEL_Q201_Refused_03_04" : "Máš ale štěstí, zdá se, že ti můžu pomoct dostat se dovnitř.",
+"DIA_FASTTRAVEL_Q201_Refused_03_05" : "Jsem na cestě do Silbachu, od tamního rychtáře bys ten dokument mohl dostat.",
+"DIA_FASTTRAVEL_Q201_Refused_03_06" : "Rád tě tam doprovodím.",
+"DIA_FASTTRAVEL_Q201_Refused_Buisness_15_01" : "A co z toho budeš mít?",
+"DIA_FASTTRAVEL_Q201_Refused_Buisness_03_02" : "Jakožto zástupce kupeckého cechu, podobně jako řada mých kolegů všude po ostrově, ti nabízím svůj doprovod.",
+"DIA_FASTTRAVEL_Q201_Refused_Buisness_03_03" : "Za pár mincí tě doprovodíme na jakékoliv významnější místo na ostrově.",
+"DIA_FASTTRAVEL_Q201_Refused_Buisness_03_04" : "A jelikož taky mířím do Silbachu, tak ti nabízím zlevněnou cenu.",
+"DIA_FASTTRAVEL_Q201_Refused_Another_15_01" : "Není nějaký jiný způsob, jak se dostat do města?",
+"DIA_FASTTRAVEL_Q201_Refused_Another_03_02" : "To jsem neřekl. Propustka je nejjistější způsob, jak se do města dostat, ale kdybys měl dokument potvrzující, že jsi byl vyslán do města, tak tě určitě taky pustí.",
+"DIA_FASTTRAVEL_Q201_Refused_Another_03_03" : "Samozřejmě vždy můžeš zkusit klasický úplatek, ale to je riskantní, když nevíš, komu a kolik zaplatit. Většina strážníků u bran jsou strašní služebníci.",
+"DIA_FASTTRAVEL_Q201_Refused_Woodcutters_15_01" : "Myslíš, že by mi dřevorubci mohli vystavit takový dokument?",
+"DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_02" : "Za pokus nic nedáš! Pokud potřebuješ doprovod, tak tě rád zavedu do tábora uhlířů. Odtamtud bys měl bez větších problémů najít Knuta a jeho muže.",
+"DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_03" : "Na cestě tam se ale kvůli záležitostem Cechu musím na moment zastavit v Silbachu.",
+"DIA_FASTTRAVEL_Q201_FastTravel_Silbach_Description" : "Doprovoď mě do Silbachu. (10 zlatých)",
+"DIA_FASTTRAVEL_Q201_FastTravel_Silbach_15_01" : "Doprovoď mě do Silbachu.",
+"DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_02" : "Pojďme.",
+"DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_03" : "Nejprve zaplať.",
+"DIA_FASTTRAVEL_Q201_FastTravel_Unlocked_03_01" : "Jsme tu. Pokud se budeš ještě někdy chtít vydat na cestu, tady najdeš mě nebo mé kolegy."
+}

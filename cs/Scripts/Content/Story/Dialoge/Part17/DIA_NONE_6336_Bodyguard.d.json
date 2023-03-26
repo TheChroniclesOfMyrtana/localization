@@ -1,0 +1,20 @@
+﻿{
+"DIA_Bodyguard01_HELLO_15_01" : "Zdravím, já...",
+"DIA_Bodyguard01_HELLO_03_02" : "Prašule.",
+"DIA_Bodyguard01_HELLO_WeirdCoin_03_01" : "Šéf je uvnitř. Čeká na tebe.",
+"DIA_Bodyguard01_GoAway_03_01" : "Nemám čas. Jdi za šéfem.",
+"DIA_Bodyguard01_GoAway_03_02" : "Promluv si s šéfem.",
+"DIA_Bodyguard01_GoAway_03_03" : "Neotravuj mě.",
+"DIA_Bodyguard01_GoAway_03_04" : "Padej, mladej!",
+"DIA_Bodyguard_Fight_03_01" : "Kurva, to jseš ty!",
+"DIA_Bodyguard_Fight_Nightmare_15_01" : "Jo, to jsem já, tvoje nejhorší noční můra.",
+"DIA_Bodyguard_Fight_Nightmare_03_02" : "Teď si mě fakt pobavil, mladej.",
+"DIA_Bodyguard_Fight_Nightmare_03_03" : "No dobrá, hezký vtip, teď je čas nakrmit močálový žraloky.",
+"DIA_Bodyguard_Fight_Looking_15_01" : "Hledal jsi mě?",
+"DIA_Bodyguard_Fight_Looking_03_02" : "É, jo... Šéf mi rozkázal ti něco vzkázat...",
+"DIA_Bodyguard_Fight_Looking_03_03" : "Dobrý, co si to nalhávám...",
+"DIA_Bodyguard01_HELLO_GoldCoin_Choice" : "(Ukázat zlatou minci)",
+"DIA_Bodyguard01_HELLO_OldCoin_Choice" : "(Ukázat starou minci)",
+"DIA_Bodyguard01_HELLO_WeirdCoin_Choice" : "(Ukázat zvláštní minci)",
+"DIA_Bodyguard01_HELLO_Fist_Choice" : "(Ukázat pěst - provokovat)"
+}

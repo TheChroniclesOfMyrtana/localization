@@ -1,0 +1,20 @@
+﻿{
+"DIA_MARVIN_Q501Potion_15_01" : "Zatraceně! Pořád se mi třesou ruce... V tomhle stavu nemůžu lektvar vytvořit!",
+"PC_PotionAlchemy_Regenerate_Description" : "Regenerační lektvary.",
+"PC_Mana_Start_Description" : "Namíchat lektvary many.",
+"PC_Special_Start_Description" : "Lektvary s trvalým účinkem.",
+"PC_PotionAlchemy_Timed_Description" : "Časově omezené lektvary.",
+"PC_PotionAlchemy_Seed_Description" : "Lektvary ze semen.",
+"PC_Health_Start_Description" : "Namíchat léčivé lektvary.",
+"PC_PotionAlchemy_Other_Description" : "Jiné.",
+"PC_PotionAlchemy_Other_Ore_Description" : "Rozdrtit magickou rudu.",
+"PC_PotionAlchemy_Other_Ore_One_Description" : "Rozdrtit 1 rudu.",
+"PC_PotionAlchemy_Other_Ore_Five_Description" : "Rozdrtit 5 rudy.",
+"PC_PotionAlchemy_Other_Ore_Ten_Description" : "Rozdrtit 10 rudy.",
+"PC_PotionAlchemy_Other_Ore_All_Description" : "Rozdrtit všechnu rudu.",
+"PC_Poison_Start_Description" : "Připravit jed.",
+"PC_Q501Potion_Start_Description" : "Namíchat Dagobertův lektvar.",
+"PC_Q307Potion_Start_Description" : "Namíchat jed a protijed pro Bena.",
+"PC_Poison_SQ228_Description" : "Jed na krysy.",
+"PC_Tabak_Start_Description" : "Smíchat tabák a ubalit jointa."
+}

@@ -1,0 +1,21 @@
+﻿{
+"DIA_Joris_EXIT_15_01" : "Musím jít.",
+"DIA_Joris_EXIT_03_02" : "Šťastnou cestu.",
+"DIA_Joris_Who_15_01" : "Kdo jsi?",
+"DIA_Joris_Who_03_02" : "Jmenuju se Joris a řídím tenhle mlýn. Působivý, co?",
+"DIA_Joris_Who_Dunno_15_01" : "Mlýn je mlýn. Nic o nich nevím.",
+"DIA_Joris_Who_Dunno_03_02" : "V dnešní době jsou to skutečný poklady, obzvlášť cenný, když nás trápí hlad.",
+"DIA_Joris_Who_Nice_15_01" : "Je to skutečně působivé.",
+"DIA_Joris_Who_Nice_03_02" : "Vyrobili ho nejlepší tesaři na Archolu, a to podle nového schématu.",
+"DIA_Joris_Who_Nice_03_03" : "Ani ty nejsilnější větry ho neporazí, a to díky pevné konstrukci a kamenným základům, na kterých se otáčí.",
+"DIA_Joris_Who_Nice_03_04" : "Bermar, majitel týhle farmy, do něj investoval nemalé jmění, potom, co mlýn poničily nedávné bouře.",
+"DIA_Joris_Bermar_15_01" : "Co mi můžeš říct o Bermarovi?",
+"DIA_Joris_Bermar_03_02" : "Není to ten nejmilejší člověk, ale je to výtečnej obchodník.",
+"DIA_Joris_Bermar_03_03" : "Nebýt jeho, už dávno by tahle farma byla jen dírou na konci světa.",
+"DIA_Joris_Bermar_03_04" : "Bermar se o farmu stará líp než o vlastní děti.",
+"DIA_Joris_Ambient_15_01" : "Jak to jde?",
+"DIA_Joris_Ambient_03_02" : "Mlýn mele, jak by měl, a půda je úrodná.",
+"DIA_Joris_Ambient_03_03" : "Někteří by řekli, že je to zásluhou bohů, ale já myslím, že je to důsledek pořádný dřiny a odhodlání.",
+"DIA_Joris_Ambient_03_04" : "Jak říká staré přísloví: dva tupé kameny samy nic neudělají.",
+"DIA_Joris_Who_Dunno_Choice" : "O mlýnech nic nevím."
+}

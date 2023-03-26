@@ -1,0 +1,20 @@
+﻿{
+"DIA_Elfeg_Hello_03_01" : "Co tě k nám přivádí, mladý muži?",
+"DIA_Elfeg_Hello_Exit_15_01" : "Nic...",
+"DIA_Elfeg_Hello_03_02" : "Ano? Potřebuješ něco?",
+"DIA_Elfeg_Hello_Exit_03_02" : "V tom případě poklidně odejdi.",
+"DIA_Elfeg_Hello_Jorn_03_02" : "Bohužel o tom slyším prvně. Klášterní komunita je již dlouho uzavřena vnějším záležitostem a ani takové zprávy se sem nedostávají.",
+"DIA_Elfeg_Hello_Jorn_03_03" : "Zkus se poptat ve městě, tam se jistě najde někdo, kdo ti pomůže.",
+"DIA_Elfeg_MayIEnter_15_01" : "Můžu vstoupit do kláštera?",
+"DIA_Elfeg_MayIEnter_03_01" : "Ne, převor zakázal vstup cizím osobám. Výjimkou jsou nemocní a potřební, kteří nemají kam jít. Na to ovšem nevypadáš.",
+"DIA_Elfeg_AboutKloster_03_01" : "Klášter je od nepaměti sídlem mágů Vody a noviců. Slouží nám jako místo pro modlitbu, práci a rozjímání.",
+"DIA_Elfeg_AboutKloster_03_02" : "Zajímáš-li se o historii, doporučuji přečíst si o komplexu v knihách. Některé příběhy spojené s tímto místem jsou vskutku fascinující!",
+"DIA_Elfeg_AboutKloster_03_03" : "Volfzack věděl, co dělá, když dal souhlas k vybudování tohoto místa. Bez kláštera by Archolos nebyl tím, čím je!",
+"DIA_Elfeg_AboutWaterMages_03_01" : "Zajisté už to víš, ale jsme Adanosovými služebníky, strážci rovnováhy a ošetřovateli nemocných.",
+"DIA_Elfeg_AboutWaterMages_03_02" : "Od doby, co nám převor nařídil izolaci v klášteře, nemůžeme již svobodně opouštět tento ostrov a pomáhat potřebným napříč celým Archolem.",
+"DIA_Elfeg_AboutWaterMages_03_03" : "Mimo tyto zdi slouží pouze několik vybraných mágů. Většina z nich se zdržuje ve městě.",
+"DIA_Elfeg_Ambient_03_01" : "Ticho a klid. Mám tu hojnost času na rozjímání, které dovede být příjemné, ale i mrzuté.",
+"DIA_Elfeg_Ambient_03_03" : "Když pomyslím na současnou situaci na ostrově, začínám si klást otázku, kdy nám převor konečně dovolí jít mezi lidi, abychom jim poskytli pomoc.",
+"DIA_Elfeg_LetMeOut_15_01" : "Mohl bys mě pustit ven?",
+"DIA_Elfeg_Hello_Jorn_Choice" : "Hledám svého bratra."
+}

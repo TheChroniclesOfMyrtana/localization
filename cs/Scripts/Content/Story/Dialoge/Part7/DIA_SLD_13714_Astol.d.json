@@ -1,0 +1,17 @@
+﻿{
+"DIA_Astol_HELLO_03_01" : "Ahoj! Po tom všem těžení zlata musíš být unavenej.",
+"DIA_Astol_HELLO_03_02" : "Lehni si na chvíli na jednu z těch pohodlnejch postelí z ovčí kůže a odpočiň si. Naber sílu a budeš připravenej zase pokračovat v práci.",
+"DIA_Astol_HELLO_Yes_15_01" : "Díky, spánek mi udělá dobře.",
+"DIA_Astol_HELLO_No_15_01" : "Možná někdy jindy.",
+"DIA_Astol_AfterSleep_03_01" : "Jak se ti spalo?",
+"DIA_Astol_AfterSleep_15_02" : "Dobře, docela dobře.",
+"DIA_Astol_AfterSleep_03_03" : "To je skvělý. 7 zlatých valounů.",
+"DIA_Astol_AfterSleep_15_04" : "Neřekl jsi, že budu muset za spánek platit!",
+"DIA_Astol_AfterSleep_03_05" : "Myslím, že je to jasný. Zaplatíš dobrovolně, nebo to z tebe mám dostat sám?",
+"DIA_Astol_AfterSleep_03_06" : "Odpočatej? Nezapomněl jsi snad na 7 valounů za službu, že ne?",
+"DIA_Astol_AfterSleep_Pay_15_01" : "Dobře, vezmi si ty valouny.",
+"DIA_Astol_AfterSleep_Pay_03_02" : "Chytrej chlapec. Kdyby sis potřeboval ještě někdy zdřímnout, víš, kde mě najdeš.",
+"DIA_Astol_AfterSleep_No_15_01" : "Nic nedostaneš.",
+"DIA_Astol_AfterFight_03_02" : "Děkujeme, že jsi využil našich služeb a znovu se k nám vrať.",
+"DIA_Astol_AfterFight_03_01" : "Nech si ty valouny. Jdi mi z očí!"
+}

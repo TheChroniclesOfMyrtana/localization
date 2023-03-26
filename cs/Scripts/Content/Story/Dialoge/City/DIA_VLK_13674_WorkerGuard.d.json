@@ -1,0 +1,19 @@
+﻿{
+"DIA_WorkerGuard_FIRSTWARN_03_01" : "Stát! K bednám se nesmí nikdo přiblížit!",
+"DIA_WorkerGuard_SECONDWARN_03_01" : "Jsi snad hluchý? Něco jsem ti snad říkal, odejdi!",
+"DIA_WorkerGuard_KQ406_LetMeIn_15_01" : "Nech mě projít, pracuji v přístavu a potřebuji nějaké dřevo.",
+"DIA_WorkerGuard_KQ406_LetMeIn_03_02" : "Od kdy? Včera jsem tě tu neviděl!",
+"DIA_WorkerGuard_KQ406_LetMeIn_15_03" : "Není divu. Právě mě najali.",
+"DIA_WorkerGuard_KQ406_LetMeIn_03_04" : "Hmmm jak zajímavé. Půjdu se zeptat Dacka, jestli je to pravda!",
+"DIA_WorkerGuard_KQ406_LetMeIn_15_05" : "S čím máš problém?",
+"DIA_WorkerGuard_KQ406_LetMeIn_03_06" : "S ničím! Myslím, že něco chystáš!",
+"DIA_WorkerGuard_KQ406_OfferMoney_Description" : "Možná tohle by tě mohlo dostat z pochybností? (Zaplatit 100 zlatých)",
+"DIA_WorkerGuard_KQ406_OfferMoney_15_01" : "Možná tohle by tě mohlo dostat z pochybností?",
+"DIA_WorkerGuard_KQ406_OfferMoney_03_02" : "Možná by mohlo. Pokud k tomu přihodíš ještě vychlazené pivo.",
+"DIA_WorkerGuard_KQ406_OfferMoney_03_03" : "Nemáš tušení jak dlouho tady už stojím. A oni nedají kamarádovi ani nic k pití.",
+"DIA_WorkerGuard_KQ406_Give_Description" : "Vem si své pivo. (Dát pivo a 100 zlatých)",
+"DIA_WorkerGuard_KQ406_Give_15_01" : "Vem si své pivo.",
+"DIA_WorkerGuard_KQ406_Give_03_02" : "Ah, přesně co jsem potřeboval.",
+"DIA_WorkerGuard_KQ406_Give_03_03" : "Vem si dřevo a vrať se do práce. Lodě se sami nepostaví.",
+"DIA_WorkerGuard_KQ406_Give_03_04" : "Asi jsi si ho zapomněl vzít s sebou."
+}
