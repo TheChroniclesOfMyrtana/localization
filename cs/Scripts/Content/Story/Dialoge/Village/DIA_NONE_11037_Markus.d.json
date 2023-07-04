@@ -25,7 +25,7 @@
 "DIA_Markus_trainMe_15_02" : "Trochu ano. Hodily by se mi i praktické znalosti.",
 "DIA_Markus_trainMe_13_03" : "Dobře, můžu ti ukázat, jak správně držet luk, jak s ním zručně zacházet a jak si udělat vlastní, ale bude tě to trochu stát.",
 "DIA_Markus_trainMe_13_04" : "Nemůžu marnit čas, který bych mohl využít k lovu a tím pádem k výdělku, určitě chápeš.",
-"DIA_Markus_trainMe_13_05" : "Můžu tě taky naučit, jak získávat zvířecí trofeje - základní i speciální, jako jsou zuby, čelisti nebo jedové žlázy a křídla krvavých much.",
+"DIA_Markus_trainMe_13_05" : "Můžu tě taky naučit, jak získávat zvířecí trofeje - základní i speciální, jako jsou zuby, kusadla nebo jedové žlázy a křídla krvavých much.",
 "DIA_Markus_Teach_15_00" : "Uč mě.",
 "DIA_Markus_Teach_13_01" : "Není problém.",
 "DIA_Markus_Teach_BOW1_13_01" : "To je málo, přines více zlata.",
@@ -134,7 +134,7 @@
 "DIA_Markus_SellTrophy_ClawsSeaLurker_Choice" : "(Dát drápy mořského číhavce)",
 "DIA_Markus_SellTrophy_Teeth_Choice" : "(Dát běžné tesáky)",
 "DIA_Markus_SellTrophy_BoarTeeth_Choice" : "(Dát kančí kly)",
-"DIA_Markus_SellTrophy_TrollTeeth_Choice" : "(Dát trolí kly)",
+"DIA_Markus_SellTrophy_TrollTeeth_Choice" : "(Dát trolí tesáky)",
 "DIA_Markus_SellTrophy_SwampSharkTeeth_Choice" : "(Dát kly močálového žraloka)",
 "DIA_Markus_SellTrophy_SeaSharkTeeth_Choice" : "(Dát žraločí zuby)"
 }

@@ -1,4 +1,4 @@
-﻿{
+{
   "DIA_Einar_HELLO_15_01": "Salve! Sei un fabbro?",
   "DIA_Einar_HELLO_03_02": "No, a volte mi piace toccare le cose. Ti fa sentire meglio.",
   "DIA_Einar_HELLO_03_03": "Eh, perché fai domande così stupide? Sì, sono il fabbro qui.",
@@ -66,7 +66,7 @@
   "DIA_Einar_Who_Vahral_03_04": "Ehm, sei bravo. Sì, stanno sempre insieme. A loro piace bere, secondo me troppo, quindi chiedi all'oste.",
   "DIA_Einar_Who_Thanks_15_01": "Grazie per avermi detto tutto ciò.",
   "DIA_Einar_Who_Thanks_03_02": "Sì. Se Ulryk mi taglia la testa per aver interrotto il lavoro, ti perseguiterò. Hai capito?",
-  "DIA_Einar_Who_Thanks_15_03": "Si certo. Terrò le dita incrociate perché tu viva ancora un po'. Arrivederci.",
+  "DIA_Einar_Who_Thanks_15_03": "Sì certo. Terrò le dita incrociate perché tu viva ancora un po'. Arrivederci.",
   "DIA_Einar_TEACHSMITH_03_02": "Beh, non posso. A Ulryk non piacerebbe se il suo fabbro insegnasse la sua arte a estranei. Questa è la mia ultima parola.",
   "DIA_Einar_TEACHSMITH_15_04": "Allora mostrami come diventare più forte.",
   "DIA_Einar_TEACHSMITH_03_06": "Ma ricorda. Lo faccio solo perché sei stato utile a Ulryk e, quindi, all'intera comunità.",
@@ -114,8 +114,8 @@
   "DIA_Einar_SQ419_GotWood_No_03_02": "Dannazione, beh, ci penserò io.",
   "DIA_Einar_SQ419_StartWood_03_01": "Taglia quei tronchi in modo che siano lunghi più o meno come un uomo adulto. Inizierò a riscaldare il forno alla giusta temperatura mentre lo fai.",
   "DIA_Einar_SQ419_History_Next_03_01": "Vedo che hai già tagliato il primo lotto di legno. Eccellente, possiamo passare al prossimo compito.",
-  "DIA_Einar_SQ419_History_Next_03_02": "Prendi queste barre di metallo. Scaldali nella fornace un pezzo alla volta, poi passa all'incudine e forgiali alternativamente da sinistra e da destra finché non ottieni un semicerchio.",
-  "DIA_Einar_SQ419_History_Next_03_03": "Alla fine raffreddi ciò che hai forgiato e ripeti il ​​processo quattro volte. Tutta l'attrezzatura necessaria è qui nell'angolo della fucina.",
+  "DIA_Einar_SQ419_History_Next_03_02": "Prendi queste barre di metallo. Scaldale nella fornace un pezzo alla volta, poi passa all'incudine e forgiale alternativamente da sinistra e da destra finché non ottieni un semicerchio.",
+  "DIA_Einar_SQ419_History_Next_03_03": "Alla fine raffreddi ciò che hai forgiato e ripeti il processo quattro volte. Tutta l'attrezzatura necessaria è qui nell'angolo della fucina.",
   "DIA_Einar_SQ419_History_Next_03_04": "Se hai bisogno di me, sarò nella fucina accanto, devo preparare la lega per la colata.",
   "DIA_Einar_SQ419_History_Work_15_01": "Mettiamoci al lavoro. In silenzio.",
   "DIA_Einar_SQ419_History_Work_03_02": "Hai ragione, è meglio così.",
