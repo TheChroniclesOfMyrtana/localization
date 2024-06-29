@@ -1,0 +1,24 @@
+"lang"
+{
+	"Language"	"hungarian"
+	"Tokens"
+	{
+		"#Status_InMenu"	"A főmenüben"
+		"#Status_InGame"	"{#Status_Guild_%guild%} - Szint %level% - Fejezet %chapter%"
+		"#Status_Guild_None"	"Céh nélküli"
+		"#Status_Guild_Citizen"	"Polgár"
+		"#Status_Guild_WaterCircle"	"Víz köre"
+		"#Status_Guild_Runner"	"Fullajtár"
+		"#Status_Guild_VeteranRunner"	"Elit fullajtár"
+		"#Status_Guild_Mercenary"	"Zsoldos"
+		"#Status_Guild_Hunter"	"Vadász"
+		"#Status_Guild_VeteranMercenary"	"Elit zsoldos"
+		"#Status_Guild_VeteranHunter"	"Elit vadász"
+		"#Status_Guild_Militia"	"Városőr"
+		"#Status_Guild_MilitiaVeteran"	"Elit városőr"
+		"#Status_Guild_Swordsman"	"Kardforgató"
+		"#Status_Guild_Crossbowman"	"Számszeríjász"
+		"#Status_Guild_VeteranSwordsman"	"Elit kardforgató"
+		"#Status_Guild_VeteranCrossbowman"	"Elit számszeríjász"
+	}
+}

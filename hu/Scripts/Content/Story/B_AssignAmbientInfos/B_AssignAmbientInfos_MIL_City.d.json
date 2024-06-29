@@ -1,0 +1,21 @@
+﻿{
+  "DIA_MIL_FMQ002_15_01": "Roderich mondta, hogy szerezzek magamnak egy kardot. Valamilyen ötlet?",
+  "DIA_MIL_FMQ002_CanUShow_15_01": "Megnézhetném a kardodat?",
+  "DIA_MIL_FMQ002_CanUShow_Rude_15_03": "Gyerünk, ne beszélj.",
+  "DIA_MIL_FMQ002_NeedSword_15_01": "Szükségem van egyre, hogy őr lehessek.",
+  "DIA_MIL_FMQ002_SwordScheme_15_01": "Szeretném megismerni a felépítését, hogy magam is kovácsolhassak egyet.",
+  "DIA_MIL_FMQ002_WantToJoin_15_01": "Bíznod kell bennem, csatlakozni szeretnék hozzátok.",
+  "DIA_MIL_FMQ002_HaveGold_15_01": "Mi lenne, ha adnék egy pár aranyat biztosítékként?",
+  "DIA_MIL_FMQ002_SwordScheme_No_15_01": "Felejtsd el.",
+  "DIA_MIL_FMQ002_SwordScheme_Yes_15_02": "Ennyi elég lesz. Tessék, itt a kardod.",
+  "DIA_MIL_FMQ002_SwordScheme_Thanks_15_01": "Köszönöm a segítséget.",
+  "DIA_MIL_FMQ002_SwordScheme_MissingGold_15_01": "Hé! Add ide a maradékot!",
+  "DIA_MIL_Roderich_15_02": "Figyelek.",
+  "DIA_MIL_Roderich_What_15_01": "A királyi követ látogatása?",
+  "DIA_MIL_Roderich_What_15_03": "A hajó? Hol van most?",
+  "DIA_MIL_Roderich_Go_15_01": "Köszönöm a jelentést.",
+  "DIA_MIL_Roderich_Go_15_02": "Lelépni.",
+  "DIA_MIL_Late_15_04": "Rendben, jövök. Lelépni.",
+  "DIA_MIL_GiveArmorBack_15_02": "Te mondod?",
+  "DIA_MIL_FMQ002_SwordScheme_CheckOut_Choice": "(Kard átadása)"
+}

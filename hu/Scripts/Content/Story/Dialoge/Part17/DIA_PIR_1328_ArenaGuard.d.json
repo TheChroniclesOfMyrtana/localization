@@ -1,0 +1,17 @@
+﻿{
+  "DIA_ArenaGuard_ArenaNoInvite_15_01": "Mi van a rácsok mögött?",
+  "DIA_ArenaGuard_ArenaNoInvite_03_01": "Hely a bajnokság résztvevőinek. Mindenki arra számít, hogy csatlakozni fogsz a következő bajnoksághoz.",
+  "DIA_ArenaGuard_ArenaNoInvite_03_02": "Hely a bajnokság résztvevőinek. Ne félj, nem lesz rá lehetőséged, hogy belülről lásd.",
+  "DIA_ArenaGuard_ArenaNoInvite_Details_03_01": "A lelátók alatt van egy speciális ketrec a különböző vadállatok számára. Igaz, már régóta nem használták, de úgy tűnik Cortez Proximóval együtt valami különlegeset talált ki.",
+  "DIA_ArenaGuard_ArenaSignedIn_15_01": "Én az egyik résztvevő vagyok a bajnokságon.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_01": "Igen, hallottam. Rögtön nyitom is a kaput. Gyere be és helyezd magad kényelembe.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_02": "Ha jól teljesítesz akkor a délutánod nagy részét itt töltheted.",
+  "DIA_ArenaGuard_ArenaSignedIn_03_03": "Elvileg bent van Proximo. Ő mindent elmagyaráz neked.",
+  "DIA_ArenaGuard_Q306_GiveUp_15_01": "Elegem lett a harcból, ki szeretnék lépni a bajnokságból.",
+  "DIA_ArenaGuard_Q306_GiveUp_03_01": "Egészen jól teljesítettél, biztos vagy benne?",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_15_01": "Ja.",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_03_01": "Ahogy akarod, valószínűleg csak félsz Bentől.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_15_01": "Nem.",
+  "DIA_ArenaGuard_Q306_GiveUp_No_Choice": "Nem.",
+  "DIA_ArenaGuard_Q306_GiveUp_Yes_Choice": "Igen."
+}

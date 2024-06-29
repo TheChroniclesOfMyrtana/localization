@@ -1,0 +1,21 @@
+﻿{
+  "DIA_Joris_EXIT_15_01": "Mennem kell.",
+  "DIA_Joris_EXIT_03_02": "Jó utat.",
+  "DIA_Joris_Who_15_01": "Ki vagy te?",
+  "DIA_Joris_Who_03_02": "A nevem Joris, és én vezetem ezt a malmot. Lenyűgöző, nem igaz?",
+  "DIA_Joris_Who_Dunno_15_01": "Egyik malom olyan, mint a másik. Semmit sem tudok a malmokról.",
+  "DIA_Joris_Who_Dunno_03_02": "Ezek igazi kincsek a napokban, főleg amikor az éhség néz velünk szemben.",
+  "DIA_Joris_Who_Nice_15_01": "Ez tényleg lenyűgöző.",
+  "DIA_Joris_Who_Nice_03_02": "Archolos legjobb ácsmesterei készítették, akik a legújabb tervek alapján kivitelezték.",
+  "DIA_Joris_Who_Nice_03_03": "Masszív felépítésének és a kőalapnak köszönhetően, amelyen áll, még a legerősebb széllökések sem döntik le.",
+  "DIA_Joris_Who_Nice_03_04": "Bermar, a tanya tulajdonosa rengeteg pénzt költött rá, miután egy régebbi vihar elpusztította a régi istállót.",
+  "DIA_Joris_Bermar_15_01": "Mit tudsz Bermarról mondani?",
+  "DIA_Joris_Bermar_03_02": "Nem a legkedvesebb ember, de tökéletes üzletember.",
+  "DIA_Joris_Bermar_03_03": "Ha ő nem lenne, akkor ez a tanya egy pöcegödör lenne a civilizáció szélén.",
+  "DIA_Joris_Bermar_03_04": "Bermar jobban foglalkozik a tanyájával, mint a saját gyerekeivel.",
+  "DIA_Joris_Ambient_15_01": "Hogy vagy?",
+  "DIA_Joris_Ambient_03_02": "A cséplőgép úgy őröl ahogy kell, és a föld megadja a termést.",
+  "DIA_Joris_Ambient_03_03": "Mások azt mondanák, hogy az istenek műve, de szerintem ez csupán a kemény munka és elszántság eredménye.",
+  "DIA_Joris_Ambient_03_04": "Ahogy a régi mondás szól: két tompa kő mit sem ér.",
+  "DIA_Joris_Who_Dunno_Choice": "Nem tudok semmit a malmokról."
+}

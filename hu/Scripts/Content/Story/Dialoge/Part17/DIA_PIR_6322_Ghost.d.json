@@ -1,0 +1,19 @@
+﻿{
+  "DIA_Ghost_SQ406_Fight_Description": "Szellem? Nem tudtál volna ennél hülyébbet kitalálni? (Harc provokálása)",
+  "DIA_Ghost_SQ406_Fight_15_01": "Szellemnek hívod magad? Nem tudtál volna ennél hülyébbet kitalálni?",
+  "DIA_Ghost_SQ406_Fight_03_02": "Mit mondtál, te hülye? Azt hiszed vagy valaki? Megmutatom hol a helyed.",
+  "DIA_Ghost_SQ406_AfterFight_03_01": "Rendben, rendben, nyertél! De ha megint poénkodsz velem akkor megkereslek egy esős éjszakán és kitépem a beleidet.",
+  "DIA_Ghost_SQ406_AfterFight_15_02": "Sajnálom, egy kicsit túlreagáltam. Nem akartam ellenséget csinálni belőled. Mit szólnál egy gyógyitalhoz, hogy jobban legyél?",
+  "DIA_Ghost_SQ406_AfterFight_03_03": "Rendben! Add ide, mert a fejem úgy fáj, mintha egy hordányi vakondpatkány rohant volna át rajta.",
+  "DIA_Ghost_SQ406_AfterFight_Transform_L_03_01": "Kösz. Olyan az íze, mint egy öreg mocsári kendernek. Máris jobban érzem magam!",
+  "DIA_Ghost_SQ406_AfterFight_Transform_M_03_01": "Mit adtál nekem? Ez undorító!",
+  "DIA_Ghost_SQ406_AfterFight_Transform_M_03_02": "Ha meg akarnál ölni, akkor itt rögtön megtehetnéd, nem kell kínoznod ezzel a szarral. Takarodj a szemem elől!",
+  "DIA_Ghost_SQ406_AfterFight_Transform_H_03_01": "Fenébe, a gyomrom. Aah!!!",
+  "DIA_Ghost_SQ406_Monster_03_02": "Te mocskos szemétláda! Gondolhattam volna, hogy valamit tervezel. Most megfizetsz azért amit tettél!",
+  "DIA_Ghost_Q306_Reward_03_01": "Csodálatos teljesítmény az arénában. Ritka olyan embert látni, aki ilyen gyönyörrel harcol. Fogadd el ezeket a ritkaságokat a művészeted elismeréseként.",
+  "DIA_Ghost_Q306_AfterTournament_03_01": "Fáradt vagy egy harc után? Ha be akarsz aludni, akkor felejtsd el a Dokkot. Ezek a bajnokság utáni lakomák napokig is tarthatnak...",
+  "DIA_Ghost_Ambient_13_13": "Nem kéne Cortezzel beszélned?",
+  "DIA_Ghost_Ambient_13_14": "Most elfoglalt vagyok és nincs időm beszélgetni.",
+  "DIA_Ghost_Ambient_13_15": "Valószínűleg nem olyan jó, mint az új arénamester, úgyhogy nem fogok fölöslegesen beszélni.",
+  "DIA_Ghost_Ambient_13_16": "Jól, valószínűleg egy kicsit jobban, mint te. Legalább én sosem voltam olyan hülye, hogy megverjenek az arénában."
+}

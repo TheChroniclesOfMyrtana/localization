@@ -1,0 +1,22 @@
+﻿{
+  "DIA_Madog_FIRSTWARN_03_01": "Te meg merre mész?",
+  "DIA_Madog_FIRSTWARN_15_02": "Volkerrel kell beszélnem.",
+  "DIA_Madog_FIRSTWARN_03_03": "A főnök elfoglalt.",
+  "DIA_Madog_FIRSTWARN_15_04": "Figyelj, egy megbízást kaptam, hogy kutassam fel ki az ellene irányuló merényletet.",
+  "DIA_Madog_FIRSTWARN_03_05": "Süket, vagy idióta vagy?",
+  "DIA_Madog_FIRSTWARN_03_06": "Senki sem megy itt át.",
+  "DIA_Madog_FIRSTWARN_Pass_15_01": "Roderich parancsára, most azonnal engedj át!",
+  "DIA_Madog_FIRSTWARN_Pass_15_02": "Ha nem akarod, hogy dolgod legyen a Céhvel, akkor menj arrébb, kedvesen és udvariasan.",
+  "DIA_Madog_FIRSTWARN_Pass_03_03": "És te, ha szeretnéd a fejedet egyben tartani, akkor most azonnal eltakarodsz innen.",
+  "DIA_Madog_FIRSTWARN_Inside_15_01": "Bent van a főnököd?",
+  "DIA_Madog_FIRSTWARN_Inside_03_02": "Talán igen, talán nem.",
+  "DIA_Madog_FIRSTWARN_Inside_03_03": "Még ha bent is lenne, rád nem lenne ideje.",
+  "DIA_Madog_SECONDWARN_03_01": "Nem akarom megismételni magamat. Takarodj innen, te kis pöcs!",
+  "DIA_Madog_Q308SeeBoss_15_01": "Meglátogathatom a főnöködet?",
+  "DIA_Madog_Q308SeeBoss_03_02": "Azt Bradlock fogja eldönteni. A folyosón megtalálod őt.",
+  "DIA_Madog_Q308_Blood_03_01": "Mivel elvileg te vagy ennek a nyomozásnak az élén, miért nem kezded az istenverte vérrel a falon.",
+  "DIA_Madog_Q308_Blood_03_02": "Ebben az időjárásban úgy bűzölög, hogy lehetetlen rosszullét nélkül őrködni.",
+  "DIA_Madog_Q308_Blood_03_03": "Legalább a kertész is letakaríthatná a falat.",
+  "DIA_Madog_FIRSTWARN_Bye_Choice": "(Elmenni)",
+  "DIA_Madog_FIRSTWARN_Pass_Choice": "Engedj át, most!"
+}

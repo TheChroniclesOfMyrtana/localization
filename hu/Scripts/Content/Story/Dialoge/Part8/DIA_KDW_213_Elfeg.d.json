@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Elfeg_Hello_03_01": "Mi szél hozott, fiatalember?",
+  "DIA_Elfeg_Hello_Exit_15_01": "Semmi...",
+  "DIA_Elfeg_Hello_03_02": "Igen? Szükséged van bármire?",
+  "DIA_Elfeg_Hello_Exit_03_02": "Akkor menj békével!",
+  "DIA_Elfeg_Hello_Jorn_03_02": "Sajnálatos módon most hallom ezt először. Hosszú ideje a kolostor közössége elzárkózott a külvilág dolgaitól, szóval ilyen hírek nem nagyon jutnak el ide.",
+  "DIA_Elfeg_Hello_Jorn_03_03": "Próbálj meg a városban utánajárni ennek. Biztos vagyok benne, hogy ott valaki tud segíteni.",
+  "DIA_Elfeg_MayIEnter_15_01": "Beléphetek a kolostorba?",
+  "DIA_Elfeg_MayIEnter_03_01": "Nem. Az apát megtiltotta, hogy az idegenek belépjenek. Kivételt jelentenek a betegek és a rászorulók, akik nem tudnak máshova menni. Nem tűnsz ilyennek nekem.",
+  "DIA_Elfeg_AboutKloster_03_01": "A kolostor a vízmágusok és a növendékek otthona az emlékezet óta. Helyet szolgáltat az imáinknak, a munkának és a gondolkodásnak.",
+  "DIA_Elfeg_AboutKloster_03_02": "Ha szereted a történelmet, akkor javaslom, hogy olvasd el a könyveket erről a komplexumról. Néhány történet, ami ezzel a hellyel kapcsolatos, igen izgalmas!",
+  "DIA_Elfeg_AboutKloster_03_03": "Volfzack tudta, mit csinál, mikor beleegyezett ennek a helynek a megépítésébe. A kolostor nélkül Archolos nem lenne most ilyen!",
+  "DIA_Elfeg_AboutWaterMages_03_01": "Biztosan tudsz erről, de mi vagyunk Adanos papjai, az egyensúly őrei és a betegek ápolói.",
+  "DIA_Elfeg_AboutWaterMages_03_02": "Amióta az apát elrendelte az elszigetelődésünket, többé nem hagyhatjuk el ezt a szigetet, és nem segíthetünk a rászorulóknak Archolosban.",
+  "DIA_Elfeg_AboutWaterMages_03_03": "Csak néhány kiválasztott mágus szolgál a falakon túl. Legtöbbjük a városban tartózkodik.",
+  "DIA_Elfeg_Ambient_03_01": "Béke és nyugalom. Elég sok időm van itt gondolkozni, ami egyszerre gyönyörű és dühítő.",
+  "DIA_Elfeg_Ambient_03_03": "Mikor belegondolok a sziget jelenlegi helyzetébe, akkor el kezdek azon elmélkedni, hogy mikor engedi meg végre az apát, hogy az emberek közé mehessünk újra, és segítsünk nekik.",
+  "DIA_Elfeg_LetMeOut_15_01": "Át tudnál engedni?",
+  "DIA_Elfeg_Hello_Jorn_Choice": "A testvéremet keresem."
+}

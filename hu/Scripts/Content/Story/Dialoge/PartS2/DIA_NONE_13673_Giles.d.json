@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Giles_KQ405_Search_15_01": "Hallottam, úgy ismered a csatornákat, mint a tenyeredet.",
+  "DIA_Giles_KQ405_Search_03_02": "Valakinek át kell fésülnie a területet a ránk veszélyes fészkek után.",
+  "DIA_Giles_KQ405_Search_15_03": "Innen nem messze fekszik egy férfi holtteste. Találtál nála valamit?",
+  "DIA_Giles_KQ405_Search_03_04": "Valószínűleg észrevetted, hogy van itt néhány holttest. Pontosan melyikre gondolsz?",
+  "DIA_Giles_KQ405_Search_15_05": "Melyiknek a torkát elvágták.",
+  "DIA_Giles_KQ405_Search_03_06": "Igen. Ránéztem, hátha van nála valami, amit használhatnánk.",
+  "DIA_Giles_KQ405_Search_03_07": "A létező legrondább Innos szobrocskán kívül semmi érdekes nem volt nála.",
+  "DIA_Giles_KQ405_Figure_15_01": "Megvan még a szobrocska?",
+  "DIA_Giles_KQ405_Figure_03_02": "Igen, gondoltam, kapunk érte némi aranyat. De sajnos annyira rosszul sikeredett, hogy senki nem akarta megvenni tőlem.",
+  "DIA_Giles_KQ405_Figure_03_03": "Ha érdeklődsz utána, akkor fontos lehet számodra.",
+  "DIA_Giles_KQ405_Figure_03_04": "Eladhatom neked, mondjuk ... 250 aranyért.",
+  "DIA_Giles_KQ405_Figure_Give_15_01": "Oké, fordítsd az aranyat valami hasznosra.",
+  "DIA_Giles_KQ405_Figure_Give_03_02": "Úgy lesz. Talán végre eltűnhetünk innen. Itt van a szobrocska.",
+  "DIA_Giles_KQ405_Figure_Give_15_03": "Tényleg nagyon rusnya. Itt az ideje, hogy távozzak.",
+  "DIA_Giles_KQ405_Figure_Fight_15_01": "Van egy jobb ajánlatom. Ha ingyen megkapom, nem foglak bántani.",
+  "DIA_Giles_KQ405_Figure_Fight_03_02": "Tényleg azt hiszed, hogy elbírsz mindnyájunkkal?",
+  "DIA_Giles_KQ405_Figure_Fight_15_03": "Nem gond.",
+  "DIA_Giles_KQ405_Figure_Fight_03_04": "Te akartad!",
+  "DIA_Giles_KQ405_GiveGold_Descrption": "Fizetek a szobrocskáért. (250 arany)",
+  "DIA_Giles_KQ405_Figure_Give_Choice": "Fizetni szeretnék. (250 arany)",
+  "DIA_Giles_KQ405_Figure_Fight_Choice": "Ingyen odaadod nekem, és nem foglak bántani."
+}

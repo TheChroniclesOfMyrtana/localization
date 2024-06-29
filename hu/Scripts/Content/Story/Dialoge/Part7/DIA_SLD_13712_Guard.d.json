@@ -1,0 +1,23 @@
+﻿{
+  "DIA_Araxos_GuardMine_03_FIRSTWARN_03_01": "Megállni! Itt nincs átjárás.",
+  "DIA_Araxos_GuardMine_03_SECONDWARN_03_01": "Süket vagy? Még egy lépés és megbánod!",
+  "DIA_Araxos_GuardMine_03_Why_15_01": "Miért?",
+  "DIA_Araxos_GuardMine_03_Why_03_02": "A vezetőség úgy döntött, hogy lezárja a bánya ezen részét. Alig van arany, tárnarákok és elég meredek a lejtő.",
+  "DIA_Araxos_GuardMine_03_Why_03_03": "Több kiadás volt benne mint bevétel.",
+  "DIA_Araxos_GuardMine_03_LookAway_15_01": "Nem tudnál arrébb nézni egy pillanatra?",
+  "DIA_Araxos_GuardMine_03_LookAway_03_02": "Le akarsz fizetni engem?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_15_01": "Elég öt rög?",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_02": "Oké, add a rögöket, de egy szót sem a többieknek erről, hogy beengedtelek.",
+  "DIA_Araxos_GuardMine_03_Offer_5Ore_03_03": "Nem hiszem, hogy magaddal hoztad, fiú.",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_15_01": "Van nálam pár arany...",
+  "DIA_Araxos_GuardMine_03_Offer_Gold_03_02": "Miért kéne nekem érme? Rögöket használunk itt. Nélkülük nincs miről beszélgetnünk.",
+  "DIA_Guard_QA306_AlreadyPayed_15_01": "Már fizettem neked!",
+  "DIA_Guard_QA306_AlreadyPayed_03_02": "Ember, olyan sokan voltatok itt mostanában, hogy már nem is tudom megszámolni.",
+  "DIA_Guard_QA306_AlreadyPayed_03_03": "Lehet, hogy fizettél, de lehet, hogy nem. Csak hogy lásd milyen jószívű vagyok, féláron bejuthatsz. Ha nem tervezel fizetni, akkor jobb ha elmész mielőtt felidegesítesz.",
+  "DIA_Guard_QA306_Why_15_01": "Miért kéne fizetnem az áthaladásért?",
+  "DIA_Guard_QA306_Why_03_02": "Szerintem egyértelmű, ez a része a bányának le van zárva. Ez az önkéntes díj azért van, hogy... öööö... ömmm... errr... a gyönyörű és elfeledett aknát restaurálhassuk.",
+  "DIA_Guard_QA306_Why_03_03": "Tíz aranyrög igazán korrekt felajánlás.",
+  "DIA_Guard_QA306_Pay_03_01": "Szívesen látunk.",
+  "DIA_Guard_QA306_Pay_5_Choice": "(Fizetsz 5 aranyrögöt)",
+  "DIA_Guard_QA306_Pay_10_Choice": "(Fizetsz 10 aranyrögöt)"
+}

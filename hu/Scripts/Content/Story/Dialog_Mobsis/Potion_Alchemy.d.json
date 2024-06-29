@@ -1,0 +1,20 @@
+﻿{
+  "DIA_MARVIN_Q501Potion_15_01": "Baszki! A kezeim még mindig remegnek... Nem tudok ilyen állapotban főzeteket készíteni!",
+  "PC_PotionAlchemy_Regenerate_Description": "Regeneráló főzet készítése.",
+  "PC_Mana_Start_Description": "Mana italok főzése.",
+  "PC_Special_Start_Description": "Maradandó főzetek készítése.",
+  "PC_PotionAlchemy_Timed_Description": "Ideiglenes főzetek készítése.",
+  "PC_PotionAlchemy_Seed_Description": "Főzetek magokból.",
+  "PC_Health_Start_Description": "Gyógyító italok főzése.",
+  "PC_PotionAlchemy_Other_Description": "Egyéb.",
+  "PC_PotionAlchemy_Other_Ore_Description": "Mágikus ércrögök őrlése.",
+  "PC_PotionAlchemy_Other_Ore_One_Description": "1 rögöt őrölni.",
+  "PC_PotionAlchemy_Other_Ore_Five_Description": "5 rögöt őrölni.",
+  "PC_PotionAlchemy_Other_Ore_Ten_Description": "10 rögöt őrölni.",
+  "PC_PotionAlchemy_Other_Ore_All_Description": "Minden rögöt szétőrölni.",
+  "PC_Poison_Start_Description": "Méreg keverése.",
+  "PC_Q501Potion_Start_Description": "Dagobert főzetének készítése.",
+  "PC_Q307Potion_Start_Description": "Méreg és ellenszer főzése Bennek.",
+  "PC_Poison_SQ228_Description": "Patkányméreg keverése.",
+  "PC_Tabak_Start_Description": "Dohány keverése és sodrása."
+}

@@ -1,0 +1,20 @@
+﻿{
+  "DIA_Badulf_FirstWarn_03_01": "Állj! Senki nem mehet le a kolostor alagsorába engedély nélkül!",
+  "DIA_Badulf_SecondWarn_03_01": "Fordulj vissza!",
+  "DIA_Badulf_LastWarn_03_01": "Adanos, adj erőt!",
+  "DIA_Badulf_Why_15_01": "Miért?",
+  "DIA_Badulf_Why_03_02": "Ez az apát közvetlen utasítása. Csak a főmágusok mehetnek le oda.",
+  "DIA_Badulf_What_15_01": "Mi van az alagsorban?",
+  "DIA_Badulf_What_03_02": "A hátam mögött a kolostor katakombái vannak. Semmi, ami érdekelhetne téged, fiatalember.",
+  "DIA_Badulf_Angry_03_01": "Ne gondold azt, hogy nem tudok a kis látogatásodról a katakombákban.",
+  "DIA_Badulf_Angry_03_02": "Szerencsés vagy, hogy semmi értékes nem tűnt el onnan, különben maga Notger élve nyúzott volna meg téged érte.",
+  "DIA_Badulf_Pass_15_01": "Nem te őrzöd a katakombák bejáratát?",
+  "DIA_Badulf_Pass_03_02": "Jelenleg egy másik mágus őrzi az ajtót. Szerintem nyilvánvaló, hogy időnként váltanunk kell egymást.",
+  "DIA_Badulf_Pass_03_03": "Egy helyben állni a föld alatt elég jó a meditáláshoz, de időnként mindenkinek szüksége van friss levegőre.",
+  "DIA_Badulf_Potion_15_01": "Kaphatok tőled gyógyító főzeteket?",
+  "DIA_Badulf_Potion_03_02": "Nem látszol betegnek, de legyen. Fogadd el ezt a varázsitalt.",
+  "DIA_Badulf_Potion_03_03": "De a következőért fizetned kell. A kolostorunknak pénzre van szüksége, hogy segíthessen a nincsteleneknek.",
+  "DIA_Badulf_Ambient_03_01": "Meditálni próbálok. Ne zavarj!",
+  "DIA_Badulf_Ambient_03_02": "Már mondtam, hogy nem engedhetlek át!",
+  "DIA_Badulf_Ambient_03_03": "Ha azt hiszed, ki tudsz hozni az egyensúlyból, akkor tévedsz."
+}

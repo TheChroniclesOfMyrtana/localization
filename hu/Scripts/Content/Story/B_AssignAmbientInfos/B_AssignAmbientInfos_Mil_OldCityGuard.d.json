@@ -1,0 +1,21 @@
+﻿{
+  "DIA_OldCityGuard_FirstWarn_03_01": "Hékás, hová mész?",
+  "DIA_OldCityGuard_FirstWarn_15_02": "Oda át.",
+  "DIA_OldCityGuard_FirstWarn_03_03": "A hírneved megelőz téged! Menj Roderichhez és tisztázzátok a dolgokat.",
+  "DIA_OldCityGuard_FirstWarn_03_04": "Addig nincs átjárás.",
+  "DIA_OldCityGuard_FirstWarn_03_07": "Elnézést, a szabályok szerint csak azoknak az őröknek van engedélyük a belépésre az óvárosba, akik ezt a negyedet őrzik.",
+  "DIA_OldCityGuard_FirstWarn_03_11": "Nincs átjárás!",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_01": "Nem tudtam hogy engedélyre lesz szükségem hozzá.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_02": "Azt hiszed akárkit csak átengedek? Esély sincs, haver.",
+  "DIA_OldCityGuard_FirstWarn_Pass_15_03": "Honnan szerezhetek egy olyan dokumentumot?",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_04": "Egy háznak kell a birtokodban lennie az óvárosban, vagy bejutási engedélyt kell szerezned valakitől a városi tanácsból.",
+  "DIA_OldCityGuard_FirstWarn_Pass_03_05": "Merem állítani, hogy neked egyik sincs meg azok közül.",
+  "DIA_OldCityGuard_FirstWarn_Why_15_01": "Miért nem?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_02": "Én végül is a város polgára vagyok.",
+  "DIA_OldCityGuard_FirstWarn_Why_03_03": "És van igazolvány nálad?",
+  "DIA_OldCityGuard_FirstWarn_Why_15_04": "Milyen igazolványról beszélsz?",
+  "DIA_OldCityGuard_FirstWarn_Why_03_05": "Igazolvány, ami engedélyezi a belépést az óvárosba.",
+  "DIA_OldCityGuard_SecondWarn_03_01": "Mondtam valamit! Mit nem értettél meg?",
+  "DIA_OldCityGuard_LastWarn_03_01": "Te akartad!",
+  "DIA_OldCityGuard_FirstWarn_15_06": "Nem bánod, ugye? Én egy Városőr vagyok."
+}

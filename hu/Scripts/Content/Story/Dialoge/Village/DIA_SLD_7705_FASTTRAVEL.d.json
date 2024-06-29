@@ -1,0 +1,23 @@
+﻿{
+  "DIA_FASTTRAVEL_Q201_Refused_03_01": "Üres kézzel küldtek, ugye?",
+  "DIA_FASTTRAVEL_Q201_Refused_15_02": "Úgy tűnik, hogy valami engedélyre lenne szükségem.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_03": "Igen, a szabályokat szigorították mostanában. Ha nem vagy polgár, akkor megfelelő dokumentum nélkül nem engednek be.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_04": "Szerencsés vagy viszont, mert én segíthetek a bejutásban.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_05": "Silbachba megyek, és ott a faluvéntől tudsz ilyet szerezni.",
+  "DIA_FASTTRAVEL_Q201_Refused_03_06": "Szívesen elviszlek oda.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_15_01": "És milyen üzleti lehetőséget látsz ebben?",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_02": "Mint a Kereskedő Céh képviselője, hasonlóan a szigeten szétszórtan lévő kollégáimhoz, kíséretet szolgálok a szigeten.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_03": "Egy kevés aranyért cserében minden fontosabb helyre el tudlak vinni a szigeten.",
+  "DIA_FASTTRAVEL_Q201_Refused_Buisness_03_04": "És mivel amúgy is Silbach felé utazom, kedvezményes árat ajánlok neked.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_15_01": "Nincs valami más módja, hogy a városba juthassak?",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_02": "Ezt nem mondtam. Az engedély a legbiztosabb módja, de ha van egy dokumentumod arról, hogy a városba küldtek valamilyen ügylet kapcsán, akkor be kell, hogy engedjenek.",
+  "DIA_FASTTRAVEL_Q201_Refused_Another_03_03": "Persze mindig ott van a klasszikus megvesztegetés, de az nagyon kockázatos, ha nem tudod, hogy kinek mennyit fizess. A legtöbb őr a kapuknál hűséges szolga.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_15_01": "Szerinted a favágók tudnának írni nekem olyan dokumentumot?",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_02": "Nem árt megpróbálni! Ha kíséretre van szükséged, akkor boldogan elvezetlek a közeli szénégetők táborához. Onnan el tudnád érni Knutot és az embereit nagyobb gond nélkül.",
+  "DIA_FASTTRAVEL_Q201_Refused_Woodcutters_03_03": "Az úton azonban majd meg kell állnom egy pillanatra Silbachban a Céh dolga miatt.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_Description": "Vigyél Silbachba. (10 arany)",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_15_01": "Vigyél Silbachba.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_02": "Menjünk!",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Silbach_03_03": "Fizetned kell érte.",
+  "DIA_FASTTRAVEL_Q201_FastTravel_Unlocked_03_01": "Itt vagyunk. Ha tovább szeretnél menni, akkor engem vagy valamelyik kollégámat itt fogod találni."
+}

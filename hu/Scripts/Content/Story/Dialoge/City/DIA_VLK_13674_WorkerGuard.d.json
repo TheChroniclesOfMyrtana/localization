@@ -1,0 +1,19 @@
+﻿{
+  "DIA_WorkerGuard_FIRSTWARN_03_01": "Megállni! Senki sem jöhet a ládák közelébe!",
+  "DIA_WorkerGuard_SECONDWARN_03_01": "Megsüketültél? Mondtam valamit, tűnés innen!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_01": "Engedj át, én egy kikötői munkás vagyok és szükségem lenne fára.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_02": "Mióta? Tegnap nem láttalak itt!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_03": "Nem csodálkozom. Most vettek fel.",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_04": "Milyen érdekes? Megkérdezem Dackot, hogy igaz-e!",
+  "DIA_WorkerGuard_KQ406_LetMeIn_15_05": "Mi a problémád?",
+  "DIA_WorkerGuard_KQ406_LetMeIn_03_06": "Óh, semmi! Szerintem settenkedsz valamiben!",
+  "DIA_WorkerGuard_KQ406_OfferMoney_Description": "Talán ez enyhítene a kételkedéseden? (Fizess 100 aranyat)",
+  "DIA_WorkerGuard_KQ406_OfferMoney_15_01": "Talán ez enyhítene a kételkedéseden?",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_02": "Meglehet. Egészen addig, amíg hozzáadsz egy sört is.",
+  "DIA_WorkerGuard_KQ406_OfferMoney_03_03": "Ötleted sincs, hogy mióta állok itt. Még a barátjuknak se adnak egy sört.",
+  "DIA_WorkerGuard_KQ406_Give_Description": "Fogd a söröd. (Adj egy sört és 100 aranyat)",
+  "DIA_WorkerGuard_KQ406_Give_15_01": "Fogd a söröd.",
+  "DIA_WorkerGuard_KQ406_Give_03_02": "Nos, pont ez kellett nekem.",
+  "DIA_WorkerGuard_KQ406_Give_03_03": "Fogd a fát és menj vissza dolgozni. A hajók nem fogják megépíteni magukat.",
+  "DIA_WorkerGuard_KQ406_Give_03_04": "Gondolom elfelejtetted magaddal vinni."
+}

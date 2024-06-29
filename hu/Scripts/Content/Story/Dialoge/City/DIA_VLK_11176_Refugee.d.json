@@ -1,0 +1,23 @@
+﻿{
+  "DIA_WNRefugee_HELLO_03_01": "Sajnálom, ez olyan kínos!",
+  "DIA_WNRefugee_HELLO_03_02": "Egy nagyon nehéz helyzetben vagyok és kéne a segítség!",
+  "DIA_WNRefugee_HELLO_15_03": "Mi az?",
+  "DIA_WNRefugee_HELLO_03_04": "Azt akartam megkérdezni, hogy kölcsön tudnál-e adni 50 aranyat?",
+  "DIA_WNRefugee_HELLO_03_05": "Nem vagyok potyautas meg pióca, csak amint beléptem a városba kiraboltak.",
+  "DIA_WNRefugee_HELLO_03_06": "Ha segítesz nekem akkor megígérem, hogy visszafizetem az aranyat. Természetesen azután, hogy találtam egy munkát.",
+  "DIA_WNRefugee_FuckOff_15_01": "Nem hiszek neked és nem adok neked semmit sem.",
+  "DIA_WNRefugee_FuckOff_03_02": "Te szörnyeteg!",
+  "DIA_WNRefugee_FuckOff_03_03": "Bárcsak nálam is rosszabb helyzetbe kerülnél!",
+  "DIA_WNRefugee_IsNice_15_01": "Tessék.",
+  "DIA_WNRefugee_IsNice_03_02": "Nézzenek oda, mégiscsak vannak jólelkű emberek ebben a városban.",
+  "DIA_WNRefugee_IsNice_03_03": "Amint találok munkát visszaadom az aranyat! Esküszöm!",
+  "DIA_WNRefugee_GetLost_03_01": "Menj és zaklass valaki mást, te szívtelen teremtés!",
+  "DIA_WNRefugee_ComeLater_03_01": "Amint pénzt szerzek visszaadom az aranyadat.",
+  "DIA_WNRefugee_YourGold_03_01": "Gondolom már feladtad a reményt, hogy visszaszerzed azt az aranyat.",
+  "DIA_WNRefugee_YourGold_03_02": "De segítettél amikor rászorultam, és én betartom a szavam!",
+  "DIA_WNRefugee_YourGold_03_03": "Itt van a pénzed. És egy kis kamat, ahogy ígértem!",
+  "DIA_WNRefugee_YourGold_15_04": "Köszönöm a becsületességedet!",
+  "DIA_WNRefugee_YourGold_03_05": "Vigyázz magadra!",
+  "DIA_WNRefugee_Afterparty_03_01": "Köszönöm még egyszer, hogy megbíztál bennem!",
+  "DIA_WNRefugee_IsNice_Choice": "Tessék. (Adj 50 aranyat)"
+}
